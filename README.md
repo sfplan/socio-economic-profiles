@@ -2,6 +2,8 @@
 
 This code creates the socio-economic profile data for the San Francisco Planning Department's Neighborhood Socio-Economic Profiles. Socio-economic profiles data is derived from the American Community Survey 5-year data and is created annually by the Planning Department. Tract level socio-economic data is combined at the neighborhood and district level for the City of San Francisco. This code is based off methods created by Michael Webster and others. Launch the Jupyter Notebook to calculate socio-economic profiles data, visualize results, and download.  
 
+<iframe allow="geolocation" src="https://data.sfgov.org/dataset/Analysis-Neighborhoods/p5b7-5n3h/embed?width=800&height=600" width="800" height="600" style="border:0; padding: 0; margin: 0;"></iframe>
+
 ## Installation
 
 Set up a [Python virtual environment](https://docs.python.org/3/library/venv.html) and activate
