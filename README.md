@@ -28,8 +28,10 @@ jupyter notebook
 ```
 
 ## Files
-- /build_socioeconomic_profiles.ipynb: Python Notebook for calculating socio-economic profiles
+- /build_socioeconomic_profiles - dec and acs.ipynb: Python Notebook for calculating socio-economic profiles (historical to present)
 - /Data_Items_And_Sources_2019.xlsx: Excel file containing attribute calculations that profile calculations are based on
-- /attribute_lookup.csv: Lookup table with attribute categories, attributes names and attribute IDs for all attributes needed to calculate the profile data
-- /geo_lookup.csv: Lookup table with neighborhood, supervisor district, and city name for each tract in San Francisco.  
-- /median_lookup.csv: Lookup table needed for calculating medians. Contains name, id, range_start, and range_end for median calcs. 
+- /attribute_lookup - master - include dec.csv: Lookup table with attribute categories, attributes names and attribute IDs for all attributes needed to calculate the profile data. Includes definition of how to calculate (median, as is, weighted average, or other)
+- /geo_lookup_2000to2020.csv: Lookup table with neighborhood for each tract in San Francisco for 2000, 2010, and 2020. Census tracts are subject to change every 10 years.  
+- /acs_median_lookup.csv: Lookup table needed for calculating medians. Contains name, id, range_start, and range_end for median calcs. (ACS)
+- /sf3_median_lookup.csv: Lookup table needed for calculating medians. Contains name, id, range_start, and range_end for median calcs. (DEC, Summary Files 3 Table (SF3))
+
