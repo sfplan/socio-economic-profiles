@@ -1,1285 +1,1381 @@
 ﻿tractid,neighborhood,year
-10100,North Beach,2000
-10100,San Francisco,2000
-10200,Russian Hill,2000
-10200,San Francisco,2000
-10300,Russian Hill,2000
-10300,San Francisco,2000
-10400,North Beach,2000
-10400,San Francisco,2000
-10500,Financial District/South Beach,2000
-10500,San Francisco,2000
-10600,North Beach,2000
-10600,San Francisco,2000
-10700,Chinatown,2000
-10700,San Francisco,2000
-10800,Nob Hill,2000
-10800,San Francisco,2000
-10900,Russian Hill,2000
-10900,San Francisco,2000
-11000,Russian Hill,2000
-11000,San Francisco,2000
-11100,Nob Hill,2000
-11100,San Francisco,2000
-11200,Nob Hill,2000
-11200,San Francisco,2000
-11300,Chinatown,2000
-11300,San Francisco,2000
-11400,Chinatown,2000
-11400,San Francisco,2000
-11500,Chinatown,2000
-11500,San Francisco,2000
-11700,Financial District/South Beach,2000
-11700,San Francisco,2000
-11800,Chinatown,2000
-11800,San Francisco,2000
-11900,Nob Hill,2000
-11900,San Francisco,2000
-12000,Nob Hill,2000
-12000,San Francisco,2000
-12100,Nob Hill,2000
-12100,San Francisco,2000
-12200,Tenderloin,2000
-12200,San Francisco,2000
-12300,Tenderloin,2000
-12300,San Francisco,2000
-12400,Tenderloin,2000
-12400,San Francisco,2000
-12500,Tenderloin,2000
-12500,San Francisco,2000
-12600,Marina,2000
-12600,San Francisco,2000
-12700,Marina,2000
-12700,San Francisco,2000
-12800,Marina,2000
-12800,San Francisco,2000
-12900,Marina,2000
-12900,San Francisco,2000
-13000,Marina,2000
-13000,San Francisco,2000
-13100,Pacific Heights,2000
-13100,San Francisco,2000
-13200,Pacific Heights,2000
-13200,San Francisco,2000
-13300,Presidio Heights,2000
-13300,San Francisco,2000
-13400,Pacific Heights,2000
-13400,San Francisco,2000
-13500,Pacific Heights,2000
-13500,San Francisco,2000
-15100,Western Addition,2000
-15100,Western Addition/Fillmore Community Boundary,2000
-15100,San Francisco,2000
-15200,Pacific Heights,2000
-15200,Western Addition/Fillmore Community Boundary,2000
-15200,San Francisco,2000
-15300,Pacific Heights,2000
-15300,Western Addition/Fillmore Community Boundary,2000
-15300,San Francisco,2000
-15400,Presidio Heights,2000
-15400,Western Addition/Fillmore Community Boundary,2000
-15400,San Francisco,2000
-15500,Japantown,2000
-15500,Western Addition/Fillmore Community Boundary,2000
-15500,San Francisco,2000
-15600,Lone Mountain/USF,2000
-15600,San Francisco,2000
-15700,Lone Mountain/USF,2000
-15700,Western Addition/Fillmore Community Boundary,2000
-15700,San Francisco,2000
-15800,Western Addition,2000
-15800,Western Addition/Fillmore Community Boundary,2000
-15800,San Francisco,2000
-15900,Western Addition,2000
-15900,Western Addition/Fillmore Community Boundary,2000
-15900,San Francisco,2000
-16000,Western Addition,2000
-16000,Western Addition/Fillmore Community Boundary,2000
-16000,San Francisco,2000
-16100,Western Addition,2000
-16100,Western Addition/Fillmore Community Boundary,2000
-16100,San Francisco,2000
-16200,Hayes Valley,2000
-16200,Western Addition/Fillmore Community Boundary,2000
-16200,San Francisco,2000
-16300,Hayes Valley,2000
-16300,Western Addition/Fillmore Community Boundary,2000
-16300,San Francisco,2000
-16400,Hayes Valley,2000
-16400,Western Addition/Fillmore Community Boundary,2000
-16400,San Francisco,2000
-16500,Lone Mountain/USF,2000
-16500,Western Addition/Fillmore Community Boundary,2000
-16500,San Francisco,2000
-16600,Haight Ashbury,2000
-16600,San Francisco,2000
-16700,Haight Ashbury,2000
-16700,Western Addition/Fillmore Community Boundary,2000
-16700,San Francisco,2000
-16800,Hayes Valley,2000
-16800,Western Addition/Fillmore Community Boundary,2000
-16800,San Francisco,2000
-16900,Castro/Upper Market,2000
-16900,San Francisco,2000
-17000,Castro/Upper Market,2000
-17000,San Francisco,2000
-17100,Haight Ashbury,2000
-17100,San Francisco,2000
-17601,South of Market,2000
-17601,San Francisco,2000
-17602,Financial District/South Beach,2000
-17602,San Francisco,2000
-17700,Mission,2000
-17700,San Francisco,2000
-17800,South of Market,2000
-17800,San Francisco,2000
-17901,Financial District/South Beach,2000
-17901,San Francisco,2000
-17902,Treasure Island,2000
-17902,San Francisco,2000
-18000,South of Market,2000
-18000,San Francisco,2000
-20100,Mission,2000
-20100,San Francisco,2000
-20200,Mission,2000
-20200,San Francisco,2000
-20300,Castro/Upper Market,2000
-20300,San Francisco,2000
-20400,Twin Peaks,2000
-20400,San Francisco,2000
-20500,Castro/Upper Market,2000
-20500,San Francisco,2000
-20600,Castro/Upper Market,2000
-20600,San Francisco,2000
-20700,Mission,2000
-20700,San Francisco,2000
-20800,Mission,2000
-20800,San Francisco,2000
-20900,Mission,2000
-20900,San Francisco,2000
-21000,Mission,2000
-21000,San Francisco,2000
-21100,Noe Valley,2000
-21100,San Francisco,2000
-21200,Noe Valley,2000
-21200,San Francisco,2000
-21300,Noe Valley,2000
-21300,San Francisco,2000
-21400,Noe Valley,2000
-21400,San Francisco,2000
-21500,Noe Valley,2000
-21500,San Francisco,2000
-21600,Noe Valley,2000
-21600,San Francisco,2000
-21700,Glen Park,2000
-21700,San Francisco,2000
-21800,Glen Park,2000
-21800,San Francisco,2000
-22600,Potrero Hill,2000
-22600,San Francisco,2000
-22701,Potrero Hill,2000
-22701,San Francisco,2000
-22702,Potrero Hill,2000
-22702,San Francisco,2000
-22703,Potrero Hill,2000
-22703,San Francisco,2000
-22801,Mission,2000
-22801,San Francisco,2000
-22802,Mission,2000
-22802,San Francisco,2000
-22803,Mission,2000
-22803,San Francisco,2000
-22901,Mission,2000
-22901,San Francisco,2000
-22902,Mission,2000
-22902,San Francisco,2000
-22903,Mission,2000
-22903,San Francisco,2000
+22600,Bayview - District 10,2000
+22701,Bayview - District 10,2000
+22702,Bayview - District 10,2000
+22703,Bayview - District 10,2000
+22802,Bayview - District 10,2000
+23001,Bayview - District 10,2000
+23002,Bayview - District 10,2000
+23003,Bayview - District 10,2000
+23101,Bayview - District 10,2000
+23102,Bayview - District 10,2000
+23103,Bayview - District 10,2000
+23200,Bayview - District 10,2000
+23300,Bayview - District 10,2000
+23400,Bayview - District 10,2000
+25800,Bayview - District 10,2000
+25900,Bayview - District 10,2000
+26401,Bayview - District 10,2000
+26402,Bayview - District 10,2000
+26403,Bayview - District 10,2000
+26404,Bayview - District 10,2000
+60501,Bayview - District 10,2000
+60502,Bayview - District 10,2000
+60600,Bayview - District 10,2000
+60900,Bayview - District 10,2000
+61000,Bayview - District 10,2000
+22600,Bayview - District 10,2010
+22702,Bayview - District 10,2010
+22704,Bayview - District 10,2010
+22802,Bayview - District 10,2010
+23001,Bayview - District 10,2010
+23003,Bayview - District 10,2010
+23102,Bayview - District 10,2010
+23103,Bayview - District 10,2010
+23200,Bayview - District 10,2010
+23300,Bayview - District 10,2010
+23400,Bayview - District 10,2010
+25800,Bayview - District 10,2010
+25900,Bayview - District 10,2010
+26401,Bayview - District 10,2010
+26402,Bayview - District 10,2010
+26403,Bayview - District 10,2010
+26404,Bayview - District 10,2010
+60502,Bayview - District 10,2010
+61000,Bayview - District 10,2010
+61200,Bayview - District 10,2010
+61400,Bayview - District 10,2010
+980501,Bayview - District 10,2010
+980600,Bayview - District 10,2010
+980900,Bayview - District 10,2010
+22600,Bayview - District 10,2020
+22702,Bayview - District 10,2020
+22704,Bayview - District 10,2020
+22802,Bayview - District 10,2020
+23001,Bayview - District 10,2020
+23003,Bayview - District 10,2020
+23102,Bayview - District 10,2020
+23103,Bayview - District 10,2020
+23200,Bayview - District 10,2020
+23300,Bayview - District 10,2020
+23400,Bayview - District 10,2020
+25800,Bayview - District 10,2020
+25900,Bayview - District 10,2020
+26401,Bayview - District 10,2020
+26402,Bayview - District 10,2020
+26403,Bayview - District 10,2020
+26404,Bayview - District 10,2020
+60502,Bayview - District 10,2020
+61000,Bayview - District 10,2020
+61200,Bayview - District 10,2020
+61401,Bayview - District 10,2020
+61402,Bayview - District 10,2020
+980501,Bayview - District 10,2020
+980600,Bayview - District 10,2020
+980900,Bayview - District 10,2020
 23001,Bayview Hunters Point,2000
-23001,San Francisco,2000
 23002,Bayview Hunters Point,2000
-23002,San Francisco,2000
 23003,Bayview Hunters Point,2000
-23003,San Francisco,2000
 23101,Bayview Hunters Point,2000
-23101,San Francisco,2000
 23102,Bayview Hunters Point,2000
-23102,San Francisco,2000
 23103,Bayview Hunters Point,2000
-23103,San Francisco,2000
 23200,Bayview Hunters Point,2000
-23200,San Francisco,2000
 23300,Bayview Hunters Point,2000
-23300,San Francisco,2000
 23400,Bayview Hunters Point,2000
-23400,San Francisco,2000
-25100,Bernal Heights,2000
-25100,San Francisco,2000
-25200,Bernal Heights,2000
-25200,San Francisco,2000
-25300,Bernal Heights,2000
-25300,San Francisco,2000
-25401,Bernal Heights,2000
-25401,San Francisco,2000
-25402,Bernal Heights,2000
-25402,San Francisco,2000
-25403,Bernal Heights,2000
-25403,San Francisco,2000
-25500,Outer Mission,2000
-25500,San Francisco,2000
-25600,Excelsior,2000
-25600,San Francisco,2000
-25700,Portola,2000
-25700,San Francisco,2000
-25800,Portola,2000
-25800,San Francisco,2000
-25900,Portola,2000
-25900,San Francisco,2000
-26001,Excelsior,2000
-26001,San Francisco,2000
-26002,Excelsior,2000
-26002,San Francisco,2000
-26003,Excelsior,2000
-26003,San Francisco,2000
-26004,Excelsior,2000
-26004,San Francisco,2000
-26100,Outer Mission,2000
-26100,San Francisco,2000
-26200,Outer Mission,2000
-26200,San Francisco,2000
-26301,Excelsior,2000
-26301,San Francisco,2000
-26302,Excelsior,2000
-26302,San Francisco,2000
-26303,Excelsior,2000
-26303,San Francisco,2000
-26401,Visitacion Valley,2000
-26401,San Francisco,2000
-26402,Visitacion Valley,2000
-26402,San Francisco,2000
-26403,Visitacion Valley,2000
-26403,San Francisco,2000
-26404,Visitacion Valley,2000
-26404,San Francisco,2000
-30101,Inner Sunset,2000
-30101,San Francisco,2000
-30102,Inner Sunset,2000
-30102,San Francisco,2000
-30201,Inner Sunset,2000
-30201,San Francisco,2000
-30202,Inner Sunset,2000
-30202,San Francisco,2000
-30301,Inner Sunset,2000
-30301,San Francisco,2000
-30302,Inner Sunset,2000
-30302,San Francisco,2000
-30400,West of Twin Peaks,2000
-30400,San Francisco,2000
-30500,Twin Peaks,2000
-30500,San Francisco,2000
-30600,West of Twin Peaks,2000
-30600,San Francisco,2000
-30700,West of Twin Peaks,2000
-30700,San Francisco,2000
-30800,West of Twin Peaks,2000
-30800,San Francisco,2000
-30900,West of Twin Peaks,2000
-30900,San Francisco,2000
-31000,West of Twin Peaks,2000
-31000,San Francisco,2000
-31100,West of Twin Peaks,2000
-31100,San Francisco,2000
-31200,Oceanview/Merced/Ingleside,2000
-31200,San Francisco,2000
-31300,Oceanview/Merced/Ingleside,2000
-31300,San Francisco,2000
-31400,Oceanview/Merced/Ingleside,2000
-31400,San Francisco,2000
-32600,Sunset/Parkside,2000
-32600,San Francisco,2000
-32700,Sunset/Parkside,2000
-32700,San Francisco,2000
-32800,Sunset/Parkside,2000
-32800,San Francisco,2000
-32900,Sunset/Parkside,2000
-32900,San Francisco,2000
-33000,Sunset/Parkside,2000
-33000,San Francisco,2000
-33100,Sunset/Parkside,2000
-33100,San Francisco,2000
-33201,Lakeshore,2000
-33201,San Francisco,2000
-33202,Lakeshore,2000
-33202,San Francisco,2000
-35100,Sunset/Parkside,2000
-35100,San Francisco,2000
-35201,Sunset/Parkside,2000
-35201,San Francisco,2000
-35202,Sunset/Parkside,2000
-35202,San Francisco,2000
-35300,Sunset/Parkside,2000
-35300,San Francisco,2000
-35400,Sunset/Parkside,2000
-35400,San Francisco,2000
-40100,Inner Richmond,2000
-40100,San Francisco,2000
-40200,Inner Richmond,2000
-40200,San Francisco,2000
-42600,Outer Richmond,2000
-42600,San Francisco,2000
-42700,Outer Richmond,2000
-42700,San Francisco,2000
-42800,Seacliff,2000
-42800,San Francisco,2000
-45100,Inner Richmond,2000
-45100,San Francisco,2000
-45200,Inner Richmond,2000
-45200,San Francisco,2000
-47600,Outer Richmond,2000
-47600,San Francisco,2000
-47701,Outer Richmond,2000
-47701,San Francisco,2000
-47702,Outer Richmond,2000
-47702,San Francisco,2000
-47800,Outer Richmond,2000
-47800,San Francisco,2000
-47901,Outer Richmond,2000
-47901,San Francisco,2000
-47902,Outer Richmond,2000
-47902,San Francisco,2000
-60100,Presidio,2000
-60100,San Francisco,2000
-60200,Lincoln Park,2000
-60200,San Francisco,2000
-60300,Golden Gate Park,2000
-60300,San Francisco,2000
-60400,Lakeshore,2000
-60400,San Francisco,2000
-60501,McLaren Park,2000
-60501,San Francisco,2000
-60502,Visitacion Valley,2000
-60502,San Francisco,2000
 60600,Bayview Hunters Point,2000
-60600,San Francisco,2000
-60700,Mission Bay,2000
-60700,San Francisco,2000
 60900,Bayview Hunters Point,2000
-60900,San Francisco,2000
 61000,Bayview Hunters Point,2000
-61000,San Francisco,2000
-10100,North Beach,2010
-10100,San Francisco,2010
-10200,Russian Hill,2010
-10200,San Francisco,2010
-10300,Russian Hill,2010
-10300,San Francisco,2010
-10400,North Beach,2010
-10400,San Francisco,2010
-10500,Financial District/South Beach,2010
-10500,San Francisco,2010
-10600,North Beach,2010
-10600,San Francisco,2010
-10700,Chinatown,2010
-10700,San Francisco,2010
-10800,Nob Hill,2010
-10800,San Francisco,2010
-10900,Russian Hill,2010
-10900,San Francisco,2010
-11000,Russian Hill,2010
-11000,San Francisco,2010
-11100,Nob Hill,2010
-11100,San Francisco,2010
-11200,Nob Hill,2010
-11200,San Francisco,2010
-11300,Chinatown,2010
-11300,San Francisco,2010
-11700,Financial District/South Beach,2010
-11700,San Francisco,2010
-11800,Chinatown,2010
-11800,San Francisco,2010
-11901,Nob Hill,2010
-11901,San Francisco,2010
-11902,Nob Hill,2010
-11902,San Francisco,2010
-12000,Nob Hill,2010
-12000,San Francisco,2010
-12100,Nob Hill,2010
-12100,San Francisco,2010
-12201,Tenderloin,2010
-12201,San Francisco,2010
-12202,Tenderloin,2010
-12202,San Francisco,2010
-12301,Tenderloin,2010
-12301,San Francisco,2010
-12302,Tenderloin,2010
-12302,San Francisco,2010
-12401,Tenderloin,2010
-12401,San Francisco,2010
-12402,Tenderloin,2010
-12402,San Francisco,2010
-12501,Tenderloin,2010
-12501,San Francisco,2010
-12502,Tenderloin,2010
-12502,San Francisco,2010
-12601,Marina,2010
-12601,San Francisco,2010
-12602,Marina,2010
-12602,San Francisco,2010
-12700,Marina,2010
-12700,San Francisco,2010
-12800,Marina,2010
-12800,San Francisco,2010
-12901,Marina,2010
-12901,San Francisco,2010
-12902,Marina,2010
-12902,San Francisco,2010
-13000,Marina,2010
-13000,San Francisco,2010
-13101,Pacific Heights,2010
-13101,San Francisco,2010
-13102,Pacific Heights,2010
-13102,San Francisco,2010
-13200,Pacific Heights,2010
-13200,San Francisco,2010
-13300,Presidio Heights,2010
-13300,San Francisco,2010
-13400,Pacific Heights,2010
-13400,San Francisco,2010
-13500,Pacific Heights,2010
-13500,San Francisco,2010
-15100,Western Addition,2010
-15100,Western Addition/Fillmore Community Boundary,2010
-15100,San Francisco,2010
-15200,Pacific Heights,2010
-15200,Western Addition/Fillmore Community Boundary,2010
-15200,San Francisco,2010
-15300,Pacific Heights,2010
-15300,Western Addition/Fillmore Community Boundary,2010
-15300,San Francisco,2010
-15400,Presidio Heights,2010
-15400,Western Addition/Fillmore Community Boundary,2010
-15400,San Francisco,2010
-15500,Japantown,2010
-15500,Western Addition/Fillmore Community Boundary,2010
-15500,San Francisco,2010
-15600,Lone Mountain/USF,2010
-15600,San Francisco,2010
-15700,Lone Mountain/USF,2010
-15700,Western Addition/Fillmore Community Boundary,2010
-15700,San Francisco,2010
-15801,Western Addition,2010
-15801,Western Addition/Fillmore Community Boundary,2010
-15801,San Francisco,2010
-15802,Western Addition,2010
-15802,Western Addition/Fillmore Community Boundary,2010
-15802,San Francisco,2010
-15900,Western Addition,2010
-15900,Western Addition/Fillmore Community Boundary,2010
-15900,San Francisco,2010
-16000,Western Addition,2010
-16000,Western Addition/Fillmore Community Boundary,2010
-16000,San Francisco,2010
-16100,Western Addition,2010
-16100,Western Addition/Fillmore Community Boundary,2010
-16100,San Francisco,2010
-16200,Hayes Valley,2010
-16200,Western Addition/Fillmore Community Boundary,2010
-16200,San Francisco,2010
-16300,Hayes Valley,2010
-16300,Western Addition/Fillmore Community Boundary,2010
-16300,San Francisco,2010
-16400,Hayes Valley,2010
-16400,Western Addition/Fillmore Community Boundary,2010
-16400,San Francisco,2010
-16500,Lone Mountain/USF,2010
-16500,Western Addition/Fillmore Community Boundary,2010
-16500,San Francisco,2010
-16600,Haight Ashbury,2010
-16600,San Francisco,2010
-16700,Haight Ashbury,2010
-16700,Western Addition/Fillmore Community Boundary,2010
-16700,San Francisco,2010
-16801,Hayes Valley,2010
-16801,Western Addition/Fillmore Community Boundary,2010
-16801,San Francisco,2010
-16802,Hayes Valley,2010
-16802,Western Addition/Fillmore Community Boundary,2010
-16802,San Francisco,2010
-16900,Castro/Upper Market,2010
-16900,San Francisco,2010
-17000,Castro/Upper Market,2010
-17000,San Francisco,2010
-17101,Haight Ashbury,2010
-17101,San Francisco,2010
-17102,Haight Ashbury,2010
-17102,San Francisco,2010
-17601,South of Market,2010
-17601,San Francisco,2010
-17700,Mission,2010
-17700,San Francisco,2010
-17801,South of Market,2010
-17801,San Francisco,2010
-17802,South of Market,2010
-17802,San Francisco,2010
-17902,Treasure Island,2010
-17902,San Francisco,2010
-18000,South of Market,2010
-18000,San Francisco,2010
-20100,Mission,2010
-20100,San Francisco,2010
-20200,Mission,2010
-20200,San Francisco,2010
-20300,Castro/Upper Market,2010
-20300,San Francisco,2010
-20401,Castro/Upper Market,2010
-20401,San Francisco,2010
-20402,Twin Peaks,2010
-20402,San Francisco,2010
-20500,Castro/Upper Market,2010
-20500,San Francisco,2010
-20600,Castro/Upper Market,2010
-20600,San Francisco,2010
-20700,Mission,2010
-20700,San Francisco,2010
-20800,Mission,2010
-20800,San Francisco,2010
-20900,Mission,2010
-20900,San Francisco,2010
-21000,Mission,2010
-21000,San Francisco,2010
-21100,Noe Valley,2010
-21100,San Francisco,2010
-21200,Noe Valley,2010
-21200,San Francisco,2010
-21300,Noe Valley,2010
-21300,San Francisco,2010
-21400,Noe Valley,2010
-21400,San Francisco,2010
-21500,Noe Valley,2010
-21500,San Francisco,2010
-21600,Noe Valley,2010
-21600,San Francisco,2010
-21700,Glen Park,2010
-21700,San Francisco,2010
-21800,Glen Park,2010
-21800,San Francisco,2010
-22600,Potrero Hill,2010
-22600,San Francisco,2010
-22702,Potrero Hill,2010
-22702,San Francisco,2010
-22704,Potrero Hill,2010
-22704,San Francisco,2010
-22801,Mission,2010
-22801,San Francisco,2010
-22802,Mission,2010
-22802,San Francisco,2010
-22803,Mission,2010
-22803,San Francisco,2010
-22901,Mission,2010
-22901,San Francisco,2010
-22902,Mission,2010
-22902,San Francisco,2010
-22903,Mission,2010
-22903,San Francisco,2010
 23001,Bayview Hunters Point,2010
-23001,San Francisco,2010
 23003,Bayview Hunters Point,2010
-23003,San Francisco,2010
 23102,Bayview Hunters Point,2010
-23102,San Francisco,2010
 23103,Bayview Hunters Point,2010
-23103,San Francisco,2010
 23200,Bayview Hunters Point,2010
-23200,San Francisco,2010
 23300,Bayview Hunters Point,2010
-23300,San Francisco,2010
 23400,Bayview Hunters Point,2010
-23400,San Francisco,2010
-25100,Bernal Heights,2010
-25100,San Francisco,2010
-25200,Bernal Heights,2010
-25200,San Francisco,2010
-25300,Bernal Heights,2010
-25300,San Francisco,2010
-25401,Bernal Heights,2010
-25401,San Francisco,2010
-25402,Bernal Heights,2010
-25402,San Francisco,2010
-25403,Bernal Heights,2010
-25403,San Francisco,2010
-25500,Outer Mission,2010
-25500,San Francisco,2010
-25600,Excelsior,2010
-25600,San Francisco,2010
-25701,Portola,2010
-25701,San Francisco,2010
-25702,Portola,2010
-25702,San Francisco,2010
-25800,Portola,2010
-25800,San Francisco,2010
-25900,Portola,2010
-25900,San Francisco,2010
-26001,Excelsior,2010
-26001,San Francisco,2010
-26002,Excelsior,2010
-26002,San Francisco,2010
-26003,Excelsior,2010
-26003,San Francisco,2010
-26004,Excelsior,2010
-26004,San Francisco,2010
-26100,Outer Mission,2010
-26100,San Francisco,2010
-26200,Outer Mission,2010
-26200,San Francisco,2010
-26301,Excelsior,2010
-26301,San Francisco,2010
-26302,Excelsior,2010
-26302,San Francisco,2010
-26303,Excelsior,2010
-26303,San Francisco,2010
-26401,Visitacion Valley,2010
-26401,San Francisco,2010
-26402,Visitacion Valley,2010
-26402,San Francisco,2010
-26403,Visitacion Valley,2010
-26403,San Francisco,2010
-26404,Visitacion Valley,2010
-26404,San Francisco,2010
-30101,Inner Sunset,2010
-30101,San Francisco,2010
-30102,Inner Sunset,2010
-30102,San Francisco,2010
-30201,Inner Sunset,2010
-30201,San Francisco,2010
-30202,Inner Sunset,2010
-30202,San Francisco,2010
-30301,Inner Sunset,2010
-30301,San Francisco,2010
-30302,Inner Sunset,2010
-30302,San Francisco,2010
-30400,West of Twin Peaks,2010
-30400,San Francisco,2010
-30500,Twin Peaks,2010
-30500,San Francisco,2010
-30600,West of Twin Peaks,2010
-30600,San Francisco,2010
-30700,West of Twin Peaks,2010
-30700,San Francisco,2010
-30800,West of Twin Peaks,2010
-30800,San Francisco,2010
-30900,West of Twin Peaks,2010
-30900,San Francisco,2010
-31000,West of Twin Peaks,2010
-31000,San Francisco,2010
-31100,West of Twin Peaks,2010
-31100,San Francisco,2010
-31201,Oceanview/Merced/Ingleside,2010
-31201,San Francisco,2010
-31202,Oceanview/Merced/Ingleside,2010
-31202,San Francisco,2010
-31301,Oceanview/Merced/Ingleside,2010
-31301,San Francisco,2010
-31302,Oceanview/Merced/Ingleside,2010
-31302,San Francisco,2010
-31400,Oceanview/Merced/Ingleside,2010
-31400,San Francisco,2010
-32601,Sunset/Parkside,2010
-32601,San Francisco,2010
-32602,Sunset/Parkside,2010
-32602,San Francisco,2010
-32700,Sunset/Parkside,2010
-32700,San Francisco,2010
-32801,Sunset/Parkside,2010
-32801,San Francisco,2010
-32802,Sunset/Parkside,2010
-32802,San Francisco,2010
-32901,Sunset/Parkside,2010
-32901,San Francisco,2010
-32902,Sunset/Parkside,2010
-32902,San Francisco,2010
-33000,Sunset/Parkside,2010
-33000,San Francisco,2010
-33100,Sunset/Parkside,2010
-33100,San Francisco,2010
-33201,Lakeshore,2010
-33201,San Francisco,2010
-33203,Lakeshore,2010
-33203,San Francisco,2010
-33204,Lakeshore,2010
-33204,San Francisco,2010
-35100,Sunset/Parkside,2010
-35100,San Francisco,2010
-35201,Sunset/Parkside,2010
-35201,San Francisco,2010
-35202,Sunset/Parkside,2010
-35202,San Francisco,2010
-35300,Sunset/Parkside,2010
-35300,San Francisco,2010
-35400,Sunset/Parkside,2010
-35400,San Francisco,2010
-40100,Inner Richmond,2010
-40100,San Francisco,2010
-40200,Inner Richmond,2010
-40200,San Francisco,2010
-42601,Outer Richmond,2010
-42601,San Francisco,2010
-42602,Outer Richmond,2010
-42602,San Francisco,2010
-42700,Outer Richmond,2010
-42700,San Francisco,2010
-42800,Seacliff,2010
-42800,San Francisco,2010
-45100,Inner Richmond,2010
-45100,San Francisco,2010
-45200,Inner Richmond,2010
-45200,San Francisco,2010
-47600,Outer Richmond,2010
-47600,San Francisco,2010
-47701,Outer Richmond,2010
-47701,San Francisco,2010
-47702,Outer Richmond,2010
-47702,San Francisco,2010
-47801,Outer Richmond,2010
-47801,San Francisco,2010
-47802,Outer Richmond,2010
-47802,San Francisco,2010
-47901,Outer Richmond,2010
-47901,San Francisco,2010
-47902,Outer Richmond,2010
-47902,San Francisco,2010
-60100,Presidio,2010
-60100,San Francisco,2010
-60400,Lakeshore,2010
-60400,San Francisco,2010
-60502,Visitacion Valley,2010
-60502,San Francisco,2010
-60700,Mission Bay,2010
-60700,San Francisco,2010
 61000,Bayview Hunters Point,2010
-61000,San Francisco,2010
-61100,Chinatown,2010
-61100,San Francisco,2010
 61200,Bayview Hunters Point,2010
-61200,San Francisco,2010
-61400,Potrero Hill,2010
-61400,San Francisco,2010
-61500,Financial District/South Beach,2010
-61500,San Francisco,2010
-980200,Lincoln Park,2010
-980200,San Francisco,2010
-980300,Golden Gate Park,2010
-980300,San Francisco,2010
-980401,Farallon Islands,2010
-980501,McLaren Park,2010
-980501,San Francisco,2010
 980600,Bayview Hunters Point,2010
-980600,San Francisco,2010
 980900,Bayview Hunters Point,2010
-980900,San Francisco,2010
-990100,Ocean Beach,2010
-10101,North Beach,2020
-10101,San Francisco,2020
-10102,North Beach,2020
-10102,San Francisco,2020
-10201,Russian Hill,2020
-10201,San Francisco,2020
-10202,Russian Hill,2020
-10202,San Francisco,2020
-10300,Russian Hill,2020
-10300,San Francisco,2020
-10401,North Beach,2020
-10401,San Francisco,2020
-10402,North Beach,2020
-10402,San Francisco,2020
-10500,Financial District,2020
-10500,San Francisco,2020
-10600,North Beach,2020
-10600,San Francisco,2020
+23001,Bayview Hunters Point,2020
+23003,Bayview Hunters Point,2020
+23102,Bayview Hunters Point,2020
+23103,Bayview Hunters Point,2020
+23200,Bayview Hunters Point,2020
+23300,Bayview Hunters Point,2020
+23400,Bayview Hunters Point,2020
+61000,Bayview Hunters Point,2020
+61200,Bayview Hunters Point,2020
+980600,Bayview Hunters Point,2020
+980900,Bayview Hunters Point,2020
+25100,Bernal Heights,2000
+25200,Bernal Heights,2000
+25300,Bernal Heights,2000
+25401,Bernal Heights,2000
+25402,Bernal Heights,2000
+25403,Bernal Heights,2000
+25100,Bernal Heights,2010
+25200,Bernal Heights,2010
+25300,Bernal Heights,2010
+25401,Bernal Heights,2010
+25402,Bernal Heights,2010
+25403,Bernal Heights,2010
+25100,Bernal Heights,2020
+25200,Bernal Heights,2020
+25300,Bernal Heights,2020
+25401,Bernal Heights,2020
+25402,Bernal Heights,2020
+25403,Bernal Heights,2020
+16900,Castro/Upper Market,2000
+17000,Castro/Upper Market,2000
+20300,Castro/Upper Market,2000
+20500,Castro/Upper Market,2000
+20600,Castro/Upper Market,2000
+16900,Castro/Upper Market,2010
+17000,Castro/Upper Market,2010
+20300,Castro/Upper Market,2010
+20401,Castro/Upper Market,2010
+20500,Castro/Upper Market,2010
+20600,Castro/Upper Market,2010
+16900,Castro/Upper Market,2020
+17000,Castro/Upper Market,2020
+20300,Castro/Upper Market,2020
+20401,Castro/Upper Market,2020
+20500,Castro/Upper Market,2020
+20601,Castro/Upper Market,2020
+20602,Castro/Upper Market,2020
+10700,Chinatown,2000
+11300,Chinatown,2000
+11400,Chinatown,2000
+11500,Chinatown,2000
+11800,Chinatown,2000
+10700,Chinatown,2010
+11300,Chinatown,2010
+11800,Chinatown,2010
+61100,Chinatown,2010
 10701,Chinatown,2020
-10701,San Francisco,2020
 10702,Chinatown,2020
-10702,San Francisco,2020
-10800,Nob Hill,2020
-10800,San Francisco,2020
-10901,Russian Hill,2020
-10901,San Francisco,2020
-10902,Russian Hill,2020
-10902,San Francisco,2020
-11001,Russian Hill,2020
-11001,San Francisco,2020
-11002,Russian Hill,2020
-11002,San Francisco,2020
-11101,Nob Hill,2020
-11101,San Francisco,2020
-11102,Nob Hill,2020
-11102,San Francisco,2020
-11200,Nob Hill,2020
-11200,San Francisco,2020
 11300,Chinatown,2020
-11300,San Francisco,2020
-11700,Financial District,2020
-11700,San Francisco,2020
 11800,Chinatown,2020
-11800,San Francisco,2020
+61101,Chinatown,2020
+61102,Chinatown,2020
+25600,Excelsior,2000
+26001,Excelsior,2000
+26002,Excelsior,2000
+26003,Excelsior,2000
+26004,Excelsior,2000
+26301,Excelsior,2000
+26302,Excelsior,2000
+26303,Excelsior,2000
+25600,Excelsior,2010
+26001,Excelsior,2010
+26002,Excelsior,2010
+26003,Excelsior,2010
+26004,Excelsior,2010
+26301,Excelsior,2010
+26302,Excelsior,2010
+26303,Excelsior,2010
+25600,Excelsior,2020
+26001,Excelsior,2020
+26002,Excelsior,2020
+26003,Excelsior,2020
+26004,Excelsior,2020
+26301,Excelsior,2020
+26302,Excelsior,2020
+26303,Excelsior,2020
+980401,Farallon Islands,2010
+980401,Farallon Islands,2020
+10500,Financial District,2020
+11700,Financial District,2020
+61501,Financial District,2020
+61502,Financial District,2020
+61503,Financial District,2020
+61504,Financial District,2020
+61505,Financial District,2020
+61506,Financial District,2020
+61507,Financial District,2020
+61508,Financial District,2020
+10500,Financial District/South Beach,2000
+11700,Financial District/South Beach,2000
+17602,Financial District/South Beach,2000
+17901,Financial District/South Beach,2000
+10500,Financial District/South Beach,2010
+11700,Financial District/South Beach,2010
+61500,Financial District/South Beach,2010
+21700,Glen Park,2000
+21800,Glen Park,2000
+21700,Glen Park,2010
+21800,Glen Park,2010
+21700,Glen Park,2020
+21800,Glen Park,2020
+60300,Golden Gate Park,2000
+980300,Golden Gate Park,2010
+980300,Golden Gate Park,2020
+16600,Haight Ashbury,2000
+16700,Haight Ashbury,2000
+17100,Haight Ashbury,2000
+16600,Haight Ashbury,2010
+16700,Haight Ashbury,2010
+17101,Haight Ashbury,2010
+17102,Haight Ashbury,2010
+16601,Haight Ashbury,2020
+16602,Haight Ashbury,2020
+16700,Haight Ashbury,2020
+17101,Haight Ashbury,2020
+17102,Haight Ashbury,2020
+16200,Hayes Valley,2000
+16300,Hayes Valley,2000
+16400,Hayes Valley,2000
+16800,Hayes Valley,2000
+16200,Hayes Valley,2010
+16300,Hayes Valley,2010
+16400,Hayes Valley,2010
+16801,Hayes Valley,2010
+16802,Hayes Valley,2010
+16200,Hayes Valley,2020
+16300,Hayes Valley,2020
+16400,Hayes Valley,2020
+16801,Hayes Valley,2020
+16802,Hayes Valley,2020
+40100,Inner Richmond,2000
+40200,Inner Richmond,2000
+45100,Inner Richmond,2000
+45200,Inner Richmond,2000
+40100,Inner Richmond,2010
+40200,Inner Richmond,2010
+45100,Inner Richmond,2010
+45200,Inner Richmond,2010
+40100,Inner Richmond,2020
+40200,Inner Richmond,2020
+45100,Inner Richmond,2020
+45201,Inner Richmond,2020
+45202,Inner Richmond,2020
+30101,Inner Sunset,2000
+30102,Inner Sunset,2000
+30201,Inner Sunset,2000
+30202,Inner Sunset,2000
+30301,Inner Sunset,2000
+30302,Inner Sunset,2000
+30101,Inner Sunset,2010
+30102,Inner Sunset,2010
+30201,Inner Sunset,2010
+30202,Inner Sunset,2010
+30301,Inner Sunset,2010
+30302,Inner Sunset,2010
+30101,Inner Sunset,2020
+30102,Inner Sunset,2020
+30201,Inner Sunset,2020
+30202,Inner Sunset,2020
+30301,Inner Sunset,2020
+30302,Inner Sunset,2020
+15500,Japantown,2000
+15500,Japantown,2010
+15500,Japantown,2020
+33201,Lakeshore,2000
+33202,Lakeshore,2000
+60400,Lakeshore,2000
+33201,Lakeshore,2010
+33203,Lakeshore,2010
+33204,Lakeshore,2010
+60400,Lakeshore,2010
+33201,Lakeshore,2020
+33203,Lakeshore,2020
+33204,Lakeshore,2020
+60400,Lakeshore,2020
+60200,Lincoln Park,2000
+980200,Lincoln Park,2010
+980200,Lincoln Park,2020
+15600,Lone Mountain/USF,2000
+15700,Lone Mountain/USF,2000
+16500,Lone Mountain/USF,2000
+15600,Lone Mountain/USF,2010
+15700,Lone Mountain/USF,2010
+16500,Lone Mountain/USF,2010
+15600,Lone Mountain/USF,2020
+15701,Lone Mountain/USF,2020
+15702,Lone Mountain/USF,2020
+16500,Lone Mountain/USF,2020
+12600,Marina,2000
+12700,Marina,2000
+12800,Marina,2000
+12900,Marina,2000
+13000,Marina,2000
+12601,Marina,2010
+12602,Marina,2010
+12700,Marina,2010
+12800,Marina,2010
+12901,Marina,2010
+12902,Marina,2010
+13000,Marina,2010
+12601,Marina,2020
+12602,Marina,2020
+12700,Marina,2020
+12801,Marina,2020
+12802,Marina,2020
+12901,Marina,2020
+12902,Marina,2020
+13001,Marina,2020
+13002,Marina,2020
+60501,McLaren Park,2000
+980501,McLaren Park,2010
+980501,McLaren Park,2020
+17700,Mission,2000
+20100,Mission,2000
+20200,Mission,2000
+20700,Mission,2000
+20800,Mission,2000
+20900,Mission,2000
+21000,Mission,2000
+22801,Mission,2000
+22802,Mission,2000
+22803,Mission,2000
+22901,Mission,2000
+22902,Mission,2000
+22903,Mission,2000
+17700,Mission,2010
+20100,Mission,2010
+20200,Mission,2010
+20700,Mission,2010
+20800,Mission,2010
+20900,Mission,2010
+21000,Mission,2010
+22801,Mission,2010
+22802,Mission,2010
+22803,Mission,2010
+22901,Mission,2010
+22902,Mission,2010
+22903,Mission,2010
+17700,Mission,2020
+20101,Mission,2020
+20102,Mission,2020
+20201,Mission,2020
+20202,Mission,2020
+20701,Mission,2020
+20702,Mission,2020
+20801,Mission,2020
+20802,Mission,2020
+20900,Mission,2020
+21000,Mission,2020
+22801,Mission,2020
+22802,Mission,2020
+22803,Mission,2020
+22901,Mission,2020
+22902,Mission,2020
+22903,Mission,2020
+60700,Mission Bay,2000
+60700,Mission Bay,2010
+60701,Mission Bay,2020
+60702,Mission Bay,2020
+60703,Mission Bay,2020
+10800,Nob Hill,2000
+11100,Nob Hill,2000
+11200,Nob Hill,2000
+11900,Nob Hill,2000
+12000,Nob Hill,2000
+12100,Nob Hill,2000
+10800,Nob Hill,2010
+11100,Nob Hill,2010
+11200,Nob Hill,2010
+11901,Nob Hill,2010
+11902,Nob Hill,2010
+12000,Nob Hill,2010
+12100,Nob Hill,2010
+10800,Nob Hill,2020
+11101,Nob Hill,2020
+11102,Nob Hill,2020
+11200,Nob Hill,2020
 11901,Nob Hill,2020
-11901,San Francisco,2020
 11902,Nob Hill,2020
-11902,San Francisco,2020
 12001,Nob Hill,2020
-12001,San Francisco,2020
 12002,Nob Hill,2020
-12002,San Francisco,2020
 12100,Nob Hill,2020
+21100,Noe Valley,2000
+21200,Noe Valley,2000
+21300,Noe Valley,2000
+21400,Noe Valley,2000
+21500,Noe Valley,2000
+21600,Noe Valley,2000
+21100,Noe Valley,2010
+21200,Noe Valley,2010
+21300,Noe Valley,2010
+21400,Noe Valley,2010
+21500,Noe Valley,2010
+21600,Noe Valley,2010
+21100,Noe Valley,2020
+21200,Noe Valley,2020
+21300,Noe Valley,2020
+21400,Noe Valley,2020
+21500,Noe Valley,2020
+21600,Noe Valley,2020
+10100,North Beach,2000
+10400,North Beach,2000
+10600,North Beach,2000
+10100,North Beach,2010
+10400,North Beach,2010
+10600,North Beach,2010
+10101,North Beach,2020
+10102,North Beach,2020
+10401,North Beach,2020
+10402,North Beach,2020
+10600,North Beach,2020
+990100,Ocean Beach,2010
+31200,Oceanview/Merced/Ingleside,2000
+31300,Oceanview/Merced/Ingleside,2000
+31400,Oceanview/Merced/Ingleside,2000
+31201,Oceanview/Merced/Ingleside,2010
+31202,Oceanview/Merced/Ingleside,2010
+31301,Oceanview/Merced/Ingleside,2010
+31302,Oceanview/Merced/Ingleside,2010
+31400,Oceanview/Merced/Ingleside,2010
+31201,Oceanview/Merced/Ingleside,2020
+31202,Oceanview/Merced/Ingleside,2020
+31301,Oceanview/Merced/Ingleside,2020
+31302,Oceanview/Merced/Ingleside,2020
+31401,Oceanview/Merced/Ingleside,2020
+31402,Oceanview/Merced/Ingleside,2020
+25500,Outer Mission,2000
+26100,Outer Mission,2000
+26200,Outer Mission,2000
+25500,Outer Mission,2010
+26100,Outer Mission,2010
+26200,Outer Mission,2010
+25501,Outer Mission,2020
+25502,Outer Mission,2020
+26100,Outer Mission,2020
+26201,Outer Mission,2020
+26202,Outer Mission,2020
+42600,Outer Richmond,2000
+42700,Outer Richmond,2000
+47600,Outer Richmond,2000
+47701,Outer Richmond,2000
+47702,Outer Richmond,2000
+47800,Outer Richmond,2000
+47901,Outer Richmond,2000
+47902,Outer Richmond,2000
+42601,Outer Richmond,2010
+42602,Outer Richmond,2010
+42700,Outer Richmond,2010
+47600,Outer Richmond,2010
+47701,Outer Richmond,2010
+47702,Outer Richmond,2010
+47801,Outer Richmond,2010
+47802,Outer Richmond,2010
+47901,Outer Richmond,2010
+47902,Outer Richmond,2010
+42601,Outer Richmond,2020
+42602,Outer Richmond,2020
+42700,Outer Richmond,2020
+47600,Outer Richmond,2020
+47701,Outer Richmond,2020
+47702,Outer Richmond,2020
+47801,Outer Richmond,2020
+47802,Outer Richmond,2020
+47902,Outer Richmond,2020
+47903,Outer Richmond,2020
+47904,Outer Richmond,2020
+13100,Pacific Heights,2000
+13200,Pacific Heights,2000
+13400,Pacific Heights,2000
+13500,Pacific Heights,2000
+15200,Pacific Heights,2000
+15300,Pacific Heights,2000
+13101,Pacific Heights,2010
+13102,Pacific Heights,2010
+13200,Pacific Heights,2010
+13400,Pacific Heights,2010
+13500,Pacific Heights,2010
+15200,Pacific Heights,2010
+15300,Pacific Heights,2010
+13101,Pacific Heights,2020
+13102,Pacific Heights,2020
+13200,Pacific Heights,2020
+13401,Pacific Heights,2020
+13402,Pacific Heights,2020
+13500,Pacific Heights,2020
+15201,Pacific Heights,2020
+15202,Pacific Heights,2020
+15300,Pacific Heights,2020
+25700,Portola,2000
+25800,Portola,2000
+25900,Portola,2000
+25701,Portola,2010
+25702,Portola,2010
+25800,Portola,2010
+25900,Portola,2010
+25701,Portola,2020
+25702,Portola,2020
+25800,Portola,2020
+25900,Portola,2020
+22600,Potrero Hill,2000
+22701,Potrero Hill,2000
+22702,Potrero Hill,2000
+22703,Potrero Hill,2000
+22600,Potrero Hill,2010
+22702,Potrero Hill,2010
+22704,Potrero Hill,2010
+61400,Potrero Hill,2010
+22600,Potrero Hill,2020
+22702,Potrero Hill,2020
+22704,Potrero Hill,2020
+61401,Potrero Hill,2020
+61402,Potrero Hill,2020
+60100,Presidio,2000
+60100,Presidio,2010
+60100,Presidio,2020
+13300,Presidio Heights,2000
+15400,Presidio Heights,2000
+13300,Presidio Heights,2010
+15400,Presidio Heights,2010
+13300,Presidio Heights,2020
+15401,Presidio Heights,2020
+15402,Presidio Heights,2020
+10200,Russian Hill,2000
+10300,Russian Hill,2000
+10900,Russian Hill,2000
+11000,Russian Hill,2000
+10200,Russian Hill,2010
+10300,Russian Hill,2010
+10900,Russian Hill,2010
+11000,Russian Hill,2010
+10201,Russian Hill,2020
+10202,Russian Hill,2020
+10300,Russian Hill,2020
+10901,Russian Hill,2020
+10902,Russian Hill,2020
+11001,Russian Hill,2020
+11002,Russian Hill,2020
+10100,San Francisco,2000
+10200,San Francisco,2000
+10300,San Francisco,2000
+10400,San Francisco,2000
+10500,San Francisco,2000
+10600,San Francisco,2000
+10700,San Francisco,2000
+10800,San Francisco,2000
+10900,San Francisco,2000
+11000,San Francisco,2000
+11100,San Francisco,2000
+11200,San Francisco,2000
+11300,San Francisco,2000
+11400,San Francisco,2000
+11500,San Francisco,2000
+11700,San Francisco,2000
+11800,San Francisco,2000
+11900,San Francisco,2000
+12000,San Francisco,2000
+12100,San Francisco,2000
+12200,San Francisco,2000
+12300,San Francisco,2000
+12400,San Francisco,2000
+12500,San Francisco,2000
+12600,San Francisco,2000
+12700,San Francisco,2000
+12800,San Francisco,2000
+12900,San Francisco,2000
+13000,San Francisco,2000
+13100,San Francisco,2000
+13200,San Francisco,2000
+13300,San Francisco,2000
+13400,San Francisco,2000
+13500,San Francisco,2000
+15100,San Francisco,2000
+15200,San Francisco,2000
+15300,San Francisco,2000
+15400,San Francisco,2000
+15500,San Francisco,2000
+15600,San Francisco,2000
+15700,San Francisco,2000
+15800,San Francisco,2000
+15900,San Francisco,2000
+16000,San Francisco,2000
+16100,San Francisco,2000
+16200,San Francisco,2000
+16300,San Francisco,2000
+16400,San Francisco,2000
+16500,San Francisco,2000
+16600,San Francisco,2000
+16700,San Francisco,2000
+16800,San Francisco,2000
+16900,San Francisco,2000
+17000,San Francisco,2000
+17100,San Francisco,2000
+17601,San Francisco,2000
+17602,San Francisco,2000
+17700,San Francisco,2000
+17800,San Francisco,2000
+17901,San Francisco,2000
+17902,San Francisco,2000
+18000,San Francisco,2000
+20100,San Francisco,2000
+20200,San Francisco,2000
+20300,San Francisco,2000
+20400,San Francisco,2000
+20500,San Francisco,2000
+20600,San Francisco,2000
+20700,San Francisco,2000
+20800,San Francisco,2000
+20900,San Francisco,2000
+21000,San Francisco,2000
+21100,San Francisco,2000
+21200,San Francisco,2000
+21300,San Francisco,2000
+21400,San Francisco,2000
+21500,San Francisco,2000
+21600,San Francisco,2000
+21700,San Francisco,2000
+21800,San Francisco,2000
+22600,San Francisco,2000
+22701,San Francisco,2000
+22702,San Francisco,2000
+22703,San Francisco,2000
+22801,San Francisco,2000
+22802,San Francisco,2000
+22803,San Francisco,2000
+22901,San Francisco,2000
+22902,San Francisco,2000
+22903,San Francisco,2000
+23001,San Francisco,2000
+23002,San Francisco,2000
+23003,San Francisco,2000
+23101,San Francisco,2000
+23102,San Francisco,2000
+23103,San Francisco,2000
+23200,San Francisco,2000
+23300,San Francisco,2000
+23400,San Francisco,2000
+25100,San Francisco,2000
+25200,San Francisco,2000
+25300,San Francisco,2000
+25401,San Francisco,2000
+25402,San Francisco,2000
+25403,San Francisco,2000
+25500,San Francisco,2000
+25600,San Francisco,2000
+25700,San Francisco,2000
+25800,San Francisco,2000
+25900,San Francisco,2000
+26001,San Francisco,2000
+26002,San Francisco,2000
+26003,San Francisco,2000
+26004,San Francisco,2000
+26100,San Francisco,2000
+26200,San Francisco,2000
+26301,San Francisco,2000
+26302,San Francisco,2000
+26303,San Francisco,2000
+26401,San Francisco,2000
+26402,San Francisco,2000
+26403,San Francisco,2000
+26404,San Francisco,2000
+30101,San Francisco,2000
+30102,San Francisco,2000
+30201,San Francisco,2000
+30202,San Francisco,2000
+30301,San Francisco,2000
+30302,San Francisco,2000
+30400,San Francisco,2000
+30500,San Francisco,2000
+30600,San Francisco,2000
+30700,San Francisco,2000
+30800,San Francisco,2000
+30900,San Francisco,2000
+31000,San Francisco,2000
+31100,San Francisco,2000
+31200,San Francisco,2000
+31300,San Francisco,2000
+31400,San Francisco,2000
+32600,San Francisco,2000
+32700,San Francisco,2000
+32800,San Francisco,2000
+32900,San Francisco,2000
+33000,San Francisco,2000
+33100,San Francisco,2000
+33201,San Francisco,2000
+33202,San Francisco,2000
+35100,San Francisco,2000
+35201,San Francisco,2000
+35202,San Francisco,2000
+35300,San Francisco,2000
+35400,San Francisco,2000
+40100,San Francisco,2000
+40200,San Francisco,2000
+42600,San Francisco,2000
+42700,San Francisco,2000
+42800,San Francisco,2000
+45100,San Francisco,2000
+45200,San Francisco,2000
+47600,San Francisco,2000
+47701,San Francisco,2000
+47702,San Francisco,2000
+47800,San Francisco,2000
+47901,San Francisco,2000
+47902,San Francisco,2000
+60100,San Francisco,2000
+60200,San Francisco,2000
+60300,San Francisco,2000
+60400,San Francisco,2000
+60501,San Francisco,2000
+60502,San Francisco,2000
+60600,San Francisco,2000
+60700,San Francisco,2000
+60900,San Francisco,2000
+61000,San Francisco,2000
+10100,San Francisco,2010
+10200,San Francisco,2010
+10300,San Francisco,2010
+10400,San Francisco,2010
+10500,San Francisco,2010
+10600,San Francisco,2010
+10700,San Francisco,2010
+10800,San Francisco,2010
+10900,San Francisco,2010
+11000,San Francisco,2010
+11100,San Francisco,2010
+11200,San Francisco,2010
+11300,San Francisco,2010
+11700,San Francisco,2010
+11800,San Francisco,2010
+11901,San Francisco,2010
+11902,San Francisco,2010
+12000,San Francisco,2010
+12100,San Francisco,2010
+12201,San Francisco,2010
+12202,San Francisco,2010
+12301,San Francisco,2010
+12302,San Francisco,2010
+12401,San Francisco,2010
+12402,San Francisco,2010
+12501,San Francisco,2010
+12502,San Francisco,2010
+12601,San Francisco,2010
+12602,San Francisco,2010
+12700,San Francisco,2010
+12800,San Francisco,2010
+12901,San Francisco,2010
+12902,San Francisco,2010
+13000,San Francisco,2010
+13101,San Francisco,2010
+13102,San Francisco,2010
+13200,San Francisco,2010
+13300,San Francisco,2010
+13400,San Francisco,2010
+13500,San Francisco,2010
+15100,San Francisco,2010
+15200,San Francisco,2010
+15300,San Francisco,2010
+15400,San Francisco,2010
+15500,San Francisco,2010
+15600,San Francisco,2010
+15700,San Francisco,2010
+15801,San Francisco,2010
+15802,San Francisco,2010
+15900,San Francisco,2010
+16000,San Francisco,2010
+16100,San Francisco,2010
+16200,San Francisco,2010
+16300,San Francisco,2010
+16400,San Francisco,2010
+16500,San Francisco,2010
+16600,San Francisco,2010
+16700,San Francisco,2010
+16801,San Francisco,2010
+16802,San Francisco,2010
+16900,San Francisco,2010
+17000,San Francisco,2010
+17101,San Francisco,2010
+17102,San Francisco,2010
+17601,San Francisco,2010
+17700,San Francisco,2010
+17801,San Francisco,2010
+17802,San Francisco,2010
+17902,San Francisco,2010
+18000,San Francisco,2010
+20100,San Francisco,2010
+20200,San Francisco,2010
+20300,San Francisco,2010
+20401,San Francisco,2010
+20402,San Francisco,2010
+20500,San Francisco,2010
+20600,San Francisco,2010
+20700,San Francisco,2010
+20800,San Francisco,2010
+20900,San Francisco,2010
+21000,San Francisco,2010
+21100,San Francisco,2010
+21200,San Francisco,2010
+21300,San Francisco,2010
+21400,San Francisco,2010
+21500,San Francisco,2010
+21600,San Francisco,2010
+21700,San Francisco,2010
+21800,San Francisco,2010
+22600,San Francisco,2010
+22702,San Francisco,2010
+22704,San Francisco,2010
+22801,San Francisco,2010
+22802,San Francisco,2010
+22803,San Francisco,2010
+22901,San Francisco,2010
+22902,San Francisco,2010
+22903,San Francisco,2010
+23001,San Francisco,2010
+23003,San Francisco,2010
+23102,San Francisco,2010
+23103,San Francisco,2010
+23200,San Francisco,2010
+23300,San Francisco,2010
+23400,San Francisco,2010
+25100,San Francisco,2010
+25200,San Francisco,2010
+25300,San Francisco,2010
+25401,San Francisco,2010
+25402,San Francisco,2010
+25403,San Francisco,2010
+25500,San Francisco,2010
+25600,San Francisco,2010
+25701,San Francisco,2010
+25702,San Francisco,2010
+25800,San Francisco,2010
+25900,San Francisco,2010
+26001,San Francisco,2010
+26002,San Francisco,2010
+26003,San Francisco,2010
+26004,San Francisco,2010
+26100,San Francisco,2010
+26200,San Francisco,2010
+26301,San Francisco,2010
+26302,San Francisco,2010
+26303,San Francisco,2010
+26401,San Francisco,2010
+26402,San Francisco,2010
+26403,San Francisco,2010
+26404,San Francisco,2010
+30101,San Francisco,2010
+30102,San Francisco,2010
+30201,San Francisco,2010
+30202,San Francisco,2010
+30301,San Francisco,2010
+30302,San Francisco,2010
+30400,San Francisco,2010
+30500,San Francisco,2010
+30600,San Francisco,2010
+30700,San Francisco,2010
+30800,San Francisco,2010
+30900,San Francisco,2010
+31000,San Francisco,2010
+31100,San Francisco,2010
+31201,San Francisco,2010
+31202,San Francisco,2010
+31301,San Francisco,2010
+31302,San Francisco,2010
+31400,San Francisco,2010
+32601,San Francisco,2010
+32602,San Francisco,2010
+32700,San Francisco,2010
+32801,San Francisco,2010
+32802,San Francisco,2010
+32901,San Francisco,2010
+32902,San Francisco,2010
+33000,San Francisco,2010
+33100,San Francisco,2010
+33201,San Francisco,2010
+33203,San Francisco,2010
+33204,San Francisco,2010
+35100,San Francisco,2010
+35201,San Francisco,2010
+35202,San Francisco,2010
+35300,San Francisco,2010
+35400,San Francisco,2010
+40100,San Francisco,2010
+40200,San Francisco,2010
+42601,San Francisco,2010
+42602,San Francisco,2010
+42700,San Francisco,2010
+42800,San Francisco,2010
+45100,San Francisco,2010
+45200,San Francisco,2010
+47600,San Francisco,2010
+47701,San Francisco,2010
+47702,San Francisco,2010
+47801,San Francisco,2010
+47802,San Francisco,2010
+47901,San Francisco,2010
+47902,San Francisco,2010
+60100,San Francisco,2010
+60400,San Francisco,2010
+60502,San Francisco,2010
+60700,San Francisco,2010
+61000,San Francisco,2010
+61100,San Francisco,2010
+61200,San Francisco,2010
+61400,San Francisco,2010
+61500,San Francisco,2010
+980200,San Francisco,2010
+980300,San Francisco,2010
+980501,San Francisco,2010
+980600,San Francisco,2010
+980900,San Francisco,2010
+10101,San Francisco,2020
+10102,San Francisco,2020
+10201,San Francisco,2020
+10202,San Francisco,2020
+10300,San Francisco,2020
+10401,San Francisco,2020
+10402,San Francisco,2020
+10500,San Francisco,2020
+10600,San Francisco,2020
+10701,San Francisco,2020
+10702,San Francisco,2020
+10800,San Francisco,2020
+10901,San Francisco,2020
+10902,San Francisco,2020
+11001,San Francisco,2020
+11002,San Francisco,2020
+11101,San Francisco,2020
+11102,San Francisco,2020
+11200,San Francisco,2020
+11300,San Francisco,2020
+11700,San Francisco,2020
+11800,San Francisco,2020
+11901,San Francisco,2020
+11902,San Francisco,2020
+12001,San Francisco,2020
+12002,San Francisco,2020
 12100,San Francisco,2020
 12202,San Francisco,2020
-12202,Tenderloin,2020
 12203,San Francisco,2020
-12203,Tenderloin,2020
 12204,San Francisco,2020
-12204,Tenderloin,2020
 12301,San Francisco,2020
-12301,Tenderloin,2020
 12302,San Francisco,2020
-12302,Tenderloin,2020
 12403,San Francisco,2020
-12403,Tenderloin,2020
 12404,San Francisco,2020
-12404,Tenderloin,2020
 12405,San Francisco,2020
-12405,Tenderloin,2020
 12406,San Francisco,2020
-12406,Tenderloin,2020
 12502,San Francisco,2020
-12502,Tenderloin,2020
 12503,San Francisco,2020
-12503,Tenderloin,2020
 12504,San Francisco,2020
-12504,Tenderloin,2020
-12601,Marina,2020
 12601,San Francisco,2020
-12602,Marina,2020
 12602,San Francisco,2020
-12700,Marina,2020
 12700,San Francisco,2020
-12801,Marina,2020
 12801,San Francisco,2020
-12802,Marina,2020
 12802,San Francisco,2020
-12901,Marina,2020
 12901,San Francisco,2020
-12902,Marina,2020
 12902,San Francisco,2020
-13001,Marina,2020
 13001,San Francisco,2020
-13002,Marina,2020
 13002,San Francisco,2020
-13101,Pacific Heights,2020
 13101,San Francisco,2020
-13102,Pacific Heights,2020
 13102,San Francisco,2020
-13200,Pacific Heights,2020
 13200,San Francisco,2020
-13300,Presidio Heights,2020
 13300,San Francisco,2020
-13401,Pacific Heights,2020
 13401,San Francisco,2020
-13402,Pacific Heights,2020
 13402,San Francisco,2020
-13500,Pacific Heights,2020
 13500,San Francisco,2020
 15100,San Francisco,2020
-15100,Western Addition,2020
-15100,Western Addition/Fillmore Community Boundary,2020
-15201,Pacific Heights,2020
 15201,San Francisco,2020
-15201,Western Addition/Fillmore Community Boundary,2020
-15202,Pacific Heights,2020
 15202,San Francisco,2020
-15202,Western Addition/Fillmore Community Boundary,2020
-15300,Pacific Heights,2020
 15300,San Francisco,2020
-15300,Western Addition/Fillmore Community Boundary,2020
-15401,Presidio Heights,2020
 15401,San Francisco,2020
-15401,Western Addition/Fillmore Community Boundary,2020
-15402,Presidio Heights,2020
 15402,San Francisco,2020
-15402,Western Addition/Fillmore Community Boundary,2020
-15500,Japantown,2020
 15500,San Francisco,2020
-15500,Western Addition/Fillmore Community Boundary,2020
-15600,Lone Mountain/USF,2020
 15600,San Francisco,2020
-15701,Lone Mountain/USF,2020
 15701,San Francisco,2020
-15701,Western Addition/Fillmore Community Boundary,2020
-15702,Lone Mountain/USF,2020
 15702,San Francisco,2020
-15702,Western Addition/Fillmore Community Boundary,2020
 15801,San Francisco,2020
-15801,Western Addition,2020
-15801,Western Addition/Fillmore Community Boundary,2020
 15802,San Francisco,2020
-15802,Western Addition,2020
-15802,Western Addition/Fillmore Community Boundary,2020
 15900,San Francisco,2020
-15900,Western Addition,2020
-15900,Western Addition/Fillmore Community Boundary,2020
 16000,San Francisco,2020
-16000,Western Addition,2020
-16000,Western Addition/Fillmore Community Boundary,2020
 16101,San Francisco,2020
-16101,Western Addition,2020
-16101,Western Addition/Fillmore Community Boundary,2020
 16102,San Francisco,2020
-16102,Western Addition,2020
-16102,Western Addition/Fillmore Community Boundary,2020
-16200,Hayes Valley,2020
 16200,San Francisco,2020
-16200,Western Addition/Fillmore Community Boundary,2020
-16300,Hayes Valley,2020
 16300,San Francisco,2020
-16300,Western Addition/Fillmore Community Boundary,2020
-16400,Hayes Valley,2020
 16400,San Francisco,2020
-16400,Western Addition/Fillmore Community Boundary,2020
-16500,Lone Mountain/USF,2020
 16500,San Francisco,2020
-16500,Western Addition/Fillmore Community Boundary,2020
-16601,Haight Ashbury,2020
 16601,San Francisco,2020
-16602,Haight Ashbury,2020
 16602,San Francisco,2020
-16700,Haight Ashbury,2020
 16700,San Francisco,2020
-16700,Western Addition/Fillmore Community Boundary,2020
-16801,Hayes Valley,2020
 16801,San Francisco,2020
-16801,Western Addition/Fillmore Community Boundary,2020
-16802,Hayes Valley,2020
 16802,San Francisco,2020
-16802,Western Addition/Fillmore Community Boundary,2020
-16900,Castro/Upper Market,2020
 16900,San Francisco,2020
-17000,Castro/Upper Market,2020
 17000,San Francisco,2020
-17101,Haight Ashbury,2020
 17101,San Francisco,2020
-17102,Haight Ashbury,2020
 17102,San Francisco,2020
 17602,San Francisco,2020
-17602,South of Market,2020
 17603,San Francisco,2020
-17603,South of Market,2020
 17604,San Francisco,2020
-17604,South of Market,2020
-17700,Mission,2020
 17700,San Francisco,2020
 17801,San Francisco,2020
-17801,South of Market,2020
 17803,San Francisco,2020
-17803,South of Market,2020
 17804,San Francisco,2020
-17804,South of Market,2020
 17903,San Francisco,2020
-17903,Treasure Island,2020
 18000,San Francisco,2020
-18000,South of Market,2020
-20101,Mission,2020
 20101,San Francisco,2020
-20102,Mission,2020
 20102,San Francisco,2020
-20201,Mission,2020
 20201,San Francisco,2020
-20202,Mission,2020
 20202,San Francisco,2020
-20300,Castro/Upper Market,2020
 20300,San Francisco,2020
-20401,Castro/Upper Market,2020
 20401,San Francisco,2020
 20402,San Francisco,2020
-20402,Twin Peaks,2020
-20500,Castro/Upper Market,2020
 20500,San Francisco,2020
-20601,Castro/Upper Market,2020
 20601,San Francisco,2020
-20602,Castro/Upper Market,2020
 20602,San Francisco,2020
-20701,Mission,2020
 20701,San Francisco,2020
-20702,Mission,2020
 20702,San Francisco,2020
-20801,Mission,2020
 20801,San Francisco,2020
-20802,Mission,2020
 20802,San Francisco,2020
-20900,Mission,2020
 20900,San Francisco,2020
-21000,Mission,2020
 21000,San Francisco,2020
-21100,Noe Valley,2020
 21100,San Francisco,2020
-21200,Noe Valley,2020
 21200,San Francisco,2020
-21300,Noe Valley,2020
 21300,San Francisco,2020
-21400,Noe Valley,2020
 21400,San Francisco,2020
-21500,Noe Valley,2020
 21500,San Francisco,2020
-21600,Noe Valley,2020
 21600,San Francisco,2020
-21700,Glen Park,2020
 21700,San Francisco,2020
-21800,Glen Park,2020
 21800,San Francisco,2020
-22600,Potrero Hill,2020
 22600,San Francisco,2020
-22702,Potrero Hill,2020
 22702,San Francisco,2020
-22704,Potrero Hill,2020
 22704,San Francisco,2020
-22801,Mission,2020
 22801,San Francisco,2020
-22802,Mission,2020
 22802,San Francisco,2020
-22803,Mission,2020
 22803,San Francisco,2020
-22901,Mission,2020
 22901,San Francisco,2020
-22902,Mission,2020
 22902,San Francisco,2020
-22903,Mission,2020
 22903,San Francisco,2020
-23001,Bayview Hunters Point,2020
 23001,San Francisco,2020
-23003,Bayview Hunters Point,2020
 23003,San Francisco,2020
-23102,Bayview Hunters Point,2020
 23102,San Francisco,2020
-23103,Bayview Hunters Point,2020
 23103,San Francisco,2020
-23200,Bayview Hunters Point,2020
 23200,San Francisco,2020
-23300,Bayview Hunters Point,2020
 23300,San Francisco,2020
-23400,Bayview Hunters Point,2020
 23400,San Francisco,2020
-25100,Bernal Heights,2020
 25100,San Francisco,2020
-25200,Bernal Heights,2020
 25200,San Francisco,2020
-25300,Bernal Heights,2020
 25300,San Francisco,2020
-25401,Bernal Heights,2020
 25401,San Francisco,2020
-25402,Bernal Heights,2020
 25402,San Francisco,2020
-25403,Bernal Heights,2020
 25403,San Francisco,2020
-25501,Outer Mission,2020
 25501,San Francisco,2020
-25502,Outer Mission,2020
 25502,San Francisco,2020
-25600,Excelsior,2020
 25600,San Francisco,2020
-25701,Portola,2020
 25701,San Francisco,2020
-25702,Portola,2020
 25702,San Francisco,2020
-25800,Portola,2020
 25800,San Francisco,2020
-25900,Portola,2020
 25900,San Francisco,2020
-26001,Excelsior,2020
 26001,San Francisco,2020
-26002,Excelsior,2020
 26002,San Francisco,2020
-26003,Excelsior,2020
 26003,San Francisco,2020
-26004,Excelsior,2020
 26004,San Francisco,2020
-26100,Outer Mission,2020
 26100,San Francisco,2020
-26201,Outer Mission,2020
 26201,San Francisco,2020
-26202,Outer Mission,2020
 26202,San Francisco,2020
-26301,Excelsior,2020
 26301,San Francisco,2020
-26302,Excelsior,2020
 26302,San Francisco,2020
-26303,Excelsior,2020
 26303,San Francisco,2020
 26401,San Francisco,2020
-26401,Visitacion Valley,2020
 26402,San Francisco,2020
-26402,Visitacion Valley,2020
 26403,San Francisco,2020
-26403,Visitacion Valley,2020
 26404,San Francisco,2020
-26404,Visitacion Valley,2020
-30101,Inner Sunset,2020
 30101,San Francisco,2020
-30102,Inner Sunset,2020
 30102,San Francisco,2020
-30201,Inner Sunset,2020
 30201,San Francisco,2020
-30202,Inner Sunset,2020
 30202,San Francisco,2020
-30301,Inner Sunset,2020
 30301,San Francisco,2020
-30302,Inner Sunset,2020
 30302,San Francisco,2020
 30400,San Francisco,2020
-30400,West of Twin Peaks,2020
 30500,San Francisco,2020
-30500,Twin Peaks,2020
 30600,San Francisco,2020
-30600,West of Twin Peaks,2020
 30700,San Francisco,2020
-30700,West of Twin Peaks,2020
 30800,San Francisco,2020
-30800,West of Twin Peaks,2020
 30900,San Francisco,2020
-30900,West of Twin Peaks,2020
 31000,San Francisco,2020
-31000,West of Twin Peaks,2020
 31100,San Francisco,2020
-31100,West of Twin Peaks,2020
-31201,Oceanview/Merced/Ingleside,2020
 31201,San Francisco,2020
-31202,Oceanview/Merced/Ingleside,2020
 31202,San Francisco,2020
-31301,Oceanview/Merced/Ingleside,2020
 31301,San Francisco,2020
-31302,Oceanview/Merced/Ingleside,2020
 31302,San Francisco,2020
-31401,Oceanview/Merced/Ingleside,2020
 31401,San Francisco,2020
-31402,Oceanview/Merced/Ingleside,2020
 31402,San Francisco,2020
 32601,San Francisco,2020
-32601,Sunset/Parkside,2020
 32602,San Francisco,2020
-32602,Sunset/Parkside,2020
 32700,San Francisco,2020
-32700,Sunset/Parkside,2020
 32801,San Francisco,2020
-32801,Sunset/Parkside,2020
 32802,San Francisco,2020
-32802,Sunset/Parkside,2020
 32901,San Francisco,2020
-32901,Sunset/Parkside,2020
 32902,San Francisco,2020
-32902,Sunset/Parkside,2020
 33001,San Francisco,2020
-33001,Sunset/Parkside,2020
 33002,San Francisco,2020
-33002,Sunset/Parkside,2020
 33100,San Francisco,2020
-33100,Sunset/Parkside,2020
-33201,Lakeshore,2020
 33201,San Francisco,2020
-33203,Lakeshore,2020
 33203,San Francisco,2020
-33204,Lakeshore,2020
 33204,San Francisco,2020
 35101,San Francisco,2020
-35101,Sunset/Parkside,2020
 35102,San Francisco,2020
-35102,Sunset/Parkside,2020
 35201,San Francisco,2020
-35201,Sunset/Parkside,2020
 35202,San Francisco,2020
-35202,Sunset/Parkside,2020
 35300,San Francisco,2020
-35300,Sunset/Parkside,2020
 35400,San Francisco,2020
-35400,Sunset/Parkside,2020
-40100,Inner Richmond,2020
 40100,San Francisco,2020
-40200,Inner Richmond,2020
 40200,San Francisco,2020
-42601,Outer Richmond,2020
 42601,San Francisco,2020
-42602,Outer Richmond,2020
 42602,San Francisco,2020
-42700,Outer Richmond,2020
 42700,San Francisco,2020
 42800,San Francisco,2020
-42800,Seacliff,2020
-45100,Inner Richmond,2020
 45100,San Francisco,2020
-45201,Inner Richmond,2020
 45201,San Francisco,2020
-45202,Inner Richmond,2020
 45202,San Francisco,2020
-47600,Outer Richmond,2020
 47600,San Francisco,2020
-47701,Outer Richmond,2020
 47701,San Francisco,2020
-47702,Outer Richmond,2020
 47702,San Francisco,2020
-47801,Outer Richmond,2020
 47801,San Francisco,2020
-47802,Outer Richmond,2020
 47802,San Francisco,2020
-47902,Outer Richmond,2020
 47902,San Francisco,2020
-47903,Outer Richmond,2020
 47903,San Francisco,2020
-47904,Outer Richmond,2020
 47904,San Francisco,2020
-60100,Presidio,2020
 60100,San Francisco,2020
-60400,Lakeshore,2020
 60400,San Francisco,2020
 60502,San Francisco,2020
-60502,Visitacion Valley,2020
-60701,Mission Bay,2020
 60701,San Francisco,2020
-60702,Mission Bay,2020
 60702,San Francisco,2020
-60703,Mission Bay,2020
 60703,San Francisco,2020
-61000,Bayview Hunters Point,2020
 61000,San Francisco,2020
-61101,Chinatown,2020
 61101,San Francisco,2020
-61102,Chinatown,2020
 61102,San Francisco,2020
-61200,Bayview Hunters Point,2020
 61200,San Francisco,2020
-61401,Potrero Hill,2020
 61401,San Francisco,2020
-61402,Potrero Hill,2020
 61402,San Francisco,2020
-61501,Financial District,2020
 61501,San Francisco,2020
-61502,Financial District,2020
 61502,San Francisco,2020
-61503,Financial District,2020
 61503,San Francisco,2020
-61504,Financial District,2020
 61504,San Francisco,2020
-61505,Financial District,2020
 61505,San Francisco,2020
-61506,Financial District,2020
 61506,San Francisco,2020
-61507,Financial District,2020
 61507,San Francisco,2020
-61508,Financial District,2020
 61508,San Francisco,2020
-980200,Lincoln Park,2020
 980200,San Francisco,2020
-980300,Golden Gate Park,2020
 980300,San Francisco,2020
-980501,McLaren Park,2020
-980501,San Francisco,2020
-980600,Bayview Hunters Point,2020
-980600,San Francisco,2020
-980900,Bayview Hunters Point,2020
-980900,San Francisco,2020
-980401,Farallon Islands,2020
 980401,San Francisco,2020
+980501,San Francisco,2020
+980600,San Francisco,2020
+980900,San Francisco,2020
+42800,Seacliff,2000
+42800,Seacliff,2010
+42800,Seacliff,2020
+17601,South of Market,2000
+17800,South of Market,2000
+18000,South of Market,2000
+17601,South of Market,2010
+17801,South of Market,2010
+17802,South of Market,2010
+18000,South of Market,2010
+17602,South of Market,2020
+17603,South of Market,2020
+17604,South of Market,2020
+17801,South of Market,2020
+17803,South of Market,2020
+17804,South of Market,2020
+18000,South of Market,2020
+32600,Sunset/Parkside,2000
+32700,Sunset/Parkside,2000
+32800,Sunset/Parkside,2000
+32900,Sunset/Parkside,2000
+33000,Sunset/Parkside,2000
+33100,Sunset/Parkside,2000
+35100,Sunset/Parkside,2000
+35201,Sunset/Parkside,2000
+35202,Sunset/Parkside,2000
+35300,Sunset/Parkside,2000
+35400,Sunset/Parkside,2000
+32601,Sunset/Parkside,2010
+32602,Sunset/Parkside,2010
+32700,Sunset/Parkside,2010
+32801,Sunset/Parkside,2010
+32802,Sunset/Parkside,2010
+32901,Sunset/Parkside,2010
+32902,Sunset/Parkside,2010
+33000,Sunset/Parkside,2010
+33100,Sunset/Parkside,2010
+35100,Sunset/Parkside,2010
+35201,Sunset/Parkside,2010
+35202,Sunset/Parkside,2010
+35300,Sunset/Parkside,2010
+35400,Sunset/Parkside,2010
+32601,Sunset/Parkside,2020
+32602,Sunset/Parkside,2020
+32700,Sunset/Parkside,2020
+32801,Sunset/Parkside,2020
+32802,Sunset/Parkside,2020
+32901,Sunset/Parkside,2020
+32902,Sunset/Parkside,2020
+33001,Sunset/Parkside,2020
+33002,Sunset/Parkside,2020
+33100,Sunset/Parkside,2020
+35101,Sunset/Parkside,2020
+35102,Sunset/Parkside,2020
+35201,Sunset/Parkside,2020
+35202,Sunset/Parkside,2020
+35300,Sunset/Parkside,2020
+35400,Sunset/Parkside,2020
+12200,Tenderloin,2000
+12300,Tenderloin,2000
+12400,Tenderloin,2000
+12500,Tenderloin,2000
+12201,Tenderloin,2010
+12202,Tenderloin,2010
+12301,Tenderloin,2010
+12302,Tenderloin,2010
+12401,Tenderloin,2010
+12402,Tenderloin,2010
+12501,Tenderloin,2010
+12502,Tenderloin,2010
+12202,Tenderloin,2020
+12203,Tenderloin,2020
+12204,Tenderloin,2020
+12301,Tenderloin,2020
+12302,Tenderloin,2020
+12403,Tenderloin,2020
+12404,Tenderloin,2020
+12405,Tenderloin,2020
+12406,Tenderloin,2020
+12502,Tenderloin,2020
+12503,Tenderloin,2020
+12504,Tenderloin,2020
+17902,Treasure Island,2000
+17902,Treasure Island,2010
+17903,Treasure Island,2020
+20400,Twin Peaks,2000
+30500,Twin Peaks,2000
+20402,Twin Peaks,2010
+30500,Twin Peaks,2010
+20402,Twin Peaks,2020
+30500,Twin Peaks,2020
+26401,Visitacion Valley,2000
+26402,Visitacion Valley,2000
+26403,Visitacion Valley,2000
+26404,Visitacion Valley,2000
+60502,Visitacion Valley,2000
+26401,Visitacion Valley,2010
+26402,Visitacion Valley,2010
+26403,Visitacion Valley,2010
+26404,Visitacion Valley,2010
+60502,Visitacion Valley,2010
+26401,Visitacion Valley,2020
+26402,Visitacion Valley,2020
+26403,Visitacion Valley,2020
+26404,Visitacion Valley,2020
+60502,Visitacion Valley,2020
+30400,West of Twin Peaks,2000
+30600,West of Twin Peaks,2000
+30700,West of Twin Peaks,2000
+30800,West of Twin Peaks,2000
+30900,West of Twin Peaks,2000
+31000,West of Twin Peaks,2000
+31100,West of Twin Peaks,2000
+30400,West of Twin Peaks,2010
+30600,West of Twin Peaks,2010
+30700,West of Twin Peaks,2010
+30800,West of Twin Peaks,2010
+30900,West of Twin Peaks,2010
+31000,West of Twin Peaks,2010
+31100,West of Twin Peaks,2010
+30400,West of Twin Peaks,2020
+30600,West of Twin Peaks,2020
+30700,West of Twin Peaks,2020
+30800,West of Twin Peaks,2020
+30900,West of Twin Peaks,2020
+31000,West of Twin Peaks,2020
+31100,West of Twin Peaks,2020
+15100,Western Addition,2000
+15800,Western Addition,2000
+15900,Western Addition,2000
+16000,Western Addition,2000
+16100,Western Addition,2000
+15100,Western Addition,2010
+15801,Western Addition,2010
+15802,Western Addition,2010
+15900,Western Addition,2010
+16000,Western Addition,2010
+16100,Western Addition,2010
+15100,Western Addition,2020
+15801,Western Addition,2020
+15802,Western Addition,2020
+15900,Western Addition,2020
+16000,Western Addition,2020
+16101,Western Addition,2020
+16102,Western Addition,2020
+15100,Western Addition/Fillmore Community Boundary,2000
+15200,Western Addition/Fillmore Community Boundary,2000
+15300,Western Addition/Fillmore Community Boundary,2000
+15400,Western Addition/Fillmore Community Boundary,2000
+15500,Western Addition/Fillmore Community Boundary,2000
+15700,Western Addition/Fillmore Community Boundary,2000
+15800,Western Addition/Fillmore Community Boundary,2000
+15900,Western Addition/Fillmore Community Boundary,2000
+16000,Western Addition/Fillmore Community Boundary,2000
+16100,Western Addition/Fillmore Community Boundary,2000
+16200,Western Addition/Fillmore Community Boundary,2000
+16300,Western Addition/Fillmore Community Boundary,2000
+16400,Western Addition/Fillmore Community Boundary,2000
+16500,Western Addition/Fillmore Community Boundary,2000
+16700,Western Addition/Fillmore Community Boundary,2000
+16800,Western Addition/Fillmore Community Boundary,2000
+15100,Western Addition/Fillmore Community Boundary,2010
+15200,Western Addition/Fillmore Community Boundary,2010
+15300,Western Addition/Fillmore Community Boundary,2010
+15400,Western Addition/Fillmore Community Boundary,2010
+15500,Western Addition/Fillmore Community Boundary,2010
+15700,Western Addition/Fillmore Community Boundary,2010
+15801,Western Addition/Fillmore Community Boundary,2010
+15802,Western Addition/Fillmore Community Boundary,2010
+15900,Western Addition/Fillmore Community Boundary,2010
+16000,Western Addition/Fillmore Community Boundary,2010
+16100,Western Addition/Fillmore Community Boundary,2010
+16200,Western Addition/Fillmore Community Boundary,2010
+16300,Western Addition/Fillmore Community Boundary,2010
+16400,Western Addition/Fillmore Community Boundary,2010
+16500,Western Addition/Fillmore Community Boundary,2010
+16700,Western Addition/Fillmore Community Boundary,2010
+16801,Western Addition/Fillmore Community Boundary,2010
+16802,Western Addition/Fillmore Community Boundary,2010
+15100,Western Addition/Fillmore Community Boundary,2020
+15201,Western Addition/Fillmore Community Boundary,2020
+15202,Western Addition/Fillmore Community Boundary,2020
+15300,Western Addition/Fillmore Community Boundary,2020
+15401,Western Addition/Fillmore Community Boundary,2020
+15402,Western Addition/Fillmore Community Boundary,2020
+15500,Western Addition/Fillmore Community Boundary,2020
+15701,Western Addition/Fillmore Community Boundary,2020
+15702,Western Addition/Fillmore Community Boundary,2020
+15801,Western Addition/Fillmore Community Boundary,2020
+15802,Western Addition/Fillmore Community Boundary,2020
+15900,Western Addition/Fillmore Community Boundary,2020
+16000,Western Addition/Fillmore Community Boundary,2020
+16101,Western Addition/Fillmore Community Boundary,2020
+16102,Western Addition/Fillmore Community Boundary,2020
+16200,Western Addition/Fillmore Community Boundary,2020
+16300,Western Addition/Fillmore Community Boundary,2020
+16400,Western Addition/Fillmore Community Boundary,2020
+16500,Western Addition/Fillmore Community Boundary,2020
+16700,Western Addition/Fillmore Community Boundary,2020
+16801,Western Addition/Fillmore Community Boundary,2020
+16802,Western Addition/Fillmore Community Boundary,2020
+15300,Japantown,2000
+15200,Japantown,2000
+15500,Japantown,2000
+15800,Japantown,2000
+15900,Japantown,2000
+16100,Japantown,2000
+15300,Japantown,2010
+15200,Japantown,2010
+15500,Japantown,2010
+15801,Japantown,2010
+15802,Japantown,2010
+15900,Japantown,2010
+16100,Japantown,2010
+15300,Japantown,2020
+15201,Japantown,2020
+15202,Japantown,2020
+15500,Japantown,2020
+15801,Japantown,2020
+15802,Japantown,2020
+15900,Japantown,2020
+16101,Japantown,2020
+16102,Japantown,2020
