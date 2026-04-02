@@ -15,13 +15,13 @@ def check_attribute_ids(available_attribute_ids, attribute_ids):
 
 
 # function runs all calcs for each neighborhood
-def calc_socio_economic_data(df, tract_lookup, range_df, all_calc_data,
-                             all_calc_data_by_tract, \
+# function runs all calcs for each neighborhood
+def calc_socio_economic_data(df, tract_lookup, all_calc_data, all_calc_data_by_tract, \
                              attribute_name, \
                              attribute_ids, base_ids, treatment, year):
     # nb_name = 'Western Addition/Fillmore Community Boundary'
     # tracts = tract_lookup[nb_name]
-    all_tracts = list(set(df['tract'].tolist()))
+
     for nb_name, tracts in tract_lookup.items():
         # print(nb_name, tracts)
 
@@ -39,16 +39,15 @@ def calc_socio_economic_data(df, tract_lookup, range_df, all_calc_data,
         # print(attribute_ids,base_ids)
         if treatment == 'as is' and base_ids:
             base = tract_df[base_ids]
-
-            null_idx = attribute[pd.isnull(attribute).any(1)].index.tolist() + base[
-                pd.isnull(base).any(1)].index.tolist()
+            null_idx = attribute[pd.isnull(attribute).any(axis=1)].index.tolist() + base[
+                pd.isnull(base).any(axis=1)].index.tolist()
             attribute = attribute[attribute.index.isin(null_idx) == False]
             base = base[base.index.isin(null_idx) == False]
             all_calc_data_nb['%s' % attribute_name] = attribute.sum().sum() / base.sum().sum()
 
         elif treatment == 'wa' and base_ids:
             base = tract_df[base_ids]
-            null_idx = attribute[pd.isnull(attribute).any(1)].index.tolist() + base[
+            null_idx = attribute[pd.isnull(attribute).any(axis=1)].index.tolist() + base[
                 pd.isnull(base).any(1)].index.tolist()
             # print(null_idx)
             attribute = attribute[attribute.index.isin(null_idx) == False]
@@ -57,7 +56,7 @@ def calc_socio_economic_data(df, tract_lookup, range_df, all_calc_data,
             all_calc_data_nb['%s' % attribute_name] = (attribute.values * base.values).sum() / base.sum().sum()
 
         elif treatment == 'as is' and not base_ids:
-            null_idx = attribute[pd.isnull(attribute).any(1)].index.tolist()
+            null_idx = attribute[pd.isnull(attribute).any(axis=1)].index.tolist()
             attribute = attribute[attribute.index.isin(null_idx) == False]
             all_calc_data_nb['%s' % attribute_name] = attribute.sum().sum()
 
@@ -90,7 +89,7 @@ def calc_socio_economic_data(df, tract_lookup, range_df, all_calc_data,
 
         elif treatment == 'median':
             # print(range_df, attribute_name)
-            all_calc_data_nb['%s' % attribute_name] = calc_median(tract_df, range_df, attribute_name,
+            all_calc_data_nb['%s' % attribute_name] = calc_median(tract_df, range_df,
                                                                   median_dict[attribute_name.split(' by')[0]],
                                                                   attribute_ids, year)
 
@@ -106,6 +105,7 @@ def calc_socio_economic_data(df, tract_lookup, range_df, all_calc_data,
     # print(all_calc_data_by_tract)
 
     return all_calc_data, all_calc_data_by_tract
+
 
 '''
 Calculating Medians
