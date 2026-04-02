@@ -1304,9 +1304,7 @@
 15100,Western Addition/Fillmore Community Boundary,2000
 15200,Western Addition/Fillmore Community Boundary,2000
 15300,Western Addition/Fillmore Community Boundary,2000
-15400,Western Addition/Fillmore Community Boundary,2000
 15500,Western Addition/Fillmore Community Boundary,2000
-15700,Western Addition/Fillmore Community Boundary,2000
 15800,Western Addition/Fillmore Community Boundary,2000
 15900,Western Addition/Fillmore Community Boundary,2000
 16000,Western Addition/Fillmore Community Boundary,2000
@@ -1314,15 +1312,11 @@
 16200,Western Addition/Fillmore Community Boundary,2000
 16300,Western Addition/Fillmore Community Boundary,2000
 16400,Western Addition/Fillmore Community Boundary,2000
-16500,Western Addition/Fillmore Community Boundary,2000
-16700,Western Addition/Fillmore Community Boundary,2000
 16800,Western Addition/Fillmore Community Boundary,2000
 15100,Western Addition/Fillmore Community Boundary,2010
 15200,Western Addition/Fillmore Community Boundary,2010
 15300,Western Addition/Fillmore Community Boundary,2010
-15400,Western Addition/Fillmore Community Boundary,2010
 15500,Western Addition/Fillmore Community Boundary,2010
-15700,Western Addition/Fillmore Community Boundary,2010
 15801,Western Addition/Fillmore Community Boundary,2010
 15802,Western Addition/Fillmore Community Boundary,2010
 15900,Western Addition/Fillmore Community Boundary,2010
@@ -1331,19 +1325,13 @@
 16200,Western Addition/Fillmore Community Boundary,2010
 16300,Western Addition/Fillmore Community Boundary,2010
 16400,Western Addition/Fillmore Community Boundary,2010
-16500,Western Addition/Fillmore Community Boundary,2010
-16700,Western Addition/Fillmore Community Boundary,2010
 16801,Western Addition/Fillmore Community Boundary,2010
 16802,Western Addition/Fillmore Community Boundary,2010
 15100,Western Addition/Fillmore Community Boundary,2020
 15201,Western Addition/Fillmore Community Boundary,2020
 15202,Western Addition/Fillmore Community Boundary,2020
 15300,Western Addition/Fillmore Community Boundary,2020
-15401,Western Addition/Fillmore Community Boundary,2020
-15402,Western Addition/Fillmore Community Boundary,2020
 15500,Western Addition/Fillmore Community Boundary,2020
-15701,Western Addition/Fillmore Community Boundary,2020
-15702,Western Addition/Fillmore Community Boundary,2020
 15801,Western Addition/Fillmore Community Boundary,2020
 15802,Western Addition/Fillmore Community Boundary,2020
 15900,Western Addition/Fillmore Community Boundary,2020
@@ -1353,8 +1341,6 @@
 16200,Western Addition/Fillmore Community Boundary,2020
 16300,Western Addition/Fillmore Community Boundary,2020
 16400,Western Addition/Fillmore Community Boundary,2020
-16500,Western Addition/Fillmore Community Boundary,2020
-16700,Western Addition/Fillmore Community Boundary,2020
 16801,Western Addition/Fillmore Community Boundary,2020
 16802,Western Addition/Fillmore Community Boundary,2020
 15300,Japantown,2000
@@ -1379,3 +1365,21 @@
 15900,Japantown,2020
 16101,Japantown,2020
 16102,Japantown,2020
+15100,Western Addition/Fillmore Community Boundary Subarea,2000
+15800,Western Addition/Fillmore Community Boundary Subarea,2000
+15900,Western Addition/Fillmore Community Boundary Subarea,2000
+16000,Western Addition/Fillmore Community Boundary Subarea,2000
+16100,Western Addition/Fillmore Community Boundary Subarea,2000
+15100,Western Addition/Fillmore Community Boundary Subarea,2010
+15801,Western Addition/Fillmore Community Boundary Subarea,2010
+15802,Western Addition/Fillmore Community Boundary Subarea,2010
+15900,Western Addition/Fillmore Community Boundary Subarea,2010
+16000,Western Addition/Fillmore Community Boundary Subarea,2010
+16100,Western Addition/Fillmore Community Boundary Subarea,2010
+15100,Western Addition/Fillmore Community Boundary Subarea,2020
+15801,Western Addition/Fillmore Community Boundary Subarea,2020
+15802,Western Addition/Fillmore Community Boundary Subarea,2020
+15900,Western Addition/Fillmore Community Boundary Subarea,2020
+16000,Western Addition/Fillmore Community Boundary Subarea,2020
+16101,Western Addition/Fillmore Community Boundary Subarea,2020
+16102,Western Addition/Fillmore Community Boundary Subarea,2020
