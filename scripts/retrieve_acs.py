@@ -1,7 +1,8 @@
 from scripts.build_census_api import make_census_api_call, build_census_url
 import pandas as pd
+import numpy as np
 
-def retrieve_acs(attribute_ids, acs_years):
+def retrieve_acs(attribute_ids, acs_years, key):
     # set geo variables for api call
     state_code = "06"
     county_code = "075"
@@ -18,13 +19,13 @@ def retrieve_acs(attribute_ids, acs_years):
     # print(split_attribute_ids)
     YEARS = acs_years #range(2010, 2025)
     for year in YEARS:
-        acs_df_temp = pd.read_csv(r'./census_raw/acs%sdf.csv' % (year))
+        #acs_df_temp = pd.read_csv(r'./census_raw/acs%sdf.csv' % (year))
         df = None
         first = True
         num = 0
         for ids in split_attribute_ids:
-            if ids in acs_df_temp.columns:
-                continue
+            #if ids in acs_df_temp.columns:
+            #    continue
             ids = [ids]
             census_url = build_census_url(year, 'acs', 'acs5', county_code, state_code, tract_code, level, ids, key)
             # print(census_url)
@@ -55,6 +56,6 @@ def retrieve_acs(attribute_ids, acs_years):
 
         acs_df = pd.concat([df.select_dtypes(include=object), df_numerics_only], axis=1)
 
-        acs_df_temp.drop(columns=['state', 'tract'], inplace=True)
-        acs_df_full = pd.concat([acs_df_temp, acs_df], axis=1)
-        acs_df_full.to_csv(r'./census_raw/acs%sdf.csv' % (year))
+        #acs_df_temp.drop(columns=['state', 'tract'], inplace=True)
+        #acs_df_full = pd.concat([acs_df_temp, acs_df], axis=1)
+        acs_df.to_csv(r'./census_raw/acs%sdf.csv' % (year))

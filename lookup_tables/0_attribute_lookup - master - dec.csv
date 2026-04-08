@@ -269,7 +269,7 @@ Index,category_dag,attribute_name,acs_attribute_id,acs_base_id,acs_treatment,acs
 282,Race/Ethnicity,"Population, Not Hispanic or Latino",B03002_002,,as is,,P007002,,as is,
 283,Race/Ethnicity,Asian,B02001_005,,as is,,P006005,,as is,
 284,Race/Ethnicity,Black/African American,B02001_003,,as is,,P006003,,as is,
-285,Race/Ethnicity,Latino Population (of Any Race),B03001_003,,as is,,P006002,,as is,
+285,Race/Ethnicity,Latino Population (of Any Race),B03001_003,,as is,,P007001,,as is,
 286,Race/Ethnicity,Native American Indian,B02001_004,,as is,,P006004,,as is,
 287,Race/Ethnicity,Native Hawaiian/Pacific Islander,B02001_006,,as is,,P006006,,as is,
 288,Race/Ethnicity,Other/Two or More Races,"B02001_008, B02001_007",,as is,,"P006007, P006008",,as is,

@@ -28,7 +28,7 @@ warnings.filterwarnings("ignore")
 CENSUS_KEY = os.environ.get('CENSUS_KEY')
 
 # function builds the api URL from tract_code, state_code, county_code, and attribute ids. Requires Census key (free)
-def build_census_url(year, survey, tablename, county_code, state_code, tract_code, level, attribute_ids):
+def build_census_url(year, survey, tablename, county_code, state_code, tract_code, level, attribute_ids, CENSUS_KEY):
     attributes = ','.join(attribute_ids)
     if level == 'tract':
         census_url = r'https://api.census.gov/data/{}/{}/{}?get={}&for=tract:{}&in=state:{}&in=county:{}&key={}'.format(year, survey, tablename, attributes, tract_code, state_code, county_code, CENSUS_KEY)
