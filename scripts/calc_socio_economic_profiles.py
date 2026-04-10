@@ -102,7 +102,8 @@ def calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path
 
             attribute_id = [attribute_df.loc[j, '%s_attribute_id' % table_name]]
 
-            if attribute_id == [None]:
+            print(attribute_name, attribute_id)
+            if str(attribute_id) == "[nan]" or str(attribute_id) == "[None]":
                 continue
 
             base_id = [attribute_df.loc[j, '%s_base_id' % table_name]]
@@ -119,6 +120,8 @@ def calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path
             except:
                 base_ids = None
 
+            if str(race) == 'nan':
+                race = None
             # print(attribute_name, attribute_id, race, base_ids, attribute_ids, treatment)
 
             if race is not None:
@@ -149,7 +152,9 @@ def calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path
                                                                                          all_calc_data_by_tract,
                                                                                          attribute_name_by_r,
                                                                                          attribute_ids_by_r,
-                                                                                         base_ids_by_r, treatment, year)
+                                                                                         base_ids_by_r, treatment, year,
+                                                                                            all_tracts, range_df
+                                                                                         )
 
                     except Exception as e:
                         print(e)
@@ -183,7 +188,7 @@ def calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path
                                                                                              attribute_name_by_r,
                                                                                              attribute_ids_by_r,
                                                                                              base_ids_by_r, treatment,
-                                                                                             year)
+                                                                                             year, all_tracts, range_df)
                         except Exception as e:
                             print(e)
                             print(attribute_name, attribute_ids, base_ids)
@@ -198,7 +203,7 @@ def calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path
                                                                                      all_calc_data_by_tract,
                                                                                      attribute_name, \
                                                                                      attribute_ids, base_ids, treatment,
-                                                                                     year)
+                                                                                     year, all_tracts, range_df)
                 except Exception as e:
                     print(e)
                     print(attribute_name, attribute_ids, base_ids)

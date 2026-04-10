@@ -18,7 +18,7 @@ def check_attribute_ids(available_attribute_ids, attribute_ids):
 # function runs all calcs for each neighborhood
 def calc_socio_economic_data(df, tract_lookup, all_calc_data, all_calc_data_by_tract, \
                              attribute_name, \
-                             attribute_ids, base_ids, treatment, year):
+                             attribute_ids, base_ids, treatment, year, all_tracts, range_df):
     # nb_name = 'Western Addition/Fillmore Community Boundary'
     # tracts = tract_lookup[nb_name]
 

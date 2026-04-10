@@ -19,6 +19,7 @@ def neighborhood_profiles(years, geo_lookup_df, output_path='./output'):
     geo_lookup_df_yyyy = geo_lookup_df[geo_lookup_df['year'] == '2020']
     neighborhoods = list(set(geo_lookup_df_yyyy.neighborhood.tolist()))
     neighborhoods.sort()
+    years = years[::-1]
 
     for n in neighborhoods:
 
@@ -124,7 +125,7 @@ def neighborhood_profiles(years, geo_lookup_df, output_path='./output'):
                     c += 3
 
             except Exception as e:
-                print(e)
+                print(e, ' for AMI income breaks')
 
         df_all_calcs_full = pd.concat([df_all_calcs_full, df_all_calcs_full_aff], axis=0)
 
@@ -164,13 +165,13 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
     geo_lookup_df_yyyy = geo_lookup_df[geo_lookup_df['year'] == '2020']
     neighborhoods = list(set(geo_lookup_df_yyyy.neighborhood.tolist()))
     neighborhoods.sort()
-
+    years = years[::-1]
     for n in neighborhoods:
 
         year_columns = []
 
         for year in years:
-
+            print(year)
             if year <= 2009:
                 geo_year = '2000'
                 survey = 'dec'
