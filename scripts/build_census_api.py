@@ -36,6 +36,21 @@ def build_census_url(year, survey, tablename, county_code, state_code, tract_cod
         census_url = r'https://api.census.gov/data/{}/{}/{}?get={}&for=county:{}&in=state:{}&key={}'.format(year, survey, tablename, attributes, county_code, state_code, CENSUS_KEY)
     return census_url
 
+def build_census_url_economic_chars(year, survey, tablename, county_code, state_code, tract_code, level, attribute_ids, CENSUS_KEY):
+    attributes = ','.join(attribute_ids)
+    if level == 'tract':
+        census_url = r'https://api.census.gov/data/{}/{}/{}/profile/groups/?get=group({})&for=tract:{}&in=state:{}&in=county:{}&key={}'.format(year, survey, tablename, attributes, tract_code, state_code, county_code, CENSUS_KEY)
+    else:
+        census_url = r'https://api.census.gov/data/{}/{}/{}/profile/groups/?get=group({})&for=county:{}&in=state:{}&key={}'.format(year, survey, tablename, attributes, county_code, state_code, CENSUS_KEY)
+    return census_url
+
+def build_census_url_subject_tables(year, survey, tablename, county_code, state_code, tract_code, level, attribute_ids, CENSUS_KEY):
+    attributes = ','.join(attribute_ids)
+    if level == 'tract':
+        census_url = r'https://api.census.gov/data/{}/{}/{}?get=group({})&for=tract:{}&in=state:{}&in=county:{}&key={}'.format(year, survey, tablename, attributes, tract_code, state_code, county_code, CENSUS_KEY)
+    else:
+        census_url = r'https://api.census.gov/data/{}/{}/{}?get=group({})&for=county:{}&in=state:{}&key={}'.format(year, survey, tablename, attributes, county_code, state_code, CENSUS_KEY)
+    return census_url
 
 # function makes a single api call and collects results in a pandas dataframe
 def make_census_api_call(census_url):

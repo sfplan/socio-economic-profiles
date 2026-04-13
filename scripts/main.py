@@ -23,6 +23,8 @@ years = [2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020,
 calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path='./output')
 
 # Generate neighborhood profiles:
+years = [2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
 neighborhood_profiles(years, geo_lookup_df)
 neighborhood_profiles_vs_citywide(years, geo_lookup_df)
 tract_profiles(years, geo_lookup_df)

@@ -133,7 +133,7 @@ def neighborhood_profiles(years, geo_lookup_df, output_path='./output'):
         columns_plus = [str(x) + '_' + n for x in year_columns]
 
         # drop na rows
-        df_all_calcs_full = df_all_calcs_full.dropna(subset=columns_plus, inplace=False)
+        #df_all_calcs_full = df_all_calcs_full.dropna(subset=columns_plus, inplace=False)
 
         columns_plus.insert(0, 'Attribute')
         columns_plus.insert(0, 'Category')
@@ -353,8 +353,8 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
         columns_plus_sf = [str(x) + '_' + 'San Francisco' for x in year_columns]
 
         # drop na rows
-        df_all_calcs_full = df_all_calcs_full.dropna(subset=columns_plus, inplace=False)
-        df_all_calcs_full_sf = df_all_calcs_full_sf.dropna(subset=columns_plus_sf, inplace=False)
+        #df_all_calcs_full = df_all_calcs_full.dropna(subset=columns_plus, inplace=False)
+        #df_all_calcs_full_sf = df_all_calcs_full_sf.dropna(subset=columns_plus_sf, inplace=False)
 
         columns_plus.insert(0, 'Attribute')
         columns_plus.insert(0, 'Category')

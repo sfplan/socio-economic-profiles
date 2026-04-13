@@ -19,12 +19,12 @@ def retrieve_sf3(attribute_ids, key):
     first = True
     num = 0
     year = 2000
-    #sf3_df_temp = pd.read_csv(r'./census_raw/sf32000df.csv')
+    sf3_df_temp = pd.read_csv(r'./census_raw/sf32000df.csv')
 
     for ids in split_attribute_ids:
         # print(ids)
-        #if ids in sf3_df_temp.columns:
-        #    continue
+        if ids in sf3_df_temp.columns:
+            continue
         ids = [ids]
         census_url = build_census_url(year, 'dec', 'sf3', county_code, state_code, tract_code, level, ids, key)
         # print(census_url)
@@ -54,7 +54,7 @@ def retrieve_sf3(attribute_ids, key):
 
     sf32000df = pd.concat([df.select_dtypes(include=object), df_numerics_only], axis=1)
 
-    #sf3_df_temp.drop(columns=['state', 'tract'], inplace=True)
-    #sf32000df_full = pd.concat([sf3_df_temp, sf32000df], axis=1)
+    sf3_df_temp.drop(columns=['state', 'tract'], inplace=True)
+    sf32000df_full = pd.concat([sf3_df_temp, sf32000df], axis=1)
 
-    sf32000df.to_csv(r'./census_raw/sf32000df.csv')
+    sf32000df_full.to_csv(r'./census_raw/sf32000df.csv')

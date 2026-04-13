@@ -62,7 +62,7 @@ def calc_socio_economic_data(df, tract_lookup, all_calc_data, all_calc_data_by_t
 
         elif treatment == 'median':
             # print(attribute_name,attribute_ids)
-            all_calc_data_nb['%s' % attribute_name] = calc_median(tract_df, range_df, \
+            all_calc_data_nb['%s' % attribute_name] = calc_median(tract_df, range_df, attribute_name,
                                                                   median_dict[attribute_name.split(',')[0]],
                                                                   attribute_ids, year)
 
@@ -89,10 +89,9 @@ def calc_socio_economic_data(df, tract_lookup, all_calc_data, all_calc_data_by_t
 
         elif treatment == 'median':
             # print(range_df, attribute_name)
-            all_calc_data_nb['%s' % attribute_name] = calc_median(tract_df, range_df,
+            all_calc_data_nb['%s' % attribute_name] = calc_median(tract_df, range_df, attribute_name,
                                                                   median_dict[attribute_name.split(' by')[0]],
                                                                   attribute_ids, year)
-
         # try:
         #     print(all_calc_data_nb['%s' %attribute_name])
         # except:
