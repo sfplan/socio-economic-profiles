@@ -10,7 +10,8 @@ output_path = r'./output'
 
 def neighborhood_profiles(years, geo_lookup_df, attribute_df, output_path='./output'):
     # In[]: Generate neighborhood profiles
-    # In[]: Generate neighborhood profiles
+
+    base_dict = dict(zip(attribute_df.attribute_name, attribute_df.base_attribute_name))
 
     download_path = r'./downloads'
     geo_lookup_df_yyyy = geo_lookup_df[geo_lookup_df['year'] == '2020']
@@ -132,6 +133,9 @@ def neighborhood_profiles(years, geo_lookup_df, attribute_df, output_path='./out
         # drop na rows
         #df_all_calcs_full = df_all_calcs_full.dropna(subset=columns_plus, inplace=False)
 
+        df_all_calcs_full['Percent Of'] = df_all_calcs_full['Attribute'].map(base_dict)
+
+        columns_plus.insert(0, 'Percent Of')
         columns_plus.insert(0, 'Attribute')
         columns_plus.insert(0, 'Category')
 
@@ -153,18 +157,23 @@ def neighborhood_profiles(years, geo_lookup_df, attribute_df, output_path='./out
         df_all_calcs_full = df_all_calcs_full.sort_values(by=['Category', 'Attribute'], ascending=[True, True],
                                                           inplace=False)
         df_all_calcs_full[df_all_calcs_full.isna()] = 'None'
+
+        df_all_calcs_full.loc[df_all_calcs_full['Attribute'].str.contains('a Mortgage'), 'Category'] = 'Housing Prices'
+
         n = n.strip().replace('/', '-')
         df_all_calcs_full.to_csv(r'./output_csv/%s_neighborhood_profiles_by_attribute_2000to%s.csv' %(n, max(years)))
 
 
-def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./output'):
+def neighborhood_profiles_vs_citywide(years, attribute_df, geo_lookup_df, output_path='./output'):
 
-    warnings.filterwarnings("ignore")
+    base_dict = dict(zip(attribute_df.attribute_name, attribute_df.base_attribute_name))
+
     download_path = r'./downloads'
     geo_lookup_df_yyyy = geo_lookup_df[geo_lookup_df['year'] == '2020']
     neighborhoods = list(set(geo_lookup_df_yyyy.neighborhood.tolist()))
     neighborhoods.sort()
     years = years[::-1]
+
     for n in neighborhoods:
 
         year_columns = []
@@ -354,11 +363,15 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
         # drop na rows
         #df_all_calcs_full = df_all_calcs_full.dropna(subset=columns_plus, inplace=False)
         #df_all_calcs_full_sf = df_all_calcs_full_sf.dropna(subset=columns_plus_sf, inplace=False)
-
+        columns_plus.insert(0, 'Percent Of')
         columns_plus.insert(0, 'Attribute')
         columns_plus.insert(0, 'Category')
+        columns_plus_sf.insert(0, 'Percent Of')
         columns_plus_sf.insert(0, 'Attribute')
         columns_plus_sf.insert(0, 'Category')
+
+        df_all_calcs_full['Percent Of'] = df_all_calcs_full['Attribute'].map(base_dict)
+        df_all_calcs_full_sf['Percent Of'] = df_all_calcs_full_sf['Attribute'].map(base_dict)
 
         df_all_calcs_full = df_all_calcs_full[columns_plus]
         df_all_calcs_full_sf = df_all_calcs_full_sf[columns_plus_sf]
@@ -375,9 +388,9 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
                 df_all_calcs_full = df_all_calcs_full[(df_all_calcs_full['Attribute'].isin(a_labels)) == False]
                 df_all_calcs_full = pd.concat([df_all_calcs_full, df_rows.to_frame().T], axis=0).reset_index(drop=True)
 
-        df_all_calcs_full = df_all_calcs_full.sort_values(by=['Category', 'Attribute'], ascending=[True, True],
-                                                          inplace=False)
 
+        df_all_calcs_full = df_all_calcs_full.sort_values(by=['Category', 'Attribute'],
+                                                                ascending=[True, True], inplace=False)
         # SF
         alternates = df_all_calcs_full_sf[df_all_calcs_full_sf['Attribute'].str.contains('alternate')][
             'Attribute'].tolist()
@@ -398,11 +411,13 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
         year_columns = years
         comparative_columns = [[str(x) + '_' + n, str(x) + '_' + 'San Francisco'] for x in year_columns]
         comparative_columns = [x for xs in comparative_columns for x in xs]
+        comparative_columns.insert(0, 'Percent Of')
         comparative_columns.insert(0, 'Attribute')
         comparative_columns.insert(0, 'Category')
 
         df_comparative = pd.merge(df_all_calcs_full, df_all_calcs_full_sf, on='Attribute', how='left')
         df_comparative = df_comparative.rename(columns={'Category_x': 'Category'})
+        df_comparative = df_comparative.rename(columns={'Percent Of_x': 'Percent Of'})
 
         try:
             df_comparative = df_comparative[comparative_columns]
@@ -410,6 +425,7 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
             df_comparative = df_comparative
 
         df_comparative[df_comparative.isna()] = 'None'
+        df_comparative.loc[df_comparative['Attribute'].str.contains('a Mortgage'), 'Category'] = 'Housing Prices'
 
         n = n.strip().replace('/', '-')
 
@@ -434,7 +450,7 @@ def tract_profiles(years, geo_lookup_df, output_path='./output'):
             if len(j) == 5:
                 TRACTS.append('0' + j)
 
-        columns = ['year', 'label', 'Category', 'Attribute'] + TRACTS
+        columns = ['year', 'label', 'Category', 'Attribute', 'Percent Of'] + TRACTS
 
         df_all_calcs_by_tract_all_years = pd.DataFrame(columns=columns)
 

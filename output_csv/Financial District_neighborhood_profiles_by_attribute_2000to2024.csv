@@ -1,524 +1,560 @@
-,Category,Attribute,2020_Financial District,2021_Financial District,2022_Financial District,2023_Financial District,2024_Financial District
-506,Affordability,# Units at or below 100 AMI Monthly Affordable Rent,8641.0,5256.0,5199.0,5254.0,5503
-497,Affordability,# Units at or below 30 AMI Monthly Affordable Rent,8641.0,5256.0,5199.0,5254.0,5503
-500,Affordability,# Units at or below 50 AMI Monthly Affordable Rent,8641.0,5256.0,5199.0,5254.0,5503
-503,Affordability,# Units at or below 80 AMI Monthly Affordable Rent,8641.0,5256.0,5199.0,5254.0,5503
-504,Affordability,100 AMI Annual Income,140732.94951284322,197792.0723226704,201071.31032927375,196572.91097760783,186272.67041901188
-505,Affordability,100 AMI Monthly Affordable Rent,11727.745792736934,16482.672693555865,16755.942527439478,16381.075914800653,15522.722534917657
-495,Affordability,30 AMI Annual Income,42219.884853852964,59337.621696801114,60321.39309878212,58971.87329328235,55881.80112570356
-496,Affordability,30 AMI Monthly Affordable Rent,3518.32373782108,4944.80180806676,5026.782758231843,4914.322774440196,4656.816760475297
-498,Affordability,50 AMI Annual Income,70366.47475642161,98896.0361613352,100535.65516463688,98286.45548880391,93136.33520950594
-499,Affordability,50 AMI Monthly Affordable Rent,5863.872896368467,8241.336346777933,8377.971263719739,8190.537957400326,7761.3612674588285
-501,Affordability,80 AMI Annual Income,112586.35961027458,158233.65785813634,160857.048263419,157258.32878208626,149018.1363352095
-502,Affordability,80 AMI Monthly Affordable Rent,9382.196634189548,13186.138154844695,13404.754021951585,13104.860731840521,12418.178027934126
-0,Age,"0-2 Years, Under 6 Years",0.6677577741407529,0.6732851985559567,0.6155913978494624,0.5871369294605809,0.5471180237877402
-1,Age,0-4 Years,0.0456668570852515,0.0461713684948309,0.0284117978258044,0.0319752029038704,0.0359856220896985
-2,Age,18-34 Years,0.3081084713868073,0.42509199229017,0.4153059898653038,0.3977731555120519,0.3737439751654277
-3,Age,"3-5 Years, Under 6 Years",0.3322422258592471,0.3267148014440433,0.3844086021505376,0.412863070539419,0.4528819762122598
-4,Age,35-59 Years,0.4054571726200477,0.3664797616961626,0.3579193555372688,0.3729760593825196,0.3727228167633363
-5,Age,5-17 Years,0.052454719580631,0.0200630804275451,0.0268093031313612,0.0387046780048125,0.0450535087002695
-6,Age,60 and older,0.1883127793272623,0.1421937970912914,0.1715535536402616,0.1585709041967453,0.1724940772812678
-7,Age,Under 18 Years,1648.0,1512.0,1275.0,1733.0,1984.0
-8,Age,Under 6 Years,1222.0,1108.0,744.0,964.0,1093.0
-507,Educational Attainment,College Degree or higher,0.7405695777540783,0.7947181998124805,0.7787130192250225,0.7951080663836356,0.7803837953091685
-508,Educational Attainment,High School or Less,0.1121380890310858,0.1030836545473486,0.114453630839725,0.116460825935932,0.120178329133553
-509,Educational Attainment,Some College/Associate Degree,0.1472923332148358,0.1021981456401708,0.1068333499352525,0.0884311076804322,0.0994378755572785
-9,Employment,"6-17, Living with One Parent",190.0,209.0,237.0,370.0,376.0
-10,Employment,"6-17, Living with One Parent, Parent Not in Labor Force",0.5684210526315789,0.5215311004784688,0.4556962025316455,0.3432432432432432,0.3297872340425531
-11,Employment,"6-17, Living with One Parent, Parent in Labor Force",0.431578947368421,0.4784688995215311,0.5443037974683544,0.6567567567567567,0.6702127659574468
-12,Employment,"6-17, Living with Two Parents",236.0,195.0,294.0,399.0,515.0
-13,Employment,"6-17, Living with Two Parents, One Parent in Labor Force",0.4364406779661017,0.2923076923076923,0.1972789115646258,0.1177944862155388,0.1475728155339805
-14,Employment,"6-17, Living with Two Parents, Parents Not in Labor Force",0.0,0.1487179487179487,0.1224489795918367,0.0977443609022556,0.0776699029126213
-15,Employment,"6-17, Living with Two Parents, Parents in Labor Force",0.5635593220338984,0.558974358974359,0.6802721088435374,0.7844611528822055,0.7747572815533981
-510,Employment,Employed Residents,20104.0,15427.0,16424.0,17162.0,16922.0
-511,Employment,Managerial Professional,0.6940907282132909,0.7855059311596552,0.775815879201169,0.7801538282251486,0.7700626403498404
-512,Employment,Natural Resources,0.0157182650218861,0.0117974978933039,0.0094982951777886,0.0071087285864118,0.010164283181657
-513,Employment,Production Transport Materials,0.0259152407481098,0.0298178518182407,0.0239283974671212,0.0325136930427689,0.0258834653114289
-514,Employment,Sales and Office,0.1452447274174293,0.1034549815258961,0.1246955674622503,0.1170026803402866,0.1243942796359768
-515,Employment,Services,0.1190310385992837,0.069423737602904,0.0660618606916707,0.0632210698053839,0.0694953315210968
-16,Employment,"Under 6 Years, Living with One Parent",118.0,124.0,103.0,140.0,355.0
-17,Employment,"Under 6 Years, Living with One Parent, Parent Not in Labor Force",0.1949152542372881,0.1935483870967742,0.0,0.0,0.0
-18,Employment,"Under 6 Years, Living with One Parent, Parent in Labor Force",0.8050847457627118,0.8064516129032258,1.0,1.0,1.0
-19,Employment,"Under 6 Years, Living with Two Parents",1104.0,984.0,630.0,813.0,731.0
-20,Employment,"Under 6 Years, Living with Two Parents, One Parent in Labor Force",0.5045289855072463,0.4654471544715447,0.4968253968253968,0.4108241082410824,0.2421340629274966
-21,Employment,"Under 6 Years, Living with Two Parents, Parents Not in Labor Force",0.0733695652173913,0.1382113821138211,0.0587301587301587,0.04920049200492,0.054719562243502
-22,Employment,"Under 6 Years, Living with Two Parents, Parents in Labor Force",0.4221014492753623,0.3963414634146341,0.4444444444444444,0.5399753997539976,0.7031463748290013
-516,Employment,Unemployment Rate,0.044168687300908,0.0698782105390088,0.0590122607998166,0.0596679633992657,0.0671444321940463
-23,Employment,Worked in place of residence,0.754195332090272,0.7657754730958314,0.8021984924623116,0.8234351824384456,0.8321998194402648
-24,Employment,Worked outside place of residence,0.245804667909728,0.2342245269041686,0.1978015075376884,0.1765648175615544,0.1678001805597351
-25,Households,Average Family Household Size,2.781980612050941,2.4856361149110806,2.422513321492007,2.491878384006664,2.5269709543568464
-26,Households,Average Household Size,2.042838297576893,1.8433545612439004,1.7248213874164553,1.7320588022304295,1.680143439741246
-27,Households,Family Households,0.365271124071374,0.362749152262013,0.3460090650687562,0.3477442247809399,0.3389115454928983
-28,Households,Households,14403.0,12091.0,13017.0,13809.0,14222.0
-29,Households,"Households with 60 years and older, % of Total (DEC, 65 years and older)",0.3054919114073457,0.1869158878504672,0.2028117077667665,0.1932073285538417,0.2046828856700886
-30,Households,"Households with Children, % of Total",0.1211553148649586,0.0778264825076503,0.064223707459476,0.0837859367079441,0.093235831809872
-31,Households,Living in Group Quarters,336.0,540.0,637.0,601.0,587.0
-32,Households,Non-Family Households,0.634728875928626,0.6372508477379869,0.6539909349312437,0.6522557752190601,0.6610884545071016
-33,Households,"Single Person Households, % of Total",0.415677289453586,0.4232900504507484,0.464546362449105,0.4717213411543196,0.5215159611868936
-34,Housing,Median Year Moved In Owner,2006.555763823805,2012.379477250726,2012.424387328153,2014.002536461636,2013.2783405692232
-35,Housing,Median Year Moved In Renter,2012.286721068249,2018.4976352349984,2018.6651696606789,2019.739427662957,2018.8631167268352
-36,Housing,Median Year Structure Built,1939.0,2002.771551724138,2002.459136630344,2002.786528497409,2002.950641443792
-37,Housing,"Overcrowding, Renter Occupied Housing",0.0768491834774255,0.1078224101479915,0.0932406246437934,0.0792637514629215,0.0736320420754526
-38,Housing,Owner Occupied,0.2772339096021662,0.3349598875196427,0.3260351847583929,0.319356941125353,0.3048094501476585
-39,Housing,"Owner Occupied by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0555555555555555,0.0909090909090909,0.1379310344827586
-40,Housing,"Owner Occupied by Race, Asian Alone",0.2057396928051738,0.3199639477242001,0.3383777239709443,0.3227257004496714,0.3189198144466534
-41,Housing,"Owner Occupied by Race, Black or African American Alone",0.0274390243902439,0.1461988304093567,0.1682692307692307,0.1647058823529411,0.1223709369024856
-42,Housing,"Owner Occupied by Race, Hispanic or Latino",0.1435045317220543,0.3362962962962963,0.22,0.1698275862068965,0.1072243346007604
-43,Housing,"Owner Occupied by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.1262135922330097,0.2282608695652173,0.3050847457627119
-44,Housing,"Owner Occupied by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-45,Housing,"Owner Occupied by Race, Two or More Races",0.2987267384916748,0.0863309352517985,0.1673728813559322,0.1146025878003696,0.1089108910891089
-46,Housing,"Owner Occupied by Race, White Alone",0.3294875792537158,0.3796146492131196,0.3530774800868935,0.352803738317757,0.34715988237115
-47,Housing,"Owner Occupied by Race, White Alone, Not Hispanic or Latino",0.34211123723042,0.36550339715874,0.3527391915092867,0.3573130061934254,0.3579403432761206
-48,Housing,Post 1979 All and Pre 1979 Single Family Renter Occupied by Year Structure Built by Units in Structure,1631.0,5617.0,5915.0,6612.0,7273.0
-49,Housing,Pre 1980 MultiFamily Renter Occupied by Year Structure Built by Units in Structure,8779.0,2413.0,2844.0,2763.0,2591.0
-50,Housing,Renter Occupied,0.7227660903978338,0.6650401124803573,0.6739648152416071,0.6806430588746469,0.6951905498523414
-51,Housing,"Renter Occupied by Race, American Indian and Alaska Native Alone",1.0,1.0,0.9444444444444444,0.9090909090909092,0.8620689655172413
-52,Housing,"Renter Occupied by Race, Asian Alone",0.7942603071948262,0.6800360522757999,0.6616222760290557,0.6772742995503286,0.6810801855533466
-53,Housing,"Renter Occupied by Race, Black or African American Alone",0.972560975609756,0.8538011695906432,0.8317307692307693,0.8352941176470589,0.8776290630975143
-54,Housing,"Renter Occupied by Race, Hispanic or Latino",0.8564954682779456,0.6637037037037037,0.78,0.8301724137931035,0.8927756653992396
-55,Housing,"Renter Occupied by Race, Native Hawaiian and Other Pacific Islander Alone",1.0,1.0,0.8737864077669902,0.7717391304347826,0.6949152542372882
-56,Housing,"Renter Occupied by Race, Some Other Race Alone",1.0,1.0,1.0,1.0,1.0
-57,Housing,"Renter Occupied by Race, Two or More Races",0.7012732615083251,0.9136690647482014,0.8326271186440678,0.8853974121996303,0.8910891089108911
-58,Housing,"Renter Occupied by Race, White Alone",0.6705124207462841,0.6203853507868804,0.6469225199131065,0.647196261682243,0.65284011762885
-59,Housing,"Renter Occupied by Race, White Alone, Not Hispanic or Latino",0.65788876276958,0.6344966028412601,0.6472608084907133,0.6426869938065746,0.6420596567238793
-60,Housing,Total Number of Units,16017.0,15848.0,16601.0,17123.0,17530.0
-61,Housing,Total Vacant Units,1614.0,3757.0,3584.0,3314.0,3308.0
-62,Housing,Vacancy Rate,0.1007679340700505,0.2370646138313983,0.2158906089994578,0.1935408514863049,0.1887050770108385
-63,Housing Prices,Contract Rent 100 to 149,0.0,0.0,0.0,0.0,36.0
-64,Housing Prices,Contract Rent 1000 to 1249,891.0,1145.0,599.0,298.0,423.0
-65,Housing Prices,Contract Rent 1250 to 1499,726.0,425.0,718.0,654.0,515.0
-66,Housing Prices,Contract Rent 150 to 199,0.0,0.0,0.0,0.0,0.0
-67,Housing Prices,Contract Rent 1500 to 1999,1531.0,455.0,468.0,758.0,760.0
-68,Housing Prices,Contract Rent 200 to 249,158.0,0.0,81.0,81.0,196.0
-69,Housing Prices,"Contract Rent 2000 to 2499 (Contract Rent 2000 or more, DEC2000 and ACS2009-2014)",1440.0,611.0,713.0,659.0,579.0
-70,Housing Prices,Contract Rent 250 to 299,392.0,66.0,31.0,29.0,53.0
-71,Housing Prices,Contract Rent 2500 to 2999 (ACS2015-),1066.0,715.0,833.0,957.0,1132.0
-72,Housing Prices,Contract Rent 300 to 349,98.0,62.0,25.0,17.0,15.0
-73,Housing Prices,Contract Rent 3000 to 3499 (ACS2015-),1142.0,1364.0,1610.0,1246.0,1565.0
-74,Housing Prices,Contract Rent 350 to 399,42.0,2.0,24.0,93.0,24.0
-75,Housing Prices,Contract Rent 3500 or more (ACS2015-),1466.0,2274.0,3003.0,3832.0,3840.0
-76,Housing Prices,Contract Rent 400 to 449,51.0,45.0,0.0,3.0,126.0
-77,Housing Prices,Contract Rent 500 to 549,62.0,200.0,40.0,20.0,0.0
-78,Housing Prices,Contract Rent 550 to 599,102.0,110.0,0.0,0.0,20.0
-79,Housing Prices,Contract Rent 600 to 649,150.0,101.0,116.0,71.0,11.0
-80,Housing Prices,Contract Rent 650 to 699,93.0,85.0,62.0,0.0,33.0
-81,Housing Prices,Contract Rent 700 to 749,76.0,41.0,43.0,76.0,67.0
-82,Housing Prices,Contract Rent 750 to 749,49.0,0.0,76.0,72.0,0.0
-83,Housing Prices,Contract Rent 750 to 799,19.0,61.0,0.0,56.0,80.0
-84,Housing Prices,Contract Rent 800 to 899,543.0,81.0,61.0,146.0,79.0
-85,Housing Prices,Contract Rent 900 to 999,159.0,74.0,91.0,165.0,160.0
-86,Housing Prices,Contract Rent Less than 100,18.0,0.0,0.0,16.0,30.0
-87,Housing Prices,Contract Rent Total,10410.0,8041.0,8773.0,9399.0,9887.0
-88,Housing Prices,Contract Rent Total No cash Rent (ACS2015-),136.0,124.0,179.0,150.0,143.0
-89,Housing Prices,"Contract Rent Total No cash Rent (No cash rent, DEC2000 and ACS2009-2014)",1066.0,715.0,833.0,957.0,1132.0
-90,Housing Prices,Contract Rent Total With cash Rent,10274.0,7917.0,8594.0,9249.0,9744.0
-91,Housing Prices,Extremely Rent Burdened,0.1067243035542747,0.1208804875015545,0.1283483415023367,0.1508671135227151,0.1678972387984221
-92,Housing Prices,"Extremely Rent Burdened by Race, American Indian and Alaska Native Alone",,,,1.0,0.62
-93,Housing Prices,"Extremely Rent Burdened by Race, Asian Alone",,,,0.0921859039836568,0.1097056677207492
-94,Housing Prices,"Extremely Rent Burdened by Race, Black or African American Alone",,,,0.4976525821596244,0.2200435729847494
-95,Housing Prices,"Extremely Rent Burdened by Race, Hispanic or Latino",,,,0.1973001038421599,0.2206132879045996
-96,Housing Prices,"Extremely Rent Burdened by Race, Native Hawaiian and Other Pacific Islander Alone",,,,0.0,0.0
-97,Housing Prices,"Extremely Rent Burdened by Race, Some Other Race Alone",,,,0.1937984496124031,0.3227513227513227
-98,Housing Prices,"Extremely Rent Burdened by Race, Two or More Races",,,,0.2212943632567849,0.1984126984126984
-99,Housing Prices,"Extremely Rent Burdened by Race, White Alone",,,,0.1504963898916967,0.1804172593646278
-100,Housing Prices,"Extremely Rent Burdened by Race, White Alone, Not Hispanic or Latino",,,,0.1467753891771683,0.1884246042045159
-101,Housing Prices,Home Value 10000 to 14999 ,0.0,0.0,0.0,0.0,0.0
-102,Housing Prices,Home Value 100000 to 124999,0.0,0.0,13.0,12.0,22.0
-103,Housing Prices,"Home Value 1000000 to 1499999 (1000000 or more, DEC2000 and ACS2009-2014)",1162.0,1287.0,1345.0,1341.0,1059.0
-104,Housing Prices,Home Value 125000 to 149999,14.0,0.0,0.0,0.0,0.0
-105,Housing Prices,Home Value 15000 to 19999 ,0.0,0.0,0.0,0.0,0.0
-106,Housing Prices,Home Value 150000 to 174999,0.0,0.0,0.0,0.0,0.0
-107,Housing Prices,Home Value 1500000 to 1999999 (ACS2015-),799.0,958.0,966.0,797.0,821.0
-108,Housing Prices,Home Value 175000 to 199999,0.0,0.0,0.0,0.0,0.0
-109,Housing Prices,Home Value 20000 to 24999 ,0.0,0.0,0.0,0.0,0.0
-110,Housing Prices,Home Value 200000 to 249999,22.0,0.0,0.0,20.0,35.0
-111,Housing Prices,Home Value 2000000 or more (ACS2015-),1033.0,769.0,964.0,1148.0,1026.0
-112,Housing Prices,Home Value 25000 to 29999 ,0.0,54.0,45.0,8.0,5.0
-113,Housing Prices,Home Value 250000 to 299999,0.0,203.0,0.0,0.0,13.0
-114,Housing Prices,Home Value 30000 to 34999 ,0.0,0.0,0.0,0.0,0.0
-115,Housing Prices,Home Value 300000 to 399999,98.0,92.0,268.0,291.0,261.0
-116,Housing Prices,Home Value 35000 to 39999 ,11.0,0.0,0.0,0.0,0.0
-117,Housing Prices,Home Value 40000 to 49999 ,0.0,0.0,0.0,0.0,0.0
-118,Housing Prices,Home Value 400000 to 499999,40.0,46.0,172.0,143.0,135.0
-119,Housing Prices,Home Value 50000 to 59999 ,0.0,0.0,0.0,0.0,19.0
-120,Housing Prices,Home Value 500000 to 749999,247.0,196.0,19.0,38.0,158.0
-121,Housing Prices,Home Value 60000 to 69999 ,0.0,0.0,0.0,0.0,0.0
-122,Housing Prices,Home Value 70000 to 79999 ,0.0,117.0,0.0,0.0,0.0
-123,Housing Prices,Home Value 750000 to 999999,558.0,268.0,368.0,524.0,693.0
-124,Housing Prices,Home Value 80000 to 89999 ,0.0,0.0,0.0,0.0,0.0
-125,Housing Prices,Home Value 90000 to 99999 ,0.0,0.0,0.0,0.0,0.0
-126,Housing Prices,Home Value Less than 10000,9.0,60.0,84.0,88.0,88.0
-127,Housing Prices,Home Value Total,3993.0,4050.0,4244.0,4410.0,4335.0
-128,Housing Prices,Housing Units with a Mortgage,2984.0,2795.0,2950.0,3238.0,2961.0
-129,Housing Prices,Housing Units with a Mortgage 0 to 30%,1986.0,2099.0,2191.0,2275.0,1959.0
-130,Housing Prices,Housing Units with a Mortgage 30-50%,486.0,398.0,378.0,497.0,480.0
-131,Housing Prices,Housing Units with a Mortgage 50%+,464.0,298.0,363.0,418.0,474.0
-132,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-133,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Asian Alone",0.0,0.0,0.0,127.0,160.0
-134,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-135,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Hispanic or Latino",0.0,0.0,0.0,0.0,0.0
-136,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-137,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-138,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Two or More Races",0.0,0.0,0.0,0.0,0.0
-139,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, White Alone",0.0,0.0,0.0,291.0,314.0
-140,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,291.0,314.0
-141,Housing Prices,Housing Units with a Mortgage Not Computed,48.0,0.0,18.0,48.0,48.0
-142,Housing Prices,"Housing Units with a Mortgage by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,3.0,8.0
-143,Housing Prices,"Housing Units with a Mortgage by Race, Asian Alone",0.0,0.0,0.0,1450.0,1485.0
-144,Housing Prices,"Housing Units with a Mortgage by Race, Black or African American Alone",0.0,0.0,0.0,15.0,18.0
-145,Housing Prices,"Housing Units with a Mortgage by Race, Hispanic or Latino",0.0,0.0,0.0,111.0,30.0
-146,Housing Prices,"Housing Units with a Mortgage by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,21.0,18.0
-147,Housing Prices,"Housing Units with a Mortgage by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-148,Housing Prices,"Housing Units with a Mortgage by Race, Two or More Races",0.0,0.0,0.0,58.0,54.0
-149,Housing Prices,"Housing Units with a Mortgage by Race, White Alone",0.0,0.0,0.0,1691.0,1378.0
-150,Housing Prices,"Housing Units with a Mortgage by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,1611.0,1378.0
-151,Housing Prices,Housing Units without a Mortgage,1009.0,1255.0,1294.0,1172.0,1374.0
-152,Housing Prices,Housing Units without a Mortgage 0 to 30%,924.0,815.0,781.0,707.0,737.0
-153,Housing Prices,Housing Units without a Mortgage 30-50%,67.0,23.0,32.0,69.0,112.0
-154,Housing Prices,Housing Units without a Mortgage 50%+,18.0,417.0,481.0,396.0,525.0
-155,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-156,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Asian Alone",0.0,0.0,0.0,61.0,48.0
-157,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-158,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Hispanic or Latino",0.0,0.0,0.0,33.0,46.0
-159,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-160,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-161,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Two or More Races",0.0,0.0,0.0,0.0,0.0
-162,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, White Alone",0.0,0.0,0.0,335.0,477.0
-163,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,302.0,431.0
-164,Housing Prices,Housing Units without a Mortgage Not Computed,0.0,0.0,0.0,0.0,0.0
-165,Housing Prices,"Housing Units without a Mortgage by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-166,Housing Prices,"Housing Units without a Mortgage by Race, Asian Alone",0.0,0.0,0.0,416.0,440.0
-167,Housing Prices,"Housing Units without a Mortgage by Race, Black or African American Alone",0.0,0.0,0.0,27.0,46.0
-168,Housing Prices,"Housing Units without a Mortgage by Race, Hispanic or Latino",0.0,0.0,0.0,86.0,111.0
-169,Housing Prices,"Housing Units without a Mortgage by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-170,Housing Prices,"Housing Units without a Mortgage by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-171,Housing Prices,"Housing Units without a Mortgage by Race, Two or More Races",0.0,0.0,0.0,4.0,23.0
-172,Housing Prices,"Housing Units without a Mortgage by Race, White Alone",0.0,0.0,0.0,725.0,865.0
-173,Housing Prices,"Housing Units without a Mortgage by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,639.0,770.0
-174,Housing Prices,Median Contract Rent,1992.4885695623773,2775.8741258741256,3098.136645962733,3181.982343499197,3170.2875399361023
-175,Housing Prices,Median Gross Rent by Bedrooms - 1 Bedroom- COUNTY ONLY,2201.8048212248004,3338.384134762634,2856.3742068327942,3254.0300902708123,3117.909301502525
-176,Housing Prices,Median Gross Rent by Bedrooms - 2 Bedrooms- COUNTY ONLY,2755.0940191976374,3020.2915819438795,3224.835761812516,3077.629889669007,3394.655255622406
-177,Housing Prices,Median Gross Rent by Bedrooms - 3-4 Bedrooms- COUNTY ONLY,,,,,
-178,Housing Prices,Median Gross Rent by Bedrooms - 5 Bedrooms or more- COUNTY ONLY,,827.0,816.0,932.0,
-179,Housing Prices,Median Gross Rent by Bedrooms - No Bedroom- COUNTY ONLY,1509.8451768488746,2767.750074382624,2818.490103794596,2722.866295032865,2731.9747643219725
-180,Housing Prices,Median Home Value,1429216.8674698796,1384226.8842268842,1428624.535315985,1403057.4198359433,1348677.998111426
-181,Housing Prices,Median Rent,2055.938697318008,2872.464898595944,3180.820948336872,3256.965361445783,3291.240409207161
-182,Housing Prices,Median Rent as % of Household Income,21.4519341563786,20.34051054384018,20.958813413585556,22.5818515497553,23.36129807692308
-183,Housing Prices,Rent 100 to 149,18.0,0.0,0.0,0.0,0.0
-184,Housing Prices,Rent 1000 to 1249,798.0,1042.0,511.0,366.0,380.0
-185,Housing Prices,Rent 1250 to 1499,638.0,591.0,803.0,699.0,577.0
-186,Housing Prices,Rent 150 to 199,0.0,0.0,0.0,0.0,36.0
-187,Housing Prices,Rent 1500 to 1999,1632.0,419.0,412.0,703.0,818.0
-188,Housing Prices,Rent 200 to 249,41.0,0.0,68.0,68.0,64.0
-189,Housing Prices,"Rent 2000 to 2499  (Rent 2000 or more, DEC2000 and ACS2009-2014)",1305.0,589.0,716.0,633.0,559.0
-190,Housing Prices,Rent 250 to 299,341.0,15.0,44.0,42.0,74.0
-191,Housing Prices,Rent 2500 to 2999 (ACS2015-),1145.0,641.0,756.0,840.0,848.0
-192,Housing Prices,Rent 300 to 349,123.0,16.0,25.0,17.0,66.0
-193,Housing Prices,Rent 3000 to 3499 (ACS2015-),1200.0,1134.0,1413.0,1328.0,1564.0
-194,Housing Prices,Rent 350 to 399,75.0,2.0,24.0,22.0,92.0
-195,Housing Prices,Rent 3500 or more (ACS2015-),1633.0,2661.0,3395.0,3979.0,4219.0
-196,Housing Prices,Rent 400 to 449,34.0,60.0,0.0,74.0,126.0
-197,Housing Prices,Rent 450 to 499,32.0,21.0,0.0,0.0,0.0
-198,Housing Prices,Rent 500 to 549,91.0,207.0,9.0,0.0,20.0
-199,Housing Prices,Rent 550 to 599,191.0,86.0,62.0,30.0,0.0
-200,Housing Prices,Rent 600 to 649,73.0,186.0,73.0,14.0,5.0
-201,Housing Prices,Rent 650 to 699,68.0,46.0,100.0,116.0,52.0
-202,Housing Prices,Rent 700 to 749,82.0,7.0,60.0,33.0,35.0
-203,Housing Prices,Rent 750 to 799,91.0,107.0,7.0,85.0,74.0
-204,Housing Prices,Rent 800 to 899,406.0,48.0,63.0,50.0,49.0
-205,Housing Prices,Rent 900 to 999,257.0,39.0,53.0,134.0,64.0
-206,Housing Prices,Rent Burdened,0.3048030739673391,0.3310533515731874,0.3135757437592614,0.3429088200872433,0.3475270557297461
-207,Housing Prices,"Rent Burdened by Race, American Indian and Alaska Native Alone",,,,1.0,0.62
-208,Housing Prices,"Rent Burdened by Race, Asian Alone",,,,0.278855975485189,0.2882510338117246
-209,Housing Prices,"Rent Burdened by Race, Black or African American Alone",,,,0.5727699530516432,0.355119825708061
-210,Housing Prices,"Rent Burdened by Race, Hispanic or Latino",,,,0.387331256490135,0.3833049403747871
-211,Housing Prices,"Rent Burdened by Race, Native Hawaiian and Other Pacific Islander Alone",,,,0.0,0.0
-212,Housing Prices,"Rent Burdened by Race, Some Other Race Alone",,,,0.5813953488372093,0.58994708994709
-213,Housing Prices,"Rent Burdened by Race, Two or More Races",,,,0.4885177453027139,0.4253968253968254
-214,Housing Prices,"Rent Burdened by Race, White Alone",,,,0.3287454873646209,0.3250355618776671
-215,Housing Prices,"Rent Burdened by Race, White Alone, Not Hispanic or Latino",,,,0.3325920434890042,0.3361017389047495
-216,Housing Prices,Rent Less than 100,0.0,0.0,0.0,16.0,22.0
-217,Housing Prices,Rent Total,10410.0,8041.0,8773.0,9399.0,9887.0
-218,Housing Prices,"Rent Total No cash rent  (No cash rent, DEC2000 and ACS2009-2014)",1145.0,641.0,756.0,840.0,848.0
-219,Housing Prices,Rent Total No cash rent (ACS2015-),136.0,124.0,179.0,150.0,143.0
-220,Housing Prices,Rent Total With cash rent,10274.0,7917.0,8594.0,9249.0,9744.0
-221,Housing Type,10-19 Units,0.1318598988574639,0.0177940434124179,0.0265646647792301,0.0325877474741575,0.0387335995436394
-222,Housing Type,2-4 Units,0.2808890553786601,0.0020822816759212,0.0080718029034395,0.0138410325293464,0.0148317170564746
-223,Housing Type,20 Units or More,0.3119185865018418,0.9055401312468452,0.8965122582976929,0.896279857501606,0.8855675984027381
-224,Housing Type,5-9 Units,0.1391646375725791,0.0070040383644623,0.0090356002650442,0.0094609589441102,0.0159726183685111
-225,Housing Type,Other Type,0.0040581881750639,0.0006940938919737,0.0008433226914041,0.0014016235472755,0.0013120365088419
-226,Housing Type,Single Family Housing,0.1321096335143909,0.0668854114083796,0.0589723510631889,0.046428780003504,0.0435824301197946
-227,Income,Household Income 10000 to 14999,587.0,155.0,167.0,273.0,294.0
-228,Income,"Household Income 10000 to 14999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-229,Income,"Household Income 10000 to 14999 by Race, Asian Alone",127.0,30.0,46.0,136.0,100.0
-230,Income,"Household Income 10000 to 14999 by Race, Black or African American Alone",22.0,12.0,63.0,43.0,31.0
-231,Income,"Household Income 10000 to 14999 by Race, Hispanic or Latino",207.0,0.0,22.0,72.0,76.0
-232,Income,"Household Income 10000 to 14999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-233,Income,"Household Income 10000 to 14999 by Race, Some Other Race Alone",51.0,0.0,0.0,50.0,52.0
-234,Income,"Household Income 10000 to 14999 by Race, Two or More Races",86.0,0.0,0.0,0.0,0.0
-235,Income,"Household Income 10000 to 14999 by Race, White Alone",301.0,113.0,58.0,44.0,111.0
-236,Income,"Household Income 10000 to 14999 by Race, White Alone, Not Hispanic or Latino",231.0,113.0,36.0,22.0,87.0
-237,Income,Household Income 100000 to 124999,1152.0,771.0,862.0,747.0,744.0
-238,Income,"Household Income 100000 to 124999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-239,Income,"Household Income 100000 to 124999 by Race, Asian Alone",166.0,232.0,291.0,231.0,265.0
-240,Income,"Household Income 100000 to 124999 by Race, Black or African American Alone",0.0,7.0,8.0,7.0,5.0
-241,Income,"Household Income 100000 to 124999 by Race, Hispanic or Latino",160.0,92.0,164.0,56.0,4.0
-242,Income,"Household Income 100000 to 124999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-243,Income,"Household Income 100000 to 124999 by Race, Some Other Race Alone",102.0,110.0,119.0,46.0,4.0
-244,Income,"Household Income 100000 to 124999 by Race, Two or More Races",65.0,0.0,13.0,10.0,0.0
-245,Income,"Household Income 100000 to 124999 by Race, White Alone",819.0,422.0,431.0,453.0,470.0
-246,Income,"Household Income 100000 to 124999 by Race, White Alone, Not Hispanic or Latino",727.0,412.0,399.0,453.0,470.0
-247,Income,Household Income 125000 to 149999,1129.0,719.0,606.0,603.0,795.0
-248,Income,"Household Income 125000 to 149999 by Race, American Indian and Alaska Native Alone",42.0,0.0,0.0,0.0,0.0
-249,Income,"Household Income 125000 to 149999 by Race, Asian Alone",333.0,308.0,251.0,313.0,337.0
-250,Income,"Household Income 125000 to 149999 by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-251,Income,"Household Income 125000 to 149999 by Race, Hispanic or Latino",141.0,13.0,73.0,73.0,120.0
-252,Income,"Household Income 125000 to 149999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-253,Income,"Household Income 125000 to 149999 by Race, Some Other Race Alone",39.0,13.0,106.0,55.0,91.0
-254,Income,"Household Income 125000 to 149999 by Race, Two or More Races",56.0,28.0,39.0,9.0,32.0
-255,Income,"Household Income 125000 to 149999 by Race, White Alone",659.0,370.0,210.0,226.0,335.0
-256,Income,"Household Income 125000 to 149999 by Race, White Alone, Not Hispanic or Latino",636.0,370.0,210.0,208.0,324.0
-257,Income,Household Income 15000 to 19999,325.0,301.0,355.0,172.0,168.0
-258,Income,"Household Income 15000 to 19999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-259,Income,"Household Income 15000 to 19999 by Race, Asian Alone",82.0,79.0,64.0,14.0,18.0
-260,Income,"Household Income 15000 to 19999 by Race, Black or African American Alone",43.0,46.0,0.0,17.0,24.0
-261,Income,"Household Income 15000 to 19999 by Race, Hispanic or Latino",129.0,37.0,0.0,17.0,13.0
-262,Income,"Household Income 15000 to 19999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-263,Income,"Household Income 15000 to 19999 by Race, Some Other Race Alone",53.0,0.0,0.0,0.0,0.0
-264,Income,"Household Income 15000 to 19999 by Race, Two or More Races",55.0,37.0,67.0,55.0,39.0
-265,Income,"Household Income 15000 to 19999 by Race, White Alone",92.0,139.0,224.0,86.0,87.0
-266,Income,"Household Income 15000 to 19999 by Race, White Alone, Not Hispanic or Latino",65.0,139.0,224.0,86.0,87.0
-267,Income,Household Income 150000 to 199999,1821.0,1438.0,1620.0,1831.0,1599.0
-268,Income,"Household Income 150000 to 199999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-269,Income,"Household Income 150000 to 199999 by Race, Asian Alone",225.0,435.0,690.0,787.0,644.0
-270,Income,"Household Income 150000 to 199999 by Race, Black or African American Alone",0.0,62.0,0.0,0.0,0.0
-271,Income,"Household Income 150000 to 199999 by Race, Hispanic or Latino",123.0,12.0,28.0,134.0,224.0
-272,Income,"Household Income 150000 to 199999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,61.0,16.0,17.0,24.0
-273,Income,"Household Income 150000 to 199999 by Race, Some Other Race Alone",48.0,21.0,41.0,13.0,13.0
-274,Income,"Household Income 150000 to 199999 by Race, Two or More Races",124.0,29.0,17.0,109.0,236.0
-275,Income,"Household Income 150000 to 199999 by Race, White Alone",1424.0,830.0,856.0,905.0,682.0
-276,Income,"Household Income 150000 to 199999 by Race, White Alone, Not Hispanic or Latino",1329.0,818.0,856.0,889.0,665.0
-277,Income,Household Income 20000 to 24999,273.0,95.0,161.0,313.0,288.0
-278,Income,"Household Income 20000 to 24999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-279,Income,"Household Income 20000 to 24999 by Race, Asian Alone",23.0,66.0,30.0,158.0,77.0
-280,Income,"Household Income 20000 to 24999 by Race, Black or African American Alone",0.0,11.0,0.0,0.0,0.0
-281,Income,"Household Income 20000 to 24999 by Race, Hispanic or Latino",87.0,0.0,121.0,100.0,98.0
-282,Income,"Household Income 20000 to 24999 by Race, Native Hawaiian and Other Pacific Islander Alone",69.0,0.0,0.0,0.0,0.0
-283,Income,"Household Income 20000 to 24999 by Race, Some Other Race Alone",80.0,0.0,0.0,0.0,37.0
-284,Income,"Household Income 20000 to 24999 by Race, Two or More Races",0.0,0.0,42.0,45.0,49.0
-285,Income,"Household Income 20000 to 24999 by Race, White Alone",101.0,18.0,89.0,110.0,125.0
-286,Income,"Household Income 20000 to 24999 by Race, White Alone, Not Hispanic or Latino",94.0,18.0,10.0,55.0,113.0
-287,Income,Household Income 25000 to 29999,298.0,330.0,185.0,79.0,71.0
-288,Income,"Household Income 25000 to 29999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-289,Income,"Household Income 25000 to 29999 by Race, Asian Alone",50.0,127.0,96.0,0.0,0.0
-290,Income,"Household Income 25000 to 29999 by Race, Black or African American Alone",52.0,0.0,14.0,14.0,12.0
-291,Income,"Household Income 25000 to 29999 by Race, Hispanic or Latino",41.0,52.0,25.0,0.0,12.0
-292,Income,"Household Income 25000 to 29999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-293,Income,"Household Income 25000 to 29999 by Race, Some Other Race Alone",0.0,52.0,25.0,0.0,0.0
-294,Income,"Household Income 25000 to 29999 by Race, Two or More Races",0.0,0.0,0.0,0.0,0.0
-295,Income,"Household Income 25000 to 29999 by Race, White Alone",196.0,151.0,50.0,65.0,59.0
-296,Income,"Household Income 25000 to 29999 by Race, White Alone, Not Hispanic or Latino",155.0,151.0,50.0,65.0,47.0
-297,Income,Household Income 30000 to 34999,230.0,167.0,157.0,362.0,444.0
-298,Income,"Household Income 30000 to 34999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-299,Income,"Household Income 30000 to 34999 by Race, Asian Alone",63.0,0.0,62.0,121.0,133.0
-300,Income,"Household Income 30000 to 34999 by Race, Black or African American Alone",0.0,0.0,0.0,61.0,65.0
-301,Income,"Household Income 30000 to 34999 by Race, Hispanic or Latino",79.0,0.0,0.0,0.0,0.0
-302,Income,"Household Income 30000 to 34999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-303,Income,"Household Income 30000 to 34999 by Race, Some Other Race Alone",42.0,0.0,0.0,0.0,0.0
-304,Income,"Household Income 30000 to 34999 by Race, Two or More Races",0.0,0.0,0.0,0.0,0.0
-305,Income,"Household Income 30000 to 34999 by Race, White Alone",125.0,167.0,95.0,180.0,246.0
-306,Income,"Household Income 30000 to 34999 by Race, White Alone, Not Hispanic or Latino",88.0,167.0,95.0,180.0,246.0
-307,Income,Household Income 35000 to 39999,262.0,204.0,130.0,54.0,81.0
-308,Income,"Household Income 35000 to 39999 by Race, American Indian and Alaska Native Alone",0.0,34.0,34.0,0.0,0.0
-309,Income,"Household Income 35000 to 39999 by Race, Asian Alone",99.0,26.0,11.0,0.0,43.0
-310,Income,"Household Income 35000 to 39999 by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-311,Income,"Household Income 35000 to 39999 by Race, Hispanic or Latino",47.0,34.0,34.0,0.0,0.0
-312,Income,"Household Income 35000 to 39999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-313,Income,"Household Income 35000 to 39999 by Race, Some Other Race Alone",27.0,0.0,0.0,0.0,0.0
-314,Income,"Household Income 35000 to 39999 by Race, Two or More Races",30.0,0.0,0.0,0.0,0.0
-315,Income,"Household Income 35000 to 39999 by Race, White Alone",106.0,144.0,85.0,54.0,38.0
-316,Income,"Household Income 35000 to 39999 by Race, White Alone, Not Hispanic or Latino",86.0,144.0,85.0,54.0,38.0
-317,Income,Household Income 40000 to 44999,214.0,277.0,296.0,253.0,221.0
-318,Income,"Household Income 40000 to 44999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,30.0,31.0
-319,Income,"Household Income 40000 to 44999 by Race, Asian Alone",9.0,197.0,50.0,66.0,39.0
-320,Income,"Household Income 40000 to 44999 by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-321,Income,"Household Income 40000 to 44999 by Race, Hispanic or Latino",61.0,33.0,54.0,39.0,31.0
-322,Income,"Household Income 40000 to 44999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-323,Income,"Household Income 40000 to 44999 by Race, Some Other Race Alone",20.0,33.0,36.0,0.0,0.0
-324,Income,"Household Income 40000 to 44999 by Race, Two or More Races",0.0,0.0,27.0,9.0,0.0
-325,Income,"Household Income 40000 to 44999 by Race, White Alone",185.0,47.0,183.0,148.0,151.0
-326,Income,"Household Income 40000 to 44999 by Race, White Alone, Not Hispanic or Latino",144.0,47.0,183.0,148.0,151.0
-327,Income,Household Income 45000 to 49999,145.0,71.0,105.0,131.0,194.0
-328,Income,"Household Income 45000 to 49999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-329,Income,"Household Income 45000 to 49999 by Race, Asian Alone",60.0,20.0,33.0,67.0,95.0
-330,Income,"Household Income 45000 to 49999 by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-331,Income,"Household Income 45000 to 49999 by Race, Hispanic or Latino",0.0,0.0,0.0,9.0,43.0
-332,Income,"Household Income 45000 to 49999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-333,Income,"Household Income 45000 to 49999 by Race, Some Other Race Alone",0.0,0.0,0.0,9.0,13.0
-334,Income,"Household Income 45000 to 49999 by Race, Two or More Races",0.0,0.0,0.0,12.0,37.0
-335,Income,"Household Income 45000 to 49999 by Race, White Alone",85.0,51.0,72.0,43.0,49.0
-336,Income,"Household Income 45000 to 49999 by Race, White Alone, Not Hispanic or Latino",85.0,51.0,72.0,43.0,49.0
-337,Income,Household Income 50000 to 59999,613.0,424.0,300.0,238.0,341.0
-338,Income,"Household Income 50000 to 59999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-339,Income,"Household Income 50000 to 59999 by Race, Asian Alone",62.0,100.0,131.0,52.0,67.0
-340,Income,"Household Income 50000 to 59999 by Race, Black or African American Alone",0.0,0.0,0.0,0.0,99.0
-341,Income,"Household Income 50000 to 59999 by Race, Hispanic or Latino",160.0,73.0,60.0,33.0,21.0
-342,Income,"Household Income 50000 to 59999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-343,Income,"Household Income 50000 to 59999 by Race, Some Other Race Alone",130.0,0.0,0.0,0.0,21.0
-344,Income,"Household Income 50000 to 59999 by Race, Two or More Races",69.0,73.0,60.0,33.0,0.0
-345,Income,"Household Income 50000 to 59999 by Race, White Alone",352.0,251.0,109.0,153.0,154.0
-346,Income,"Household Income 50000 to 59999 by Race, White Alone, Not Hispanic or Latino",330.0,251.0,109.0,153.0,154.0
-347,Income,Household Income 60000 to 74999,786.0,249.0,320.0,423.0,401.0
-348,Income,"Household Income 60000 to 74999 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,19.0
-349,Income,"Household Income 60000 to 74999 by Race, Asian Alone",161.0,28.0,97.0,202.0,193.0
-350,Income,"Household Income 60000 to 74999 by Race, Black or African American Alone",0.0,0.0,0.0,9.0,0.0
-351,Income,"Household Income 60000 to 74999 by Race, Hispanic or Latino",208.0,25.0,49.0,89.0,98.0
-352,Income,"Household Income 60000 to 74999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-353,Income,"Household Income 60000 to 74999 by Race, Some Other Race Alone",125.0,0.0,0.0,49.0,51.0
-354,Income,"Household Income 60000 to 74999 by Race, Two or More Races",24.0,9.0,36.0,49.0,35.0
-355,Income,"Household Income 60000 to 74999 by Race, White Alone",476.0,212.0,187.0,114.0,103.0
-356,Income,"Household Income 60000 to 74999 by Race, White Alone, Not Hispanic or Latino",403.0,187.0,160.0,114.0,103.0
-357,Income,Household Income 75000 to 99999,1199.0,497.0,542.0,985.0,1057.0
-358,Income,"Household Income 75000 to 99999 by Race, American Indian and Alaska Native Alone",11.0,0.0,0.0,0.0,0.0
-359,Income,"Household Income 75000 to 99999 by Race, Asian Alone",154.0,412.0,271.0,387.0,596.0
-360,Income,"Household Income 75000 to 99999 by Race, Black or African American Alone",17.0,0.0,25.0,9.0,57.0
-361,Income,"Household Income 75000 to 99999 by Race, Hispanic or Latino",214.0,12.0,12.0,61.0,73.0
-362,Income,"Household Income 75000 to 99999 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-363,Income,"Household Income 75000 to 99999 by Race, Some Other Race Alone",66.0,3.0,0.0,0.0,0.0
-364,Income,"Household Income 75000 to 99999 by Race, Two or More Races",129.0,0.0,24.0,53.0,95.0
-365,Income,"Household Income 75000 to 99999 by Race, White Alone",822.0,82.0,222.0,536.0,309.0
-366,Income,"Household Income 75000 to 99999 by Race, White Alone, Not Hispanic or Latino",757.0,73.0,210.0,487.0,263.0
-367,Income,Household Income Greater than 200000,4962.0,5982.0,6651.0,6779.0,6672.0
-368,Income,"Household Income Greater than 200000 by Race, American Indian and Alaska Native Alone",0.0,0.0,2.0,3.0,8.0
-369,Income,"Household Income Greater than 200000 by Race, Asian Alone",815.0,2257.0,2598.0,3057.0,3172.0
-370,Income,"Household Income Greater than 200000 by Race, Black or African American Alone",134.0,25.0,98.0,95.0,230.0
-371,Income,"Household Income Greater than 200000 by Race, Hispanic or Latino",282.0,277.0,358.0,469.0,441.0
-372,Income,"Household Income Greater than 200000 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,66.0,74.0,54.0,17.0
-373,Income,"Household Income Greater than 200000 by Race, Some Other Race Alone",23.0,12.0,10.0,28.0,54.0
-374,Income,"Household Income Greater than 200000 by Race, Two or More Races",377.0,97.0,123.0,135.0,144.0
-375,Income,"Household Income Greater than 200000 by Race, White Alone",3613.0,3525.0,3746.0,3407.0,3047.0
-376,Income,"Household Income Greater than 200000 by Race, White Alone, Not Hispanic or Latino",3431.0,3273.0,3420.0,3016.0,2709.0
-377,Income,Household Income Less than 10000,407.0,411.0,560.0,566.0,852.0
-378,Income,"Household Income Less than 10000 by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-379,Income,"Household Income Less than 10000 by Race, Asian Alone",45.0,121.0,235.0,191.0,257.0
-380,Income,"Household Income Less than 10000 by Race, Black or African American Alone",60.0,8.0,0.0,0.0,0.0
-381,Income,"Household Income Less than 10000 by Race, Hispanic or Latino",47.0,15.0,0.0,8.0,61.0
-382,Income,"Household Income Less than 10000 by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,13.0,21.0,18.0
-383,Income,"Household Income Less than 10000 by Race, Some Other Race Alone",31.0,0.0,0.0,8.0,42.0
-384,Income,"Household Income Less than 10000 by Race, Two or More Races",6.0,5.0,24.0,22.0,40.0
-385,Income,"Household Income Less than 10000 by Race, White Alone",265.0,277.0,288.0,324.0,495.0
-386,Income,"Household Income Less than 10000 by Race, White Alone, Not Hispanic or Latino",249.0,262.0,288.0,324.0,495.0
-387,Income,Households Total for Income,14403.0,12091.0,13017.0,13809.0,14222.0
-388,Income,"Households Total for Income by Race, American Indian and Alaska Native Alone",53.0,34.0,36.0,33.0,58.0
-389,Income,"Households Total for Income by Race, Asian Alone",2474.0,4438.0,4956.0,5782.0,6036.0
-390,Income,"Households Total for Income by Race, Black or African American Alone",328.0,171.0,208.0,255.0,523.0
-391,Income,"Households Total for Income by Race, Hispanic or Latino",1986.0,675.0,1000.0,1160.0,1315.0
-392,Income,"Households Total for Income by Race, Native Hawaiian and Other Pacific Islander Alone",69.0,127.0,103.0,92.0,59.0
-393,Income,"Households Total for Income by Race, Some Other Race Alone",837.0,244.0,337.0,258.0,378.0
-394,Income,"Households Total for Income by Race, Two or More Races",1021.0,278.0,472.0,541.0,707.0
-395,Income,"Households Total for Income by Race, White Alone",9621.0,6799.0,6905.0,6848.0,6461.0
-396,Income,"Households Total for Income by Race, White Alone, Not Hispanic or Latino",8810.0,6476.0,6407.0,6297.0,6001.0
-397,Income,Median Family Income,176185.3448275862,210415.57906137183,211372.66758147517,208054.1306778477,205502.43574593795
-398,Income,Median Household Income,140732.94951284322,197792.0723226704,201071.31032927375,196572.91097760783,186272.67041901188
-399,Income,"Median Household Income by Race, American Indian and Alaska Native Alone",134226.19047619047,37500.0,37647.05882352941,42750.0,44677.41935483871
-400,Income,"Median Household Income by Race, Asian Alone",135210.2102102102,200841.85910500665,202309.56120092375,202715.18874713773,202427.58764186632
-401,Income,"Median Household Income by Race, Black or African American Alone",28750.0,151209.67741935485,106250.0,34385.24590163934,88377.19298245614
-402,Income,"Median Household Income by Race, Hispanic or Latino",69735.57692307692,115353.26086956522,118750.0,158582.08955223882,151674.10714285713
-403,Income,"Median Household Income by Race, Native Hawaiian and Other Pacific Islander Alone",22500.0,201894.01515151517,215203.3108108108,207407.7037037037,173958.33333333334
-404,Income,"Median Household Income by Race, Some Other Race Alone",58807.69230769231,107727.27272727272,122584.03361344538,107065.21739130437,67058.82352941176
-405,Income,"Median Household Income by Race, Two or More Races",145758.92857142858,138392.85714285713,66666.66666666667,96462.2641509434,155614.40677966102
-406,Income,"Median Household Income by Race, White Alone",157952.94943820225,201780.2130496454,203917.66871329417,199060.773480663,186546.9208211144
-407,Income,"Median Household Income by Race, White Alone, Not Hispanic or Latino",163355.9066967645,200534.6990528567,203165.3312865497,192547.80652418447,178082.70676691728
-408,Income,Percent in Poverty,0.0847554806070826,0.1230395405345703,0.0790920995198603,0.0885951227522785,0.0967781704610832
-409,Income,"Percent in Poverty by Race, American Indian and Alaska Native Alone",0.032258064516129,0.0,0.0,0.0,0.0
-410,Income,"Percent in Poverty by Race, Asian Alone",0.0878695208970438,0.0938440776497456,0.0601928508814648,0.0669414822116677,0.0558239398819108
-411,Income,"Percent in Poverty by Race, Black or African American Alone",0.2345559845559845,0.3370429252782194,0.2517006802721088,0.1902748414376321,0.1137884872824631
-412,Income,"Percent in Poverty by Race, Hispanic or Latino",0.1234615384615384,0.0445082555635319,0.067527308838133,0.0926743159752868,0.1368169126445951
-413,Income,"Percent in Poverty by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0935251798561151,0.175,0.2068965517241379
-414,Income,"Percent in Poverty by Race, Some Other Race Alone",0.1838525669153137,0.0,0.0663390663390663,0.1485557083906465,0.2287581699346405
-415,Income,"Percent in Poverty by Race, Two or More Races",0.1132210677176639,0.1975540921919097,0.1537828947368421,0.1180428134556575,0.1296963458569222
-416,Income,"Percent in Poverty by Race, White Alone",0.0595965604888864,0.1358726019742969,0.0854211876109686,0.0979027832222657,0.1242275729810355
-417,Income,"Percent in Poverty by Race, White Alone, Not Hispanic or Latino",0.0577361661265154,0.1414483514294252,0.0873838265142613,0.1021568837858139,0.128863583546363
-418,Journey to Work,Journey to Work by Bike,0.058913855760864,0.0272745639436999,0.0260050251256281,0.0339958469296944,0.0242551910923864
-419,Journey to Work,Journey to Work by Car,0.270665915954343,0.1511886322311266,0.1372487437185929,0.137347967962029,0.1622630153475774
-420,Journey to Work,Journey to Work by Carpooled,0.0452986640732968,0.0113138931914607,0.0196608040201005,0.0187481459507564,0.0211254890159494
-421,Journey to Work,Journey to Work by Drove Alone,0.2253672518810462,0.1398747390396659,0.1175879396984924,0.1185998220112726,0.141137526331628
-422,Journey to Work,Journey to Work by Other Journey Type,0.0438654860009213,0.02734190854603,0.0324748743718592,0.0340551765054879,0.0308757147156184
-423,Journey to Work,Journey to Work by Transit,0.3540973537390592,0.2103171930769748,0.1609924623115577,0.1667161079798279,0.1335540174541077
-424,Journey to Work,Journey to Work by Walk,0.1498694784255515,0.3766583608323793,0.3569095477386935,0.3169385938890537,0.3221787541378272
-425,Journey to Work,Journey to Work by Worked at Home,0.1225879101192608,0.2072193413697892,0.2863693467336683,0.3109463067339068,0.3268733072524827
-517,Journey to Work,Total Workers 16 Years and Older,19537.0,14849.0,15920.0,16855.0,16615.0
-518,Language Spoken at Home,Asian/Pacific Islander,0.0882746478873239,0.2604482410214017,0.2969286319261802,0.2826627343585422,0.2938011101224524
-519,Language Spoken at Home,English Only,0.7061971830985916,0.556076054009369,0.5088485713012081,0.5259742995576153,0.504173551968137
-520,Language Spoken at Home,Other European Languages,0.0850352112676056,0.1294204096629007,0.1163910310702982,0.1178007162418369,0.1286386170077539
-521,Language Spoken at Home,Other Languages,0.0143309859154929,0.0030311380545604,0.0107876788659564,0.007078154623973,0.005042159230541
-522,Language Spoken at Home,Spanish Only,0.1061619718309859,0.0510241572517681,0.0670440868363571,0.0664840952180324,0.0683445616711156
-426,Nativity,Foreign Born,0.2575355354682617,0.3995969861573506,0.4144830871843735,0.4537297605938252,0.4611551343844457
-427,Population,Total Population,29759.0,22828.0,23089.0,24519.0,24482.0
-428,Race/Ethnicity,Asian,4909.0,9656.0,10302.0,11188.0,11209.0
-429,Race/Ethnicity,"Asian Alone, Not Hispanic or Latino",4849.0,9656.0,10302.0,11176.0,11198.0
-430,Race/Ethnicity,Black/African American,1055.0,661.0,319.0,500.0,762.0
-431,Race/Ethnicity,"Black/African American Alone, Not Hispanic or Latino",1037.0,653.0,311.0,491.0,753.0
-432,Race/Ethnicity,Latino Population (of Any Race),5209.0,1441.0,2039.0,2282.0,2549.0
-433,Race/Ethnicity,Native American Indian,62.0,34.0,42.0,40.0,75.0
-434,Race/Ethnicity,"Native American Indian Alone, Not Hispanic or Latino",53.0,0.0,8.0,10.0,25.0
-435,Race/Ethnicity,Native Hawaiian/Pacific Islander,86.0,170.0,139.0,120.0,87.0
-436,Race/Ethnicity,"Native Hawaiian/Pacific Islander Alone, Not Hispanic or Latino",69.0,170.0,139.0,120.0,87.0
-437,Race/Ethnicity,Other/Two or More Races,5092.0,1485.0,2069.0,2389.0,2877.0
-438,Race/Ethnicity,"Population, Not Hispanic or Latino",24550.0,21387.0,21050.0,22237.0,21933.0
-439,Race/Ethnicity,Some Other Race Alone,2288.0,388.0,833.0,734.0,918.0
-440,Race/Ethnicity,"Some Other Race Alone, Not Hispanic or Latino",150.0,53.0,78.0,21.0,39.0
-441,Race/Ethnicity,Two Or More Races,2804.0,1097.0,1236.0,1655.0,1959.0
-442,Race/Ethnicity,"Two Or More Races, Not Hispanic or Latino",1666.0,756.0,773.0,1025.0,1162.0
-443,Race/Ethnicity,"White Alone, Not Hispanic or Latino",16726.0,10099.0,9439.0,9394.0,8669.0
-444,Race/Ethnicity,"White, Including Hispanic or Latino",18555.0,10822.0,10218.0,10282.0,9472.0
-445,Sex,Female,0.4164118417957592,0.4533467671280883,0.4629044133570098,0.4465108691219054,0.455109876644065
-446,Sex,Male,0.5835881582042407,0.5466532328719117,0.5370955866429902,0.5534891308780946,0.544890123355935
-447,Unit Size,1 Bedroom,5428.0,5320.0,6210.0,6230.0,6833.0
-448,Unit Size,2 Bedrooms,4689.0,5261.0,5243.0,5533.0,5057.0
-449,Unit Size,3-4 Bedrooms,3031.0,1790.0,1654.0,1641.0,1551.0
-450,Unit Size,5 or More Bedrooms,124.0,118.0,86.0,95.0,129.0
-451,Unit Size,No Bedroom,2745.0,3359.0,3408.0,3624.0,3960.0
-452,Vehicles Available,Households with no Vehicle,0.3633270846351454,0.3929368952113142,0.3798110163632173,0.3858353247881816,0.3851075798059344
-453,Vehicles Available,Percent of No Vehicle Homeowning Households,0.1284748309541698,0.148395061728395,0.133129123468426,0.164172335600907,0.1690888119953864
-454,Vehicles Available,Percent of No Vehicle Renting Households,0.4534101825168107,0.5161049620693944,0.4991451042972757,0.4898393446111288,0.4798219884697077
-455,Vehicles Available,Vehicles Available,12258.0,7010.0,9889.0,10351.0,10543.0
-456,Vehicles Available,Vehicles Homeowners,0.4015336922825909,0.3880171184022825,0.457680250783699,0.4267220558400154,0.4094659963957128
-457,Vehicles Available,Vehicles Per Capita,0.4119090023186263,0.3835841313269494,0.4282991900905193,0.4221624046657694,0.4306429213299567
-458,Vehicles Available,Vehicles Renters,0.598466307717409,0.6119828815977175,0.542319749216301,0.5732779441599846,0.5905340036042872
-459,,"Housing Units with a Mortgage 30%+ by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-460,,"Housing Units with a Mortgage 30%+ by Race, Asian Alone",0.0,0.0,0.0,267.0,301.0
-461,,"Housing Units with a Mortgage 30%+ by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-462,,"Housing Units with a Mortgage 30%+ by Race, Hispanic or Latino",0.0,0.0,0.0,19.0,10.0
-463,,"Housing Units with a Mortgage 30%+ by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-464,,"Housing Units with a Mortgage 30%+ by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-465,,"Housing Units with a Mortgage 30%+ by Race, Two or More Races",0.0,0.0,0.0,19.0,10.0
-466,,"Housing Units with a Mortgage 30%+ by Race, White Alone",0.0,0.0,0.0,597.0,622.0
-467,,"Housing Units with a Mortgage 30%+ by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,597.0,622.0
-468,,"Housing Units with a Mortgage Not Calculated by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-469,,"Housing Units with a Mortgage Not Calculated by Race, Asian Alone",0.0,0.0,0.0,0.0,0.0
-470,,"Housing Units with a Mortgage Not Calculated by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-471,,"Housing Units with a Mortgage Not Calculated by Race, Hispanic or Latino",0.0,0.0,0.0,0.0,0.0
-472,,"Housing Units with a Mortgage Not Calculated by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,21.0,18.0
-473,,"Housing Units with a Mortgage Not Calculated by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-474,,"Housing Units with a Mortgage Not Calculated by Race, Two or More Races",0.0,0.0,0.0,0.0,0.0
-475,,"Housing Units with a Mortgage Not Calculated by Race, White Alone",0.0,0.0,0.0,27.0,30.0
-476,,"Housing Units with a Mortgage Not Calculated by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,27.0,30.0
-477,,"Housing Units without a Mortgage 30%+ by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-478,,"Housing Units without a Mortgage 30%+ by Race, Asian Alone",0.0,0.0,0.0,107.0,116.0
-479,,"Housing Units without a Mortgage 30%+ by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-480,,"Housing Units without a Mortgage 30%+ by Race, Hispanic or Latino",0.0,0.0,0.0,33.0,46.0
-481,,"Housing Units without a Mortgage 30%+ by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-482,,"Housing Units without a Mortgage 30%+ by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-483,,"Housing Units without a Mortgage 30%+ by Race, Two or More Races",0.0,0.0,0.0,0.0,0.0
-484,,"Housing Units without a Mortgage 30%+ by Race, White Alone",0.0,0.0,0.0,358.0,505.0
-485,,"Housing Units without a Mortgage 30%+ by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,325.0,459.0
-486,,"Housing Units without a Mortgage Not Calculated by Race, American Indian and Alaska Native Alone",0.0,0.0,0.0,0.0,0.0
-487,,"Housing Units without a Mortgage Not Calculated by Race, Asian Alone",0.0,0.0,0.0,0.0,0.0
-488,,"Housing Units without a Mortgage Not Calculated by Race, Black or African American Alone",0.0,0.0,0.0,0.0,0.0
-489,,"Housing Units without a Mortgage Not Calculated by Race, Hispanic or Latino",0.0,0.0,0.0,0.0,0.0
-490,,"Housing Units without a Mortgage Not Calculated by Race, Native Hawaiian and Other Pacific Islander Alone",0.0,0.0,0.0,0.0,0.0
-491,,"Housing Units without a Mortgage Not Calculated by Race, Some Other Race Alone",0.0,0.0,0.0,0.0,0.0
-492,,"Housing Units without a Mortgage Not Calculated by Race, Two or More Races",0.0,0.0,0.0,0.0,0.0
-493,,"Housing Units without a Mortgage Not Calculated by Race, White Alone",0.0,0.0,0.0,0.0,0.0
-494,,"Housing Units without a Mortgage Not Calculated by Race, White Alone, Not Hispanic or Latino",0.0,0.0,0.0,0.0,0.0
+,Category,Attribute,Percent Of,2020_Financial District,2021_Financial District,2022_Financial District,2023_Financial District,2024_Financial District
+542,Affordability,# Units at or below 100 AMI Monthly Affordable Rent,None,8641.0,5256.0,5199.0,5254.0,5503
+533,Affordability,# Units at or below 30 AMI Monthly Affordable Rent,None,8641.0,5256.0,5199.0,5254.0,5503
+536,Affordability,# Units at or below 50 AMI Monthly Affordable Rent,None,8641.0,5256.0,5199.0,5254.0,5503
+539,Affordability,# Units at or below 80 AMI Monthly Affordable Rent,None,8641.0,5256.0,5199.0,5254.0,5503
+540,Affordability,100 AMI Annual Income,None,140732.94951284322,197792.0723226704,201071.31032927375,196572.91097760783,186272.67041901188
+541,Affordability,100 AMI Monthly Affordable Rent,None,11727.745792736934,16482.672693555865,16755.942527439478,16381.075914800653,15522.722534917657
+531,Affordability,30 AMI Annual Income,None,42219.884853852964,59337.621696801114,60321.39309878212,58971.87329328235,55881.80112570356
+532,Affordability,30 AMI Monthly Affordable Rent,None,3518.32373782108,4944.80180806676,5026.782758231843,4914.322774440196,4656.816760475297
+534,Affordability,50 AMI Annual Income,None,70366.47475642161,98896.0361613352,100535.65516463688,98286.45548880391,93136.33520950594
+535,Affordability,50 AMI Monthly Affordable Rent,None,5863.872896368467,8241.336346777933,8377.971263719739,8190.537957400326,7761.3612674588285
+537,Affordability,80 AMI Annual Income,None,112586.35961027458,158233.65785813634,160857.048263419,157258.32878208626,149018.1363352095
+538,Affordability,80 AMI Monthly Affordable Rent,None,9382.196634189548,13186.138154844695,13404.754021951585,13104.860731840521,12418.178027934126
+0,Age,"0-2 Years, Under 6 Years",Population Under 6 Years,0.6677577741407529,0.6732851985559567,0.6155913978494624,0.5871369294605809,0.5471180237877402
+1,Age,0-4 Years,Total Population,0.0456668570852515,0.0461713684948309,0.0284117978258044,0.0319752029038704,0.0359856220896985
+2,Age,18-34 Years,Total Population,0.3081084713868073,0.42509199229017,0.4153059898653038,0.3977731555120519,0.3737439751654277
+3,Age,"3-5 Years, Under 6 Years",Population Under 6 Years,0.3322422258592471,0.3267148014440433,0.3844086021505376,0.412863070539419,0.4528819762122598
+4,Age,35-59 Years,Total Population,0.4054571726200477,0.3664797616961626,0.3579193555372688,0.3729760593825196,0.3727228167633363
+5,Age,5-17 Years,Total Population,0.052454719580631,0.0200630804275451,0.0268093031313612,0.0387046780048125,0.0450535087002695
+6,Age,60 and older,Total Population,0.1883127793272623,0.1421937970912914,0.1715535536402616,0.1585709041967453,0.1724940772812678
+7,Age,Under 18 Years,None,1648.0,1512.0,1275.0,1733.0,1984.0
+8,Age,Under 6 Years,None,1222.0,1108.0,744.0,964.0,1093.0
+543,Educational Attainment,College Degree or higher,Total Population 25+,0.7405695777540783,0.7947181998124805,0.7787130192250225,0.7951080663836356,0.7803837953091685
+9,Educational Attainment,"College Degree or higher by Race, American Indian and Alaska Native Alone",None,0.7636363636363637,None,0.375,0.4,0.1818181818181818
+10,Educational Attainment,"College Degree or higher by Race, Asian Alone",None,0.7638525564803805,0.7927321668909825,0.7829317721233956,0.8029267250587482,0.7943587014369345
+11,Educational Attainment,"College Degree or higher by Race, Black or African American Alone",None,0.5774499473129611,0.5173611111111112,0.6241610738255033,0.5012853470437018,0.6226993865030674
+12,Educational Attainment,"College Degree or higher by Race, Hispanic or Latino",None,0.4343484772840739,0.5748502994011976,0.5389331698344574,0.6244155844155844,0.6081447963800904
+13,Educational Attainment,"College Degree or higher by Race, Native Hawaiian and Other Pacific Islander Alone",None,1.0,0.388235294117647,0.2086330935251798,0.3166666666666666,0.4827586206896552
+14,Educational Attainment,"College Degree or higher by Race, Some Other Race Alone",None,0.251270468661773,0.6931407942238267,0.4964438122332859,0.5480059084194978,0.4895448954489544
+15,Educational Attainment,"College Degree or higher by Race, Two or More Races",None,0.6639209225700164,0.5409356725146199,0.5736714975845411,0.6809605488850772,0.7696245733788396
+16,Educational Attainment,"College Degree or higher by Race, White Alone",None,0.804654827565307,0.8426701008800171,0.8285249457700651,0.8398489560195469,0.8125811400920572
+17,Educational Attainment,"College Degree or higher by Race, White Alone, Not Hispanic or Latino",None,0.8239952089433058,0.8426978943812634,0.8316739986107895,0.84444177093359,0.8269726663228468
+544,Educational Attainment,High School or Less,Total Population 25+,0.1121380890310858,0.1030836545473486,0.114453630839725,0.116460825935932,0.120178329133553
+18,Educational Attainment,"High School or Less by Race, American Indian and Alaska Native Alone",None,0.2363636363636363,None,0.375,0.3,0.2045454545454545
+19,Educational Attainment,"High School or Less by Race, Asian Alone",None,0.161474435196195,0.1287165055671112,0.1330781355550551,0.1502883999145481,0.1563597658328898
+20,Educational Attainment,"High School or Less by Race, Black or African American Alone",None,0.2486828240252897,0.328125,0.3087248322147651,0.3059125964010283,0.2776073619631902
+21,Educational Attainment,"High School or Less by Race, Hispanic or Latino",None,0.3597104343484772,0.1956087824351297,0.2783568362967504,0.2072727272727272,0.1846153846153846
+22,Educational Attainment,"High School or Less by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.2529411764705882,0.2589928057553957,0.2333333333333333,0.3218390804597701
+23,Educational Attainment,"High School or Less by Race, Some Other Race Alone",None,0.5488424618859401,0.1191335740072202,0.3285917496443812,0.3323485967503692,0.3788437884378843
+24,Educational Attainment,"High School or Less by Race, Two or More Races",None,0.1416803953871499,0.2251461988304093,0.1388888888888889,0.0814751286449399,0.030716723549488
+25,Educational Attainment,"High School or Less by Race, White Alone",None,0.0412752288017455,0.0545181369392573,0.0693058568329718,0.0596401599289204,0.0529918564853062
+26,Educational Attainment,"High School or Less by Race, White Alone, Not Hispanic or Latino",None,0.0298775618844823,0.0561873662875802,0.0592729798564482,0.0523339749759384,0.0474471376998452
+545,Educational Attainment,Some College/Associate Degree,Total Population 25+,0.1472923332148358,0.1021981456401708,0.1068333499352525,0.0884311076804322,0.0994378755572785
+27,Educational Attainment,"Some College/Associate Degree by Race, American Indian and Alaska Native Alone",None,0.0,None,0.25,0.3,0.6136363636363636
+28,Educational Attainment,"Some College/Associate Degree by Race, Asian Alone",None,0.0746730083234245,0.0785513275419062,0.0839900923215492,0.0467848750267037,0.0492815327301756
+29,Educational Attainment,"Some College/Associate Degree by Race, Black or African American Alone",None,0.1738672286617492,0.1545138888888889,0.0671140939597315,0.1928020565552699,0.0996932515337423
+30,Educational Attainment,"Some College/Associate Degree by Race, Hispanic or Latino",None,0.2059410883674488,0.2295409181636726,0.1827099938687921,0.1683116883116883,0.2072398190045249
+31,Educational Attainment,"Some College/Associate Degree by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.3588235294117647,0.5323741007194245,0.45,0.1954022988505747
+32,Educational Attainment,"Some College/Associate Degree by Race, Some Other Race Alone",None,0.1998870694522868,0.187725631768953,0.1749644381223328,0.1196454948301329,0.1316113161131611
+33,Educational Attainment,"Some College/Associate Degree by Race, Two or More Races",None,0.1943986820428336,0.2339181286549707,0.28743961352657,0.2375643224699828,0.1996587030716723
+34,Educational Attainment,"Some College/Associate Degree by Race, White Alone",None,0.1540699436329474,0.1028117621807254,0.1021691973969631,0.1005108840515326,0.1344270034226366
+35,Educational Attainment,"Some College/Associate Degree by Race, White Alone, Not Hispanic or Latino",None,0.1461272291722118,0.1011147393311564,0.1090530215327622,0.1032242540904716,0.1255801959773078
+36,Employment,"6-17, Living with One Parent",None,190.0,209.0,237.0,370.0,376.0
+37,Employment,"6-17, Living with One Parent, Parent Not in Labor Force","Total 6-17, Living with One Parent",0.5684210526315789,0.5215311004784688,0.4556962025316455,0.3432432432432432,0.3297872340425531
+38,Employment,"6-17, Living with One Parent, Parent in Labor Force","Total 6-17, Living with One Parent",0.431578947368421,0.4784688995215311,0.5443037974683544,0.6567567567567567,0.6702127659574468
+39,Employment,"6-17, Living with Two Parents",None,236.0,195.0,294.0,399.0,515.0
+40,Employment,"6-17, Living with Two Parents, One Parent in Labor Force","Total 6-17, Living with Two Parents",0.4364406779661017,0.2923076923076923,0.1972789115646258,0.1177944862155388,0.1475728155339805
+41,Employment,"6-17, Living with Two Parents, Parents Not in Labor Force","Total 6-17, Living with Two Parents",0.0,0.1487179487179487,0.1224489795918367,0.0977443609022556,0.0776699029126213
+42,Employment,"6-17, Living with Two Parents, Parents in Labor Force","Total 6-17, Living with Two Parents",0.5635593220338984,0.558974358974359,0.6802721088435374,0.7844611528822055,0.7747572815533981
+546,Employment,Employed Residents,None,20104.0,15427.0,16424.0,17162.0,16922.0
+547,Employment,Managerial Professional,Total Civilian Employed Population 16 Years and Over,0.6940907282132909,0.7855059311596552,0.775815879201169,0.7801538282251486,0.7700626403498404
+548,Employment,Natural Resources,Total Civilian Employed Population 16 Years and Over,0.0157182650218861,0.0117974978933039,0.0094982951777886,0.0071087285864118,0.010164283181657
+549,Employment,Production Transport Materials,Total Civilian Employed Population 16 Years and Over,0.0259152407481098,0.0298178518182407,0.0239283974671212,0.0325136930427689,0.0258834653114289
+550,Employment,Sales and Office,Total Civilian Employed Population 16 Years and Over,0.1452447274174293,0.1034549815258961,0.1246955674622503,0.1170026803402866,0.1243942796359768
+551,Employment,Services,Total Civilian Employed Population 16 Years and Over,0.1190310385992837,0.069423737602904,0.0660618606916707,0.0632210698053839,0.0694953315210968
+43,Employment,"Under 6 Years, Living with One Parent",None,118.0,124.0,103.0,140.0,355.0
+44,Employment,"Under 6 Years, Living with One Parent, Parent Not in Labor Force","Total Under 6 Years, Living with One Parent",0.1949152542372881,0.1935483870967742,0.0,0.0,0.0
+45,Employment,"Under 6 Years, Living with One Parent, Parent in Labor Force","Total Under 6 Years, Living with One Parent",0.8050847457627118,0.8064516129032258,1.0,1.0,1.0
+46,Employment,"Under 6 Years, Living with Two Parents",None,1104.0,984.0,630.0,813.0,731.0
+47,Employment,"Under 6 Years, Living with Two Parents, One Parent in Labor Force","Total Under 6 Years, Living with Two Parents",0.5045289855072463,0.4654471544715447,0.4968253968253968,0.4108241082410824,0.2421340629274966
+48,Employment,"Under 6 Years, Living with Two Parents, Parents Not in Labor Force","Total Under 6 Years, Living with Two Parents",0.0733695652173913,0.1382113821138211,0.0587301587301587,0.04920049200492,0.054719562243502
+49,Employment,"Under 6 Years, Living with Two Parents, Parents in Labor Force","Total Under 6 Years, Living with Two Parents",0.4221014492753623,0.3963414634146341,0.4444444444444444,0.5399753997539976,0.7031463748290013
+552,Employment,Unemployment Rate,Total in Labor Force,0.044168687300908,0.0698782105390088,0.0590122607998166,0.0596679633992657,0.0671444321940463
+50,Employment,"Unemployment Rate by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+51,Employment,"Unemployment Rate by Race, Asian Alone",None,0.0160840660518979,0.068050875095119,0.0490415986949429,0.0371043320263938,0.0404224675948151
+52,Employment,"Unemployment Rate by Race, Black or African American Alone",None,0.0514631685166498,0.0182421227197346,0.0438871473354232,0.0339805825242718,0.0689655172413793
+53,Employment,"Unemployment Rate by Race, Hispanic or Latino",None,0.0381713271193963,0.0177276390008058,0.0312831389183457,0.0353606789250353,0.0521267723102585
+54,Employment,"Unemployment Rate by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0935251798561151,0.175,0.2068965517241379
+55,Employment,"Unemployment Rate by Race, Some Other Race Alone",None,0.0469897209985315,0.104,0.0528211284513805,0.0108991825613079,0.048
+56,Employment,"Unemployment Rate by Race, Two or More Races",None,0.0661691542288557,0.0321229050279329,0.0522875816993464,0.0538152610441767,0.066453162530024
+57,Employment,"Unemployment Rate by Race, White Alone",None,0.0336242750864038,0.044725328147788,0.0437036284175221,0.0599391480730223,0.066267029972752
+58,Employment,"Unemployment Rate by Race, White Alone, Not Hispanic or Latino",None,0.0365995352439969,0.0471843265975997,0.0468715936341835,0.0651742390824878,0.0726230291447682
+59,Employment,Worked in place of residence,Total Living in a Place,0.754195332090272,0.7657754730958314,0.8021984924623116,0.8234351824384456,0.8321998194402648
+60,Employment,Worked outside place of residence,Total Living in a Place,0.245804667909728,0.2342245269041686,0.1978015075376884,0.1765648175615544,0.1678001805597351
+61,Households,Average Family Household Size,Total Family Households,2.781980612050941,2.4856361149110806,2.422513321492007,2.491878384006664,2.5269709543568464
+62,Households,Average Household Size,Total Households,2.042838297576893,1.8433545612439004,1.7248213874164553,1.7320588022304295,1.680143439741246
+63,Households,Family Households,Total Households,0.365271124071374,0.362749152262013,0.3460090650687562,0.3477442247809399,0.3389115454928983
+64,Households,Households,None,14403.0,12091.0,13017.0,13809.0,14222.0
+65,Households,"Households with 60 years and older, % of Total (DEC, 65 years and older)",Total Households,0.3054919114073457,0.1869158878504672,0.2028117077667665,0.1932073285538417,0.2046828856700886
+66,Households,"Households with Children, % of Total",Total Households,0.1211553148649586,0.0778264825076503,0.064223707459476,0.0837859367079441,0.093235831809872
+67,Households,Living in Group Quarters,None,336.0,540.0,637.0,601.0,587.0
+68,Households,Non-Family Households,Total Households,0.634728875928626,0.6372508477379869,0.6539909349312437,0.6522557752190601,0.6610884545071016
+69,Households,"Single Person Households, % of Total",Total Households,0.415677289453586,0.4232900504507484,0.464546362449105,0.4717213411543196,0.5215159611868936
+70,Housing,Median Year Moved In Owner,None,2006.555763823805,2012.379477250726,2012.424387328153,2014.002536461636,2013.2783405692232
+71,Housing,Median Year Moved In Renter,None,2012.286721068249,2018.4976352349984,2018.6651696606789,2019.739427662957,2018.8631167268352
+72,Housing,Median Year Structure Built,None,1939.0,2002.771551724138,2002.459136630344,2002.786528497409,2002.950641443792
+73,Housing,"Overcrowding, Renter Occupied Housing",Total Renter Occupied,0.0768491834774255,0.1078224101479915,0.0932406246437934,0.0792637514629215,0.0736320420754526
+74,Housing,Owner Occupied,Total Tenure,0.2772339096021662,0.3349598875196427,0.3260351847583929,0.319356941125353,0.3048094501476585
+75,Housing,"Owner Occupied by Race, American Indian and Alaska Native Alone",Total Tenure by Race,0.0,0.0,0.0555555555555555,0.0909090909090909,0.1379310344827586
+76,Housing,"Owner Occupied by Race, Asian Alone",Total Tenure by Race,0.2057396928051738,0.3199639477242001,0.3383777239709443,0.3227257004496714,0.3189198144466534
+77,Housing,"Owner Occupied by Race, Black or African American Alone",Total Tenure by Race,0.0274390243902439,0.1461988304093567,0.1682692307692307,0.1647058823529411,0.1223709369024856
+78,Housing,"Owner Occupied by Race, Hispanic or Latino",Total Tenure by Race,0.1435045317220543,0.3362962962962963,0.22,0.1698275862068965,0.1072243346007604
+79,Housing,"Owner Occupied by Race, Native Hawaiian and Other Pacific Islander Alone",Total Tenure by Race,0.0,0.0,0.1262135922330097,0.2282608695652173,0.3050847457627119
+80,Housing,"Owner Occupied by Race, Some Other Race Alone",Total Tenure by Race,0.0,0.0,0.0,0.0,0.0
+81,Housing,"Owner Occupied by Race, Two or More Races",Total Tenure by Race,0.2987267384916748,0.0863309352517985,0.1673728813559322,0.1146025878003696,0.1089108910891089
+82,Housing,"Owner Occupied by Race, White Alone",Total Tenure by Race,0.3294875792537158,0.3796146492131196,0.3530774800868935,0.352803738317757,0.34715988237115
+83,Housing,"Owner Occupied by Race, White Alone, Not Hispanic or Latino",Total Tenure by Race,0.34211123723042,0.36550339715874,0.3527391915092867,0.3573130061934254,0.3579403432761206
+84,Housing,Post 1979 All and Pre 1979 Single Family Renter Occupied by Year Structure Built by Units in Structure,None,1631.0,5617.0,5915.0,6612.0,7273.0
+85,Housing,Pre 1980 MultiFamily Renter Occupied by Year Structure Built by Units in Structure,None,8779.0,2413.0,2844.0,2763.0,2591.0
+86,Housing,Renter Occupied,Total Tenure,0.7227660903978338,0.6650401124803573,0.6739648152416071,0.6806430588746469,0.6951905498523414
+87,Housing,"Renter Occupied by Race, American Indian and Alaska Native Alone",Total Tenure by Race,1.0,1.0,0.9444444444444444,0.9090909090909092,0.8620689655172413
+88,Housing,"Renter Occupied by Race, Asian Alone",Total Tenure by Race,0.7942603071948262,0.6800360522757999,0.6616222760290557,0.6772742995503286,0.6810801855533466
+89,Housing,"Renter Occupied by Race, Black or African American Alone",Total Tenure by Race,0.972560975609756,0.8538011695906432,0.8317307692307693,0.8352941176470589,0.8776290630975143
+90,Housing,"Renter Occupied by Race, Hispanic or Latino",Total Tenure by Race,0.8564954682779456,0.6637037037037037,0.78,0.8301724137931035,0.8927756653992396
+91,Housing,"Renter Occupied by Race, Native Hawaiian and Other Pacific Islander Alone",Total Tenure by Race,1.0,1.0,0.8737864077669902,0.7717391304347826,0.6949152542372882
+92,Housing,"Renter Occupied by Race, Some Other Race Alone",Total Tenure by Race,1.0,1.0,1.0,1.0,1.0
+93,Housing,"Renter Occupied by Race, Two or More Races",Total Tenure by Race,0.7012732615083251,0.9136690647482014,0.8326271186440678,0.8853974121996303,0.8910891089108911
+94,Housing,"Renter Occupied by Race, White Alone",Total Tenure by Race,0.6705124207462841,0.6203853507868804,0.6469225199131065,0.647196261682243,0.65284011762885
+95,Housing,"Renter Occupied by Race, White Alone, Not Hispanic or Latino",Total Tenure by Race,0.65788876276958,0.6344966028412601,0.6472608084907133,0.6426869938065746,0.6420596567238793
+96,Housing,Total Number of Units,None,16017.0,15848.0,16601.0,17123.0,17530.0
+97,Housing,Total Vacant Units,None,1614.0,3757.0,3584.0,3314.0,3308.0
+98,Housing,Vacancy Rate,Total Housing Units,0.1007679340700505,0.2370646138313983,0.2158906089994578,0.1935408514863049,0.1887050770108385
+99,Housing Prices,Contract Rent 100 to 149,None,0.0,0.0,0.0,0.0,36.0
+100,Housing Prices,Contract Rent 1000 to 1249,None,891.0,1145.0,599.0,298.0,423.0
+101,Housing Prices,Contract Rent 1250 to 1499,None,726.0,425.0,718.0,654.0,515.0
+102,Housing Prices,Contract Rent 150 to 199,None,0.0,0.0,0.0,0.0,0.0
+103,Housing Prices,Contract Rent 1500 to 1999,None,1531.0,455.0,468.0,758.0,760.0
+104,Housing Prices,Contract Rent 200 to 249,None,158.0,0.0,81.0,81.0,196.0
+105,Housing Prices,"Contract Rent 2000 to 2499 (Contract Rent 2000 or more, DEC2000 and ACS2009-2014)",None,1440.0,611.0,713.0,659.0,579.0
+106,Housing Prices,Contract Rent 250 to 299,None,392.0,66.0,31.0,29.0,53.0
+107,Housing Prices,Contract Rent 2500 to 2999 (ACS2015-),None,1066.0,715.0,833.0,957.0,1132.0
+108,Housing Prices,Contract Rent 300 to 349,None,98.0,62.0,25.0,17.0,15.0
+109,Housing Prices,Contract Rent 3000 to 3499 (ACS2015-),None,1142.0,1364.0,1610.0,1246.0,1565.0
+110,Housing Prices,Contract Rent 350 to 399,None,42.0,2.0,24.0,93.0,24.0
+111,Housing Prices,Contract Rent 3500 or more (ACS2015-),None,1466.0,2274.0,3003.0,3832.0,3840.0
+112,Housing Prices,Contract Rent 400 to 449,None,51.0,45.0,0.0,3.0,126.0
+113,Housing Prices,Contract Rent 500 to 549,None,62.0,200.0,40.0,20.0,0.0
+114,Housing Prices,Contract Rent 550 to 599,None,102.0,110.0,0.0,0.0,20.0
+115,Housing Prices,Contract Rent 600 to 649,None,150.0,101.0,116.0,71.0,11.0
+116,Housing Prices,Contract Rent 650 to 699,None,93.0,85.0,62.0,0.0,33.0
+117,Housing Prices,Contract Rent 700 to 749,None,76.0,41.0,43.0,76.0,67.0
+118,Housing Prices,Contract Rent 750 to 749,None,49.0,0.0,76.0,72.0,0.0
+119,Housing Prices,Contract Rent 750 to 799,None,19.0,61.0,0.0,56.0,80.0
+120,Housing Prices,Contract Rent 800 to 899,None,543.0,81.0,61.0,146.0,79.0
+121,Housing Prices,Contract Rent 900 to 999,None,159.0,74.0,91.0,165.0,160.0
+122,Housing Prices,Contract Rent Less than 100,None,18.0,0.0,0.0,16.0,30.0
+123,Housing Prices,Contract Rent Total,None,10410.0,8041.0,8773.0,9399.0,9887.0
+124,Housing Prices,Contract Rent Total No cash Rent (ACS2015-),None,136.0,124.0,179.0,150.0,143.0
+125,Housing Prices,"Contract Rent Total No cash Rent (No cash rent, DEC2000 and ACS2009-2014)",None,1066.0,715.0,833.0,957.0,1132.0
+126,Housing Prices,Contract Rent Total With cash Rent,None,10274.0,7917.0,8594.0,9249.0,9744.0
+127,Housing Prices,Extremely Rent Burdened,Total,0.1067243035542747,0.1208804875015545,0.1283483415023367,0.1508671135227151,0.1678972387984221
+128,Housing Prices,"Extremely Rent Burdened by Race, American Indian and Alaska Native Alone",None,None,None,None,1.0,0.62
+129,Housing Prices,"Extremely Rent Burdened by Race, Asian Alone",None,None,None,None,0.0921859039836568,0.1097056677207492
+130,Housing Prices,"Extremely Rent Burdened by Race, Black or African American Alone",None,None,None,None,0.4976525821596244,0.2200435729847494
+131,Housing Prices,"Extremely Rent Burdened by Race, Hispanic or Latino",None,None,None,None,0.1973001038421599,0.2206132879045996
+132,Housing Prices,"Extremely Rent Burdened by Race, Native Hawaiian and Other Pacific Islander Alone",None,None,None,None,0.0,0.0
+133,Housing Prices,"Extremely Rent Burdened by Race, Some Other Race Alone",None,None,None,None,0.1937984496124031,0.3227513227513227
+134,Housing Prices,"Extremely Rent Burdened by Race, Two or More Races",None,None,None,None,0.2212943632567849,0.1984126984126984
+135,Housing Prices,"Extremely Rent Burdened by Race, White Alone",None,None,None,None,0.1504963898916967,0.1804172593646278
+136,Housing Prices,"Extremely Rent Burdened by Race, White Alone, Not Hispanic or Latino",None,None,None,None,0.1467753891771683,0.1884246042045159
+137,Housing Prices,Home Value 10000 to 14999 ,None,0.0,0.0,0.0,0.0,0.0
+138,Housing Prices,Home Value 100000 to 124999,None,0.0,0.0,13.0,12.0,22.0
+139,Housing Prices,"Home Value 1000000 to 1499999 (1000000 or more, DEC2000 and ACS2009-2014)",None,1162.0,1287.0,1345.0,1341.0,1059.0
+140,Housing Prices,Home Value 125000 to 149999,None,14.0,0.0,0.0,0.0,0.0
+141,Housing Prices,Home Value 15000 to 19999 ,None,0.0,0.0,0.0,0.0,0.0
+142,Housing Prices,Home Value 150000 to 174999,None,0.0,0.0,0.0,0.0,0.0
+143,Housing Prices,Home Value 1500000 to 1999999 (ACS2015-),None,799.0,958.0,966.0,797.0,821.0
+144,Housing Prices,Home Value 175000 to 199999,None,0.0,0.0,0.0,0.0,0.0
+145,Housing Prices,Home Value 20000 to 24999 ,None,0.0,0.0,0.0,0.0,0.0
+146,Housing Prices,Home Value 200000 to 249999,None,22.0,0.0,0.0,20.0,35.0
+147,Housing Prices,Home Value 2000000 or more (ACS2015-),None,1033.0,769.0,964.0,1148.0,1026.0
+148,Housing Prices,Home Value 25000 to 29999 ,None,0.0,54.0,45.0,8.0,5.0
+149,Housing Prices,Home Value 250000 to 299999,None,0.0,203.0,0.0,0.0,13.0
+150,Housing Prices,Home Value 30000 to 34999 ,None,0.0,0.0,0.0,0.0,0.0
+151,Housing Prices,Home Value 300000 to 399999,None,98.0,92.0,268.0,291.0,261.0
+152,Housing Prices,Home Value 35000 to 39999 ,None,11.0,0.0,0.0,0.0,0.0
+153,Housing Prices,Home Value 40000 to 49999 ,None,0.0,0.0,0.0,0.0,0.0
+154,Housing Prices,Home Value 400000 to 499999,None,40.0,46.0,172.0,143.0,135.0
+155,Housing Prices,Home Value 50000 to 59999 ,None,0.0,0.0,0.0,0.0,19.0
+156,Housing Prices,Home Value 500000 to 749999,None,247.0,196.0,19.0,38.0,158.0
+157,Housing Prices,Home Value 60000 to 69999 ,None,0.0,0.0,0.0,0.0,0.0
+158,Housing Prices,Home Value 70000 to 79999 ,None,0.0,117.0,0.0,0.0,0.0
+159,Housing Prices,Home Value 750000 to 999999,None,558.0,268.0,368.0,524.0,693.0
+160,Housing Prices,Home Value 80000 to 89999 ,None,0.0,0.0,0.0,0.0,0.0
+161,Housing Prices,Home Value 90000 to 99999 ,None,0.0,0.0,0.0,0.0,0.0
+162,Housing Prices,Home Value Less than 10000,None,9.0,60.0,84.0,88.0,88.0
+163,Housing Prices,Home Value Total,None,3993.0,4050.0,4244.0,4410.0,4335.0
+164,Housing Prices,Housing Units with a Mortgage,None,2984.0,2795.0,2950.0,3238.0,2961.0
+165,Housing Prices,Housing Units with a Mortgage 0 to 30%,None,1986.0,2099.0,2191.0,2275.0,1959.0
+166,Housing Prices,Housing Units with a Mortgage 30-50%,None,486.0,398.0,378.0,497.0,480.0
+167,Housing Prices,Housing Units with a Mortgage 50%+,None,464.0,298.0,363.0,418.0,474.0
+168,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+169,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Asian Alone",None,0.0,0.0,0.0,127.0,160.0
+170,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+171,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Hispanic or Latino",None,0.0,0.0,0.0,0.0,0.0
+172,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+173,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+174,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, Two or More Races",None,0.0,0.0,0.0,0.0,0.0
+175,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, White Alone",None,0.0,0.0,0.0,291.0,314.0
+176,Housing Prices,"Housing Units with a Mortgage 50%+ by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,291.0,314.0
+177,Housing Prices,Housing Units with a Mortgage Not Computed,None,48.0,0.0,18.0,48.0,48.0
+178,Housing Prices,"Housing Units with a Mortgage by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,3.0,8.0
+179,Housing Prices,"Housing Units with a Mortgage by Race, Asian Alone",None,0.0,0.0,0.0,1450.0,1485.0
+180,Housing Prices,"Housing Units with a Mortgage by Race, Black or African American Alone",None,0.0,0.0,0.0,15.0,18.0
+181,Housing Prices,"Housing Units with a Mortgage by Race, Hispanic or Latino",None,0.0,0.0,0.0,111.0,30.0
+182,Housing Prices,"Housing Units with a Mortgage by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,21.0,18.0
+183,Housing Prices,"Housing Units with a Mortgage by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+184,Housing Prices,"Housing Units with a Mortgage by Race, Two or More Races",None,0.0,0.0,0.0,58.0,54.0
+185,Housing Prices,"Housing Units with a Mortgage by Race, White Alone",None,0.0,0.0,0.0,1691.0,1378.0
+186,Housing Prices,"Housing Units with a Mortgage by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,1611.0,1378.0
+187,Housing Prices,Housing Units without a Mortgage,None,1009.0,1255.0,1294.0,1172.0,1374.0
+188,Housing Prices,Housing Units without a Mortgage 0 to 30%,None,924.0,815.0,781.0,707.0,737.0
+189,Housing Prices,Housing Units without a Mortgage 30-50%,None,67.0,23.0,32.0,69.0,112.0
+190,Housing Prices,Housing Units without a Mortgage 50%+,None,18.0,417.0,481.0,396.0,525.0
+191,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+192,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Asian Alone",None,0.0,0.0,0.0,61.0,48.0
+193,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+194,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Hispanic or Latino",None,0.0,0.0,0.0,33.0,46.0
+195,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+196,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+197,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, Two or More Races",None,0.0,0.0,0.0,0.0,0.0
+198,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, White Alone",None,0.0,0.0,0.0,335.0,477.0
+199,Housing Prices,"Housing Units without a Mortgage 50%+ by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,302.0,431.0
+200,Housing Prices,Housing Units without a Mortgage Not Computed,None,0.0,0.0,0.0,0.0,0.0
+201,Housing Prices,"Housing Units without a Mortgage by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+202,Housing Prices,"Housing Units without a Mortgage by Race, Asian Alone",None,0.0,0.0,0.0,416.0,440.0
+203,Housing Prices,"Housing Units without a Mortgage by Race, Black or African American Alone",None,0.0,0.0,0.0,27.0,46.0
+204,Housing Prices,"Housing Units without a Mortgage by Race, Hispanic or Latino",None,0.0,0.0,0.0,86.0,111.0
+205,Housing Prices,"Housing Units without a Mortgage by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+206,Housing Prices,"Housing Units without a Mortgage by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+207,Housing Prices,"Housing Units without a Mortgage by Race, Two or More Races",None,0.0,0.0,0.0,4.0,23.0
+208,Housing Prices,"Housing Units without a Mortgage by Race, White Alone",None,0.0,0.0,0.0,725.0,865.0
+209,Housing Prices,"Housing Units without a Mortgage by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,639.0,770.0
+210,Housing Prices,Median Contract Rent,None,1992.4885695623773,2775.8741258741256,3098.136645962733,3181.982343499197,3170.2875399361023
+211,Housing Prices,Median Gross Rent by Bedrooms - 1 Bedroom- COUNTY ONLY,Total,2201.8048212248004,3338.384134762634,2856.3742068327942,3254.0300902708123,3117.909301502525
+212,Housing Prices,Median Gross Rent by Bedrooms - 2 Bedrooms- COUNTY ONLY,Total,2755.0940191976374,3020.2915819438795,3224.835761812516,3077.629889669007,3394.655255622406
+213,Housing Prices,Median Gross Rent by Bedrooms - 3-4 Bedrooms- COUNTY ONLY,Total,None,None,None,None,None
+214,Housing Prices,Median Gross Rent by Bedrooms - 5 Bedrooms or more- COUNTY ONLY,Total,None,827.0,816.0,932.0,None
+215,Housing Prices,Median Gross Rent by Bedrooms - No Bedroom- COUNTY ONLY,Total,1509.8451768488746,2767.750074382624,2818.490103794596,2722.866295032865,2731.9747643219725
+216,Housing Prices,Median Home Value,None,1429216.8674698796,1384226.8842268842,1428624.535315985,1403057.4198359433,1348677.998111426
+217,Housing Prices,Median Rent,None,2055.938697318008,2872.464898595944,3180.820948336872,3256.965361445783,3291.240409207161
+218,Housing Prices,Median Rent as % of Household Income,None,21.4519341563786,20.34051054384018,20.958813413585556,22.5818515497553,23.36129807692308
+219,Housing Prices,Rent 100 to 149,None,18.0,0.0,0.0,0.0,0.0
+220,Housing Prices,Rent 1000 to 1249,None,798.0,1042.0,511.0,366.0,380.0
+221,Housing Prices,Rent 1250 to 1499,None,638.0,591.0,803.0,699.0,577.0
+222,Housing Prices,Rent 150 to 199,None,0.0,0.0,0.0,0.0,36.0
+223,Housing Prices,Rent 1500 to 1999,None,1632.0,419.0,412.0,703.0,818.0
+224,Housing Prices,Rent 200 to 249,None,41.0,0.0,68.0,68.0,64.0
+225,Housing Prices,"Rent 2000 to 2499  (Rent 2000 or more, DEC2000 and ACS2009-2014)",None,1305.0,589.0,716.0,633.0,559.0
+226,Housing Prices,Rent 250 to 299,None,341.0,15.0,44.0,42.0,74.0
+227,Housing Prices,Rent 2500 to 2999 (ACS2015-),None,1145.0,641.0,756.0,840.0,848.0
+228,Housing Prices,Rent 300 to 349,None,123.0,16.0,25.0,17.0,66.0
+229,Housing Prices,Rent 3000 to 3499 (ACS2015-),None,1200.0,1134.0,1413.0,1328.0,1564.0
+230,Housing Prices,Rent 350 to 399,None,75.0,2.0,24.0,22.0,92.0
+231,Housing Prices,Rent 3500 or more (ACS2015-),None,1633.0,2661.0,3395.0,3979.0,4219.0
+232,Housing Prices,Rent 400 to 449,None,34.0,60.0,0.0,74.0,126.0
+233,Housing Prices,Rent 450 to 499,None,32.0,21.0,0.0,0.0,0.0
+234,Housing Prices,Rent 500 to 549,None,91.0,207.0,9.0,0.0,20.0
+235,Housing Prices,Rent 550 to 599,None,191.0,86.0,62.0,30.0,0.0
+236,Housing Prices,Rent 600 to 649,None,73.0,186.0,73.0,14.0,5.0
+237,Housing Prices,Rent 650 to 699,None,68.0,46.0,100.0,116.0,52.0
+238,Housing Prices,Rent 700 to 749,None,82.0,7.0,60.0,33.0,35.0
+239,Housing Prices,Rent 750 to 799,None,91.0,107.0,7.0,85.0,74.0
+240,Housing Prices,Rent 800 to 899,None,406.0,48.0,63.0,50.0,49.0
+241,Housing Prices,Rent 900 to 999,None,257.0,39.0,53.0,134.0,64.0
+242,Housing Prices,Rent Burdened,Total,0.3048030739673391,0.3310533515731874,0.3135757437592614,0.3429088200872433,0.3475270557297461
+243,Housing Prices,"Rent Burdened by Race, American Indian and Alaska Native Alone",None,None,None,None,1.0,0.62
+244,Housing Prices,"Rent Burdened by Race, Asian Alone",None,None,None,None,0.278855975485189,0.2882510338117246
+245,Housing Prices,"Rent Burdened by Race, Black or African American Alone",None,None,None,None,0.5727699530516432,0.355119825708061
+246,Housing Prices,"Rent Burdened by Race, Hispanic or Latino",None,None,None,None,0.387331256490135,0.3833049403747871
+247,Housing Prices,"Rent Burdened by Race, Native Hawaiian and Other Pacific Islander Alone",None,None,None,None,0.0,0.0
+248,Housing Prices,"Rent Burdened by Race, Some Other Race Alone",None,None,None,None,0.5813953488372093,0.58994708994709
+249,Housing Prices,"Rent Burdened by Race, Two or More Races",None,None,None,None,0.4885177453027139,0.4253968253968254
+250,Housing Prices,"Rent Burdened by Race, White Alone",None,None,None,None,0.3287454873646209,0.3250355618776671
+251,Housing Prices,"Rent Burdened by Race, White Alone, Not Hispanic or Latino",None,None,None,None,0.3325920434890042,0.3361017389047495
+252,Housing Prices,Rent Less than 100,None,0.0,0.0,0.0,16.0,22.0
+253,Housing Prices,Rent Total,None,10410.0,8041.0,8773.0,9399.0,9887.0
+254,Housing Prices,"Rent Total No cash rent  (No cash rent, DEC2000 and ACS2009-2014)",None,1145.0,641.0,756.0,840.0,848.0
+255,Housing Prices,Rent Total No cash rent (ACS2015-),None,136.0,124.0,179.0,150.0,143.0
+256,Housing Prices,Rent Total With cash rent,None,10274.0,7917.0,8594.0,9249.0,9744.0
+257,Housing Type,10-19 Units,Total Units,0.1318598988574639,0.0177940434124179,0.0265646647792301,0.0325877474741575,0.0387335995436394
+258,Housing Type,2-4 Units,Total Units,0.2808890553786601,0.0020822816759212,0.0080718029034395,0.0138410325293464,0.0148317170564746
+259,Housing Type,20 Units or More,Total Units,0.3119185865018418,0.9055401312468452,0.8965122582976929,0.896279857501606,0.8855675984027381
+260,Housing Type,5-9 Units,Total Units,0.1391646375725791,0.0070040383644623,0.0090356002650442,0.0094609589441102,0.0159726183685111
+261,Housing Type,Other Type,Total Units,0.0040581881750639,0.0006940938919737,0.0008433226914041,0.0014016235472755,0.0013120365088419
+262,Housing Type,Single Family Housing,Total Units,0.1321096335143909,0.0668854114083796,0.0589723510631889,0.046428780003504,0.0435824301197946
+263,Income,Household Income 10000 to 14999,None,587.0,155.0,167.0,273.0,294.0
+264,Income,"Household Income 10000 to 14999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+265,Income,"Household Income 10000 to 14999 by Race, Asian Alone",None,127.0,30.0,46.0,136.0,100.0
+266,Income,"Household Income 10000 to 14999 by Race, Black or African American Alone",None,22.0,12.0,63.0,43.0,31.0
+267,Income,"Household Income 10000 to 14999 by Race, Hispanic or Latino",None,207.0,0.0,22.0,72.0,76.0
+268,Income,"Household Income 10000 to 14999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+269,Income,"Household Income 10000 to 14999 by Race, Some Other Race Alone",None,51.0,0.0,0.0,50.0,52.0
+270,Income,"Household Income 10000 to 14999 by Race, Two or More Races",None,86.0,0.0,0.0,0.0,0.0
+271,Income,"Household Income 10000 to 14999 by Race, White Alone",None,301.0,113.0,58.0,44.0,111.0
+272,Income,"Household Income 10000 to 14999 by Race, White Alone, Not Hispanic or Latino",None,231.0,113.0,36.0,22.0,87.0
+273,Income,Household Income 100000 to 124999,None,1152.0,771.0,862.0,747.0,744.0
+274,Income,"Household Income 100000 to 124999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+275,Income,"Household Income 100000 to 124999 by Race, Asian Alone",None,166.0,232.0,291.0,231.0,265.0
+276,Income,"Household Income 100000 to 124999 by Race, Black or African American Alone",None,0.0,7.0,8.0,7.0,5.0
+277,Income,"Household Income 100000 to 124999 by Race, Hispanic or Latino",None,160.0,92.0,164.0,56.0,4.0
+278,Income,"Household Income 100000 to 124999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+279,Income,"Household Income 100000 to 124999 by Race, Some Other Race Alone",None,102.0,110.0,119.0,46.0,4.0
+280,Income,"Household Income 100000 to 124999 by Race, Two or More Races",None,65.0,0.0,13.0,10.0,0.0
+281,Income,"Household Income 100000 to 124999 by Race, White Alone",None,819.0,422.0,431.0,453.0,470.0
+282,Income,"Household Income 100000 to 124999 by Race, White Alone, Not Hispanic or Latino",None,727.0,412.0,399.0,453.0,470.0
+283,Income,Household Income 125000 to 149999,None,1129.0,719.0,606.0,603.0,795.0
+284,Income,"Household Income 125000 to 149999 by Race, American Indian and Alaska Native Alone",None,42.0,0.0,0.0,0.0,0.0
+285,Income,"Household Income 125000 to 149999 by Race, Asian Alone",None,333.0,308.0,251.0,313.0,337.0
+286,Income,"Household Income 125000 to 149999 by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+287,Income,"Household Income 125000 to 149999 by Race, Hispanic or Latino",None,141.0,13.0,73.0,73.0,120.0
+288,Income,"Household Income 125000 to 149999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+289,Income,"Household Income 125000 to 149999 by Race, Some Other Race Alone",None,39.0,13.0,106.0,55.0,91.0
+290,Income,"Household Income 125000 to 149999 by Race, Two or More Races",None,56.0,28.0,39.0,9.0,32.0
+291,Income,"Household Income 125000 to 149999 by Race, White Alone",None,659.0,370.0,210.0,226.0,335.0
+292,Income,"Household Income 125000 to 149999 by Race, White Alone, Not Hispanic or Latino",None,636.0,370.0,210.0,208.0,324.0
+293,Income,Household Income 15000 to 19999,None,325.0,301.0,355.0,172.0,168.0
+294,Income,"Household Income 15000 to 19999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+295,Income,"Household Income 15000 to 19999 by Race, Asian Alone",None,82.0,79.0,64.0,14.0,18.0
+296,Income,"Household Income 15000 to 19999 by Race, Black or African American Alone",None,43.0,46.0,0.0,17.0,24.0
+297,Income,"Household Income 15000 to 19999 by Race, Hispanic or Latino",None,129.0,37.0,0.0,17.0,13.0
+298,Income,"Household Income 15000 to 19999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+299,Income,"Household Income 15000 to 19999 by Race, Some Other Race Alone",None,53.0,0.0,0.0,0.0,0.0
+300,Income,"Household Income 15000 to 19999 by Race, Two or More Races",None,55.0,37.0,67.0,55.0,39.0
+301,Income,"Household Income 15000 to 19999 by Race, White Alone",None,92.0,139.0,224.0,86.0,87.0
+302,Income,"Household Income 15000 to 19999 by Race, White Alone, Not Hispanic or Latino",None,65.0,139.0,224.0,86.0,87.0
+303,Income,Household Income 150000 to 199999,None,1821.0,1438.0,1620.0,1831.0,1599.0
+304,Income,"Household Income 150000 to 199999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+305,Income,"Household Income 150000 to 199999 by Race, Asian Alone",None,225.0,435.0,690.0,787.0,644.0
+306,Income,"Household Income 150000 to 199999 by Race, Black or African American Alone",None,0.0,62.0,0.0,0.0,0.0
+307,Income,"Household Income 150000 to 199999 by Race, Hispanic or Latino",None,123.0,12.0,28.0,134.0,224.0
+308,Income,"Household Income 150000 to 199999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,61.0,16.0,17.0,24.0
+309,Income,"Household Income 150000 to 199999 by Race, Some Other Race Alone",None,48.0,21.0,41.0,13.0,13.0
+310,Income,"Household Income 150000 to 199999 by Race, Two or More Races",None,124.0,29.0,17.0,109.0,236.0
+311,Income,"Household Income 150000 to 199999 by Race, White Alone",None,1424.0,830.0,856.0,905.0,682.0
+312,Income,"Household Income 150000 to 199999 by Race, White Alone, Not Hispanic or Latino",None,1329.0,818.0,856.0,889.0,665.0
+313,Income,Household Income 20000 to 24999,None,273.0,95.0,161.0,313.0,288.0
+314,Income,"Household Income 20000 to 24999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+315,Income,"Household Income 20000 to 24999 by Race, Asian Alone",None,23.0,66.0,30.0,158.0,77.0
+316,Income,"Household Income 20000 to 24999 by Race, Black or African American Alone",None,0.0,11.0,0.0,0.0,0.0
+317,Income,"Household Income 20000 to 24999 by Race, Hispanic or Latino",None,87.0,0.0,121.0,100.0,98.0
+318,Income,"Household Income 20000 to 24999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,69.0,0.0,0.0,0.0,0.0
+319,Income,"Household Income 20000 to 24999 by Race, Some Other Race Alone",None,80.0,0.0,0.0,0.0,37.0
+320,Income,"Household Income 20000 to 24999 by Race, Two or More Races",None,0.0,0.0,42.0,45.0,49.0
+321,Income,"Household Income 20000 to 24999 by Race, White Alone",None,101.0,18.0,89.0,110.0,125.0
+322,Income,"Household Income 20000 to 24999 by Race, White Alone, Not Hispanic or Latino",None,94.0,18.0,10.0,55.0,113.0
+323,Income,Household Income 25000 to 29999,None,298.0,330.0,185.0,79.0,71.0
+324,Income,"Household Income 25000 to 29999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+325,Income,"Household Income 25000 to 29999 by Race, Asian Alone",None,50.0,127.0,96.0,0.0,0.0
+326,Income,"Household Income 25000 to 29999 by Race, Black or African American Alone",None,52.0,0.0,14.0,14.0,12.0
+327,Income,"Household Income 25000 to 29999 by Race, Hispanic or Latino",None,41.0,52.0,25.0,0.0,12.0
+328,Income,"Household Income 25000 to 29999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+329,Income,"Household Income 25000 to 29999 by Race, Some Other Race Alone",None,0.0,52.0,25.0,0.0,0.0
+330,Income,"Household Income 25000 to 29999 by Race, Two or More Races",None,0.0,0.0,0.0,0.0,0.0
+331,Income,"Household Income 25000 to 29999 by Race, White Alone",None,196.0,151.0,50.0,65.0,59.0
+332,Income,"Household Income 25000 to 29999 by Race, White Alone, Not Hispanic or Latino",None,155.0,151.0,50.0,65.0,47.0
+333,Income,Household Income 30000 to 34999,None,230.0,167.0,157.0,362.0,444.0
+334,Income,"Household Income 30000 to 34999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+335,Income,"Household Income 30000 to 34999 by Race, Asian Alone",None,63.0,0.0,62.0,121.0,133.0
+336,Income,"Household Income 30000 to 34999 by Race, Black or African American Alone",None,0.0,0.0,0.0,61.0,65.0
+337,Income,"Household Income 30000 to 34999 by Race, Hispanic or Latino",None,79.0,0.0,0.0,0.0,0.0
+338,Income,"Household Income 30000 to 34999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+339,Income,"Household Income 30000 to 34999 by Race, Some Other Race Alone",None,42.0,0.0,0.0,0.0,0.0
+340,Income,"Household Income 30000 to 34999 by Race, Two or More Races",None,0.0,0.0,0.0,0.0,0.0
+341,Income,"Household Income 30000 to 34999 by Race, White Alone",None,125.0,167.0,95.0,180.0,246.0
+342,Income,"Household Income 30000 to 34999 by Race, White Alone, Not Hispanic or Latino",None,88.0,167.0,95.0,180.0,246.0
+343,Income,Household Income 35000 to 39999,None,262.0,204.0,130.0,54.0,81.0
+344,Income,"Household Income 35000 to 39999 by Race, American Indian and Alaska Native Alone",None,0.0,34.0,34.0,0.0,0.0
+345,Income,"Household Income 35000 to 39999 by Race, Asian Alone",None,99.0,26.0,11.0,0.0,43.0
+346,Income,"Household Income 35000 to 39999 by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+347,Income,"Household Income 35000 to 39999 by Race, Hispanic or Latino",None,47.0,34.0,34.0,0.0,0.0
+348,Income,"Household Income 35000 to 39999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+349,Income,"Household Income 35000 to 39999 by Race, Some Other Race Alone",None,27.0,0.0,0.0,0.0,0.0
+350,Income,"Household Income 35000 to 39999 by Race, Two or More Races",None,30.0,0.0,0.0,0.0,0.0
+351,Income,"Household Income 35000 to 39999 by Race, White Alone",None,106.0,144.0,85.0,54.0,38.0
+352,Income,"Household Income 35000 to 39999 by Race, White Alone, Not Hispanic or Latino",None,86.0,144.0,85.0,54.0,38.0
+353,Income,Household Income 40000 to 44999,None,214.0,277.0,296.0,253.0,221.0
+354,Income,"Household Income 40000 to 44999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,30.0,31.0
+355,Income,"Household Income 40000 to 44999 by Race, Asian Alone",None,9.0,197.0,50.0,66.0,39.0
+356,Income,"Household Income 40000 to 44999 by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+357,Income,"Household Income 40000 to 44999 by Race, Hispanic or Latino",None,61.0,33.0,54.0,39.0,31.0
+358,Income,"Household Income 40000 to 44999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+359,Income,"Household Income 40000 to 44999 by Race, Some Other Race Alone",None,20.0,33.0,36.0,0.0,0.0
+360,Income,"Household Income 40000 to 44999 by Race, Two or More Races",None,0.0,0.0,27.0,9.0,0.0
+361,Income,"Household Income 40000 to 44999 by Race, White Alone",None,185.0,47.0,183.0,148.0,151.0
+362,Income,"Household Income 40000 to 44999 by Race, White Alone, Not Hispanic or Latino",None,144.0,47.0,183.0,148.0,151.0
+363,Income,Household Income 45000 to 49999,None,145.0,71.0,105.0,131.0,194.0
+364,Income,"Household Income 45000 to 49999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+365,Income,"Household Income 45000 to 49999 by Race, Asian Alone",None,60.0,20.0,33.0,67.0,95.0
+366,Income,"Household Income 45000 to 49999 by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+367,Income,"Household Income 45000 to 49999 by Race, Hispanic or Latino",None,0.0,0.0,0.0,9.0,43.0
+368,Income,"Household Income 45000 to 49999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+369,Income,"Household Income 45000 to 49999 by Race, Some Other Race Alone",None,0.0,0.0,0.0,9.0,13.0
+370,Income,"Household Income 45000 to 49999 by Race, Two or More Races",None,0.0,0.0,0.0,12.0,37.0
+371,Income,"Household Income 45000 to 49999 by Race, White Alone",None,85.0,51.0,72.0,43.0,49.0
+372,Income,"Household Income 45000 to 49999 by Race, White Alone, Not Hispanic or Latino",None,85.0,51.0,72.0,43.0,49.0
+373,Income,Household Income 50000 to 59999,None,613.0,424.0,300.0,238.0,341.0
+374,Income,"Household Income 50000 to 59999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+375,Income,"Household Income 50000 to 59999 by Race, Asian Alone",None,62.0,100.0,131.0,52.0,67.0
+376,Income,"Household Income 50000 to 59999 by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,99.0
+377,Income,"Household Income 50000 to 59999 by Race, Hispanic or Latino",None,160.0,73.0,60.0,33.0,21.0
+378,Income,"Household Income 50000 to 59999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+379,Income,"Household Income 50000 to 59999 by Race, Some Other Race Alone",None,130.0,0.0,0.0,0.0,21.0
+380,Income,"Household Income 50000 to 59999 by Race, Two or More Races",None,69.0,73.0,60.0,33.0,0.0
+381,Income,"Household Income 50000 to 59999 by Race, White Alone",None,352.0,251.0,109.0,153.0,154.0
+382,Income,"Household Income 50000 to 59999 by Race, White Alone, Not Hispanic or Latino",None,330.0,251.0,109.0,153.0,154.0
+383,Income,Household Income 60000 to 74999,None,786.0,249.0,320.0,423.0,401.0
+384,Income,"Household Income 60000 to 74999 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,19.0
+385,Income,"Household Income 60000 to 74999 by Race, Asian Alone",None,161.0,28.0,97.0,202.0,193.0
+386,Income,"Household Income 60000 to 74999 by Race, Black or African American Alone",None,0.0,0.0,0.0,9.0,0.0
+387,Income,"Household Income 60000 to 74999 by Race, Hispanic or Latino",None,208.0,25.0,49.0,89.0,98.0
+388,Income,"Household Income 60000 to 74999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+389,Income,"Household Income 60000 to 74999 by Race, Some Other Race Alone",None,125.0,0.0,0.0,49.0,51.0
+390,Income,"Household Income 60000 to 74999 by Race, Two or More Races",None,24.0,9.0,36.0,49.0,35.0
+391,Income,"Household Income 60000 to 74999 by Race, White Alone",None,476.0,212.0,187.0,114.0,103.0
+392,Income,"Household Income 60000 to 74999 by Race, White Alone, Not Hispanic or Latino",None,403.0,187.0,160.0,114.0,103.0
+393,Income,Household Income 75000 to 99999,None,1199.0,497.0,542.0,985.0,1057.0
+394,Income,"Household Income 75000 to 99999 by Race, American Indian and Alaska Native Alone",None,11.0,0.0,0.0,0.0,0.0
+395,Income,"Household Income 75000 to 99999 by Race, Asian Alone",None,154.0,412.0,271.0,387.0,596.0
+396,Income,"Household Income 75000 to 99999 by Race, Black or African American Alone",None,17.0,0.0,25.0,9.0,57.0
+397,Income,"Household Income 75000 to 99999 by Race, Hispanic or Latino",None,214.0,12.0,12.0,61.0,73.0
+398,Income,"Household Income 75000 to 99999 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+399,Income,"Household Income 75000 to 99999 by Race, Some Other Race Alone",None,66.0,3.0,0.0,0.0,0.0
+400,Income,"Household Income 75000 to 99999 by Race, Two or More Races",None,129.0,0.0,24.0,53.0,95.0
+401,Income,"Household Income 75000 to 99999 by Race, White Alone",None,822.0,82.0,222.0,536.0,309.0
+402,Income,"Household Income 75000 to 99999 by Race, White Alone, Not Hispanic or Latino",None,757.0,73.0,210.0,487.0,263.0
+403,Income,Household Income Greater than 200000,None,4962.0,5982.0,6651.0,6779.0,6672.0
+404,Income,"Household Income Greater than 200000 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,2.0,3.0,8.0
+405,Income,"Household Income Greater than 200000 by Race, Asian Alone",None,815.0,2257.0,2598.0,3057.0,3172.0
+406,Income,"Household Income Greater than 200000 by Race, Black or African American Alone",None,134.0,25.0,98.0,95.0,230.0
+407,Income,"Household Income Greater than 200000 by Race, Hispanic or Latino",None,282.0,277.0,358.0,469.0,441.0
+408,Income,"Household Income Greater than 200000 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,66.0,74.0,54.0,17.0
+409,Income,"Household Income Greater than 200000 by Race, Some Other Race Alone",None,23.0,12.0,10.0,28.0,54.0
+410,Income,"Household Income Greater than 200000 by Race, Two or More Races",None,377.0,97.0,123.0,135.0,144.0
+411,Income,"Household Income Greater than 200000 by Race, White Alone",None,3613.0,3525.0,3746.0,3407.0,3047.0
+412,Income,"Household Income Greater than 200000 by Race, White Alone, Not Hispanic or Latino",None,3431.0,3273.0,3420.0,3016.0,2709.0
+413,Income,Household Income Less than 10000,None,407.0,411.0,560.0,566.0,852.0
+414,Income,"Household Income Less than 10000 by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+415,Income,"Household Income Less than 10000 by Race, Asian Alone",None,45.0,121.0,235.0,191.0,257.0
+416,Income,"Household Income Less than 10000 by Race, Black or African American Alone",None,60.0,8.0,0.0,0.0,0.0
+417,Income,"Household Income Less than 10000 by Race, Hispanic or Latino",None,47.0,15.0,0.0,8.0,61.0
+418,Income,"Household Income Less than 10000 by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,13.0,21.0,18.0
+419,Income,"Household Income Less than 10000 by Race, Some Other Race Alone",None,31.0,0.0,0.0,8.0,42.0
+420,Income,"Household Income Less than 10000 by Race, Two or More Races",None,6.0,5.0,24.0,22.0,40.0
+421,Income,"Household Income Less than 10000 by Race, White Alone",None,265.0,277.0,288.0,324.0,495.0
+422,Income,"Household Income Less than 10000 by Race, White Alone, Not Hispanic or Latino",None,249.0,262.0,288.0,324.0,495.0
+423,Income,Households Total for Income,None,14403.0,12091.0,13017.0,13809.0,14222.0
+424,Income,"Households Total for Income by Race, American Indian and Alaska Native Alone",None,53.0,34.0,36.0,33.0,58.0
+425,Income,"Households Total for Income by Race, Asian Alone",None,2474.0,4438.0,4956.0,5782.0,6036.0
+426,Income,"Households Total for Income by Race, Black or African American Alone",None,328.0,171.0,208.0,255.0,523.0
+427,Income,"Households Total for Income by Race, Hispanic or Latino",None,1986.0,675.0,1000.0,1160.0,1315.0
+428,Income,"Households Total for Income by Race, Native Hawaiian and Other Pacific Islander Alone",None,69.0,127.0,103.0,92.0,59.0
+429,Income,"Households Total for Income by Race, Some Other Race Alone",None,837.0,244.0,337.0,258.0,378.0
+430,Income,"Households Total for Income by Race, Two or More Races",None,1021.0,278.0,472.0,541.0,707.0
+431,Income,"Households Total for Income by Race, White Alone",None,9621.0,6799.0,6905.0,6848.0,6461.0
+432,Income,"Households Total for Income by Race, White Alone, Not Hispanic or Latino",None,8810.0,6476.0,6407.0,6297.0,6001.0
+433,Income,Median Family Income,None,176185.3448275862,210415.57906137183,211372.66758147517,208054.1306778477,205502.43574593795
+434,Income,Median Household Income,None,140732.94951284322,197792.0723226704,201071.31032927375,196572.91097760783,186272.67041901188
+435,Income,"Median Household Income by Race, American Indian and Alaska Native Alone",None,134226.19047619047,37500.0,37647.05882352941,42750.0,44677.41935483871
+436,Income,"Median Household Income by Race, Asian Alone",None,135210.2102102102,200841.85910500665,202309.56120092375,202715.18874713773,202427.58764186632
+437,Income,"Median Household Income by Race, Black or African American Alone",None,28750.0,151209.67741935485,106250.0,34385.24590163934,88377.19298245614
+438,Income,"Median Household Income by Race, Hispanic or Latino",None,69735.57692307692,115353.26086956522,118750.0,158582.08955223882,151674.10714285713
+439,Income,"Median Household Income by Race, Native Hawaiian and Other Pacific Islander Alone",None,22500.0,201894.01515151517,215203.3108108108,207407.7037037037,173958.33333333334
+440,Income,"Median Household Income by Race, Some Other Race Alone",None,58807.69230769231,107727.27272727272,122584.03361344538,107065.21739130437,67058.82352941176
+441,Income,"Median Household Income by Race, Two or More Races",None,145758.92857142858,138392.85714285713,66666.66666666667,96462.2641509434,155614.40677966102
+442,Income,"Median Household Income by Race, White Alone",None,157952.94943820225,201780.2130496454,203917.66871329417,199060.773480663,186546.9208211144
+443,Income,"Median Household Income by Race, White Alone, Not Hispanic or Latino",None,163355.9066967645,200534.6990528567,203165.3312865497,192547.80652418447,178082.70676691728
+444,Income,Percent in Poverty,Total,0.0847554806070826,0.1230395405345703,0.0790920995198603,0.0885951227522785,0.0967781704610832
+445,Income,"Percent in Poverty by Race, American Indian and Alaska Native Alone",None,0.032258064516129,0.0,0.0,0.0,0.0
+446,Income,"Percent in Poverty by Race, Asian Alone",None,0.0878695208970438,0.0938440776497456,0.0601928508814648,0.0669414822116677,0.0558239398819108
+447,Income,"Percent in Poverty by Race, Black or African American Alone",None,0.2345559845559845,0.3370429252782194,0.2517006802721088,0.1902748414376321,0.1137884872824631
+448,Income,"Percent in Poverty by Race, Hispanic or Latino",None,0.1234615384615384,0.0445082555635319,0.067527308838133,0.0926743159752868,0.1368169126445951
+449,Income,"Percent in Poverty by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0935251798561151,0.175,0.2068965517241379
+450,Income,"Percent in Poverty by Race, Some Other Race Alone",None,0.1838525669153137,0.0,0.0663390663390663,0.1485557083906465,0.2287581699346405
+451,Income,"Percent in Poverty by Race, Two or More Races",None,0.1132210677176639,0.1975540921919097,0.1537828947368421,0.1180428134556575,0.1296963458569222
+452,Income,"Percent in Poverty by Race, White Alone",None,0.0595965604888864,0.1358726019742969,0.0854211876109686,0.0979027832222657,0.1242275729810355
+453,Income,"Percent in Poverty by Race, White Alone, Not Hispanic or Latino",None,0.0577361661265154,0.1414483514294252,0.0873838265142613,0.1021568837858139,0.128863583546363
+454,Journey to Work,Journey to Work by Bike,Total,0.058913855760864,0.0272745639436999,0.0260050251256281,0.0339958469296944,0.0242551910923864
+455,Journey to Work,Journey to Work by Car,Total,0.270665915954343,0.1511886322311266,0.1372487437185929,0.137347967962029,0.1622630153475774
+456,Journey to Work,Journey to Work by Carpooled,Total,0.0452986640732968,0.0113138931914607,0.0196608040201005,0.0187481459507564,0.0211254890159494
+457,Journey to Work,Journey to Work by Drove Alone,Total,0.2253672518810462,0.1398747390396659,0.1175879396984924,0.1185998220112726,0.141137526331628
+458,Journey to Work,Journey to Work by Other Journey Type,Total,0.0438654860009213,0.02734190854603,0.0324748743718592,0.0340551765054879,0.0308757147156184
+459,Journey to Work,Journey to Work by Transit,Total,0.3540973537390592,0.2103171930769748,0.1609924623115577,0.1667161079798279,0.1335540174541077
+460,Journey to Work,Journey to Work by Walk,Total,0.1498694784255515,0.3766583608323793,0.3569095477386935,0.3169385938890537,0.3221787541378272
+461,Journey to Work,Journey to Work by Worked at Home,Total,0.1225879101192608,0.2072193413697892,0.2863693467336683,0.3109463067339068,0.3268733072524827
+553,Journey to Work,Total Workers 16 Years and Older,None,19537.0,14849.0,15920.0,16855.0,16615.0
+554,Language Spoken at Home,Asian/Pacific Islander,Total,0.0882746478873239,0.2604482410214017,0.2969286319261802,0.2826627343585422,0.2938011101224524
+555,Language Spoken at Home,English Only,Total,0.7061971830985916,0.556076054009369,0.5088485713012081,0.5259742995576153,0.504173551968137
+556,Language Spoken at Home,Other European Languages,Total,0.0850352112676056,0.1294204096629007,0.1163910310702982,0.1178007162418369,0.1286386170077539
+557,Language Spoken at Home,Other Languages,Total,0.0143309859154929,0.0030311380545604,0.0107876788659564,0.007078154623973,0.005042159230541
+558,Language Spoken at Home,Spanish Only,Total,0.1061619718309859,0.0510241572517681,0.0670440868363571,0.0664840952180324,0.0683445616711156
+462,Nativity,Foreign Born,Total,0.2575355354682617,0.3995969861573506,0.4144830871843735,0.4537297605938252,0.4611551343844457
+463,Population,Total Population,None,29759.0,22828.0,23089.0,24519.0,24482.0
+464,Race/Ethnicity,Asian,None,4909.0,9656.0,10302.0,11188.0,11209.0
+465,Race/Ethnicity,"Asian Alone, Not Hispanic or Latino",None,4849.0,9656.0,10302.0,11176.0,11198.0
+466,Race/Ethnicity,Black/African American,None,1055.0,661.0,319.0,500.0,762.0
+467,Race/Ethnicity,"Black/African American Alone, Not Hispanic or Latino",None,1037.0,653.0,311.0,491.0,753.0
+468,Race/Ethnicity,Latino Population (of Any Race),None,5209.0,1441.0,2039.0,2282.0,2549.0
+469,Race/Ethnicity,Native American Indian,None,62.0,34.0,42.0,40.0,75.0
+470,Race/Ethnicity,"Native American Indian Alone, Not Hispanic or Latino",None,53.0,0.0,8.0,10.0,25.0
+471,Race/Ethnicity,Native Hawaiian/Pacific Islander,None,86.0,170.0,139.0,120.0,87.0
+472,Race/Ethnicity,"Native Hawaiian/Pacific Islander Alone, Not Hispanic or Latino",None,69.0,170.0,139.0,120.0,87.0
+473,Race/Ethnicity,Other/Two or More Races,None,5092.0,1485.0,2069.0,2389.0,2877.0
+474,Race/Ethnicity,"Population, Not Hispanic or Latino",None,24550.0,21387.0,21050.0,22237.0,21933.0
+475,Race/Ethnicity,Some Other Race Alone,None,2288.0,388.0,833.0,734.0,918.0
+476,Race/Ethnicity,"Some Other Race Alone, Not Hispanic or Latino",None,150.0,53.0,78.0,21.0,39.0
+477,Race/Ethnicity,Two Or More Races,None,2804.0,1097.0,1236.0,1655.0,1959.0
+478,Race/Ethnicity,"Two Or More Races, Not Hispanic or Latino",None,1666.0,756.0,773.0,1025.0,1162.0
+479,Race/Ethnicity,"White Alone, Not Hispanic or Latino",None,16726.0,10099.0,9439.0,9394.0,8669.0
+480,Race/Ethnicity,"White, Including Hispanic or Latino",None,18555.0,10822.0,10218.0,10282.0,9472.0
+481,Sex,Female,Total Population,0.4164118417957592,0.4533467671280883,0.4629044133570098,0.4465108691219054,0.455109876644065
+482,Sex,Male,Total Population,0.5835881582042407,0.5466532328719117,0.5370955866429902,0.5534891308780946,0.544890123355935
+483,Unit Size,1 Bedroom,None,5428.0,5320.0,6210.0,6230.0,6833.0
+484,Unit Size,2 Bedrooms,None,4689.0,5261.0,5243.0,5533.0,5057.0
+485,Unit Size,3-4 Bedrooms,None,3031.0,1790.0,1654.0,1641.0,1551.0
+486,Unit Size,5 or More Bedrooms,None,124.0,118.0,86.0,95.0,129.0
+487,Unit Size,No Bedroom,None,2745.0,3359.0,3408.0,3624.0,3960.0
+488,Vehicles Available,Households with no Vehicle,Total,0.3633270846351454,0.3929368952113142,0.3798110163632173,0.3858353247881816,0.3851075798059344
+489,Vehicles Available,Percent of No Vehicle Homeowning Households,Total Owner Occupied,0.1284748309541698,0.148395061728395,0.133129123468426,0.164172335600907,0.1690888119953864
+490,Vehicles Available,Percent of No Vehicle Renting Households,Total Renter Occupied,0.4534101825168107,0.5161049620693944,0.4991451042972757,0.4898393446111288,0.4798219884697077
+491,Vehicles Available,Vehicles Available,None,12258.0,7010.0,9889.0,10351.0,10543.0
+492,Vehicles Available,Vehicles Homeowners,Aggregate Number of Vehicles Available,0.4015336922825909,0.3880171184022825,0.457680250783699,0.4267220558400154,0.4094659963957128
+493,Vehicles Available,Vehicles Per Capita,Total Population,0.4119090023186263,0.3835841313269494,0.4282991900905193,0.4221624046657694,0.4306429213299567
+494,Vehicles Available,Vehicles Renters,Aggregate Number of Vehicles Available,0.598466307717409,0.6119828815977175,0.542319749216301,0.5732779441599846,0.5905340036042872
+495,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+496,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, Asian Alone",None,0.0,0.0,0.0,267.0,301.0
+497,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+498,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, Hispanic or Latino",None,0.0,0.0,0.0,19.0,10.0
+499,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+500,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+501,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, Two or More Races",None,0.0,0.0,0.0,19.0,10.0
+502,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, White Alone",None,0.0,0.0,0.0,597.0,622.0
+503,Housing Prices,"Housing Units with a Mortgage 30%+ by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,597.0,622.0
+504,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+505,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, Asian Alone",None,0.0,0.0,0.0,0.0,0.0
+506,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+507,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, Hispanic or Latino",None,0.0,0.0,0.0,0.0,0.0
+508,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,21.0,18.0
+509,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+510,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, Two or More Races",None,0.0,0.0,0.0,0.0,0.0
+511,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, White Alone",None,0.0,0.0,0.0,27.0,30.0
+512,Housing Prices,"Housing Units with a Mortgage Not Calculated by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,27.0,30.0
+513,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+514,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, Asian Alone",None,0.0,0.0,0.0,107.0,116.0
+515,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+516,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, Hispanic or Latino",None,0.0,0.0,0.0,33.0,46.0
+517,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+518,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+519,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, Two or More Races",None,0.0,0.0,0.0,0.0,0.0
+520,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, White Alone",None,0.0,0.0,0.0,358.0,505.0
+521,Housing Prices,"Housing Units without a Mortgage 30%+ by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,325.0,459.0
+522,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, American Indian and Alaska Native Alone",None,0.0,0.0,0.0,0.0,0.0
+523,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, Asian Alone",None,0.0,0.0,0.0,0.0,0.0
+524,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, Black or African American Alone",None,0.0,0.0,0.0,0.0,0.0
+525,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, Hispanic or Latino",None,0.0,0.0,0.0,0.0,0.0
+526,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, Native Hawaiian and Other Pacific Islander Alone",None,0.0,0.0,0.0,0.0,0.0
+527,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, Some Other Race Alone",None,0.0,0.0,0.0,0.0,0.0
+528,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, Two or More Races",None,0.0,0.0,0.0,0.0,0.0
+529,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, White Alone",None,0.0,0.0,0.0,0.0,0.0
+530,Housing Prices,"Housing Units without a Mortgage Not Calculated by Race, White Alone, Not Hispanic or Latino",None,0.0,0.0,0.0,0.0,0.0
