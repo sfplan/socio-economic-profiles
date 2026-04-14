@@ -27,6 +27,22 @@ sf3_race = {'A': 'White Alone', 'B': 'Black or African American Alone',
 geo_summary_variable = 'Neighborhood'
 
 def calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path='./output'):
+    '''
+    base_ids_long = list(set(attribute_df['acs_base_id'].tolist() + attribute_df['sf3_base_id'].tolist()))
+    base_ids_long = [x.split(',') for x in base_ids_long if str(x) != 'nan']
+    base_ids_long = [item.strip() for sublist in base_ids_long for item in sublist]
+    attribute_df_temp = attribute_df.copy()
+    #RL HERE
+    attribute_df_temp['acs_attribute_id'] = attribute_df_temp['acs_attribute_id'].apply(lambda x: [y.strip() for y in x.split(',')] if len(x.split(',')) > 1)
+    attribute_df_temp['sf3_attribute_id'] = attribute_df_temp['sf3_attribute_id'].apply(lambda x: [x])
+
+    attribute_df = attribute_df_temp.explode('acs_attribute_id').explode('sf3_attribute_id')
+    attribute_df_base_dict = dict(zip(attribute_df[attribute_df['acs_attribute_id'].isin(base_ids_long)]['acs_attribute_id'], \
+                                      attribute_df[attribute_df['acs_attribute_id'].isin(base_ids_long)]['attribute_name']))
+    attribute_df_base_dict_v2 = dict(zip(attribute_df[attribute_df['sf3_attribute_id'].isin(base_ids_long)]['sf3_attribute_id'], \
+                                      attribute_df[attribute_df['sf3_attribute_id'].isin(base_ids_long)]['attribute_name']))
+    attribute_df_base_dict = attribute_df_base_dict | attribute_df_base_dict_v2
+    '''
 
     for year in years:
 
@@ -207,6 +223,7 @@ def calc_socio_economic_profiles(attribute_df, years, geo_lookup_df, output_path
                 except Exception as e:
                     print(e)
                     print(attribute_name, attribute_ids, base_ids)
+
 
         # code segment to account for alternates
         # def remove_alternate_text(x):

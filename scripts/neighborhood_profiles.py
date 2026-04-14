@@ -8,13 +8,10 @@ import warnings
 warnings.filterwarnings("ignore")
 output_path = r'./output'
 
-def neighborhood_profiles(years, geo_lookup_df, output_path='./output'):
+def neighborhood_profiles(years, geo_lookup_df, attribute_df, output_path='./output'):
     # In[]: Generate neighborhood profiles
     # In[]: Generate neighborhood profiles
-    import pandas as pd
-    import os
-    import warnings
-    warnings.filterwarnings("ignore")
+
     download_path = r'./downloads'
     geo_lookup_df_yyyy = geo_lookup_df[geo_lookup_df['year'] == '2020']
     neighborhoods = list(set(geo_lookup_df_yyyy.neighborhood.tolist()))
@@ -155,6 +152,7 @@ def neighborhood_profiles(years, geo_lookup_df, output_path='./output'):
                                                           inplace=False)
 
         n = n.strip().replace('/', '-')
+
         df_all_calcs_full.to_csv(r'./output_csv/%s_neighborhood_profiles_by_attribute_2000to%s.csv' %(n, max(years)))
 
 
