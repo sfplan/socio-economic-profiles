@@ -143,16 +143,17 @@ def neighborhood_profiles(years, geo_lookup_df, attribute_df, output_path='./out
         if len(alternates) > 0:
             alternates_labels = [x[:-11] for x in alternates]
             for a in alternates_labels:
-                df_rows = df_all_calcs_full[df_all_calcs_full['Attribute'].str.startswith(a)]
+                a_labels = [a, '%s, alternate' %a]
+                df_rows = df_all_calcs_full[df_all_calcs_full['Attribute'].isin(a_labels)]
+                df_rows = df_rows.sort_values(by=['Attribute'])
                 df_rows = df_rows.iloc[0].combine_first(df_rows.iloc[1])
-                df_all_calcs_full = df_all_calcs_full[(df_all_calcs_full['Attribute'].str.startswith(a)) == False]
+                df_all_calcs_full = df_all_calcs_full[(df_all_calcs_full['Attribute'].isin(a_labels)) == False]
                 df_all_calcs_full = pd.concat([df_all_calcs_full, df_rows.to_frame().T], axis=0).reset_index(drop=True)
 
         df_all_calcs_full = df_all_calcs_full.sort_values(by=['Category', 'Attribute'], ascending=[True, True],
                                                           inplace=False)
-
+        df_all_calcs_full[df_all_calcs_full.isna()] = 'None'
         n = n.strip().replace('/', '-')
-
         df_all_calcs_full.to_csv(r'./output_csv/%s_neighborhood_profiles_by_attribute_2000to%s.csv' %(n, max(years)))
 
 
@@ -367,11 +368,12 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
         if len(alternates) > 0:
             alternates_labels = [x[:-11] for x in alternates]
             for a in alternates_labels:
-                df_rows = df_all_calcs_full[df_all_calcs_full['Attribute'].str.startswith(a)]
+                a_labels = [a, '%s, alternate' % a]
+                df_rows = df_all_calcs_full[df_all_calcs_full['Attribute'].isin(a_labels)]
+                df_rows = df_rows.sort_values(by=['Attribute'])
                 df_rows = df_rows.iloc[0].combine_first(df_rows.iloc[1])
-                df_all_calcs_full = df_all_calcs_full[(df_all_calcs_full['Attribute'].str.startswith(a)) == False]
-                df_all_calcs_full = pd.concat([df_all_calcs_full, df_rows.to_frame().T], axis=0).reset_index(
-                    drop=True)
+                df_all_calcs_full = df_all_calcs_full[(df_all_calcs_full['Attribute'].isin(a_labels)) == False]
+                df_all_calcs_full = pd.concat([df_all_calcs_full, df_rows.to_frame().T], axis=0).reset_index(drop=True)
 
         df_all_calcs_full = df_all_calcs_full.sort_values(by=['Category', 'Attribute'], ascending=[True, True],
                                                           inplace=False)
@@ -382,12 +384,13 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
         if len(alternates) > 0:
             alternates_labels = [x[:-11] for x in alternates]
             for a in alternates_labels:
-                df_rows = df_all_calcs_full_sf[df_all_calcs_full_sf['Attribute'].str.startswith(a)]
+                a_labels = [a, '%s, alternate' % a]
+                df_rows = df_all_calcs_full_sf[df_all_calcs_full_sf['Attribute'].isin(a_labels)]
+                df_rows = df_rows.sort_values(by=['Attribute'])
                 df_rows = df_rows.iloc[0].combine_first(df_rows.iloc[1])
-                df_all_calcs_full_sf = df_all_calcs_full_sf[
-                    (df_all_calcs_full_sf['Attribute'].str.startswith(a)) == False]
-                df_all_calcs_full_sf = pd.concat([df_all_calcs_full_sf, df_rows.to_frame().T], axis=0).reset_index(
-                    drop=True)
+                df_all_calcs_full_sf = df_all_calcs_full_sf[(df_all_calcs_full_sf['Attribute'].isin(a_labels)) == False]
+                df_all_calcs_full_sf = pd.concat([df_all_calcs_full_sf, df_rows.to_frame().T], axis=0).reset_index(drop=True)
+
 
         df_all_calcs_full_sf = df_all_calcs_full_sf.sort_values(by=['Category', 'Attribute'],
                                                                 ascending=[True, True], inplace=False)
@@ -405,6 +408,8 @@ def neighborhood_profiles_vs_citywide(years, geo_lookup_df, output_path='./outpu
             df_comparative = df_comparative[comparative_columns]
         except Exception as e:
             df_comparative = df_comparative
+
+        df_comparative[df_comparative.isna()] = 'None'
 
         n = n.strip().replace('/', '-')
 
